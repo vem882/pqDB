@@ -1,0 +1,2 @@
+- Package PandaQuest's game data as a separate required addon.
+- Include distinct datasets for MoP Classic, Classic Era, TBC Anniversary and WoW Forever.

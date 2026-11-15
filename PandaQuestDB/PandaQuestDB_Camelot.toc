@@ -1,0 +1,21 @@
+## Interface: 16001
+## Title: |cff5fd7ffPanda|rQuest Database
+## Notes: Quest, world and travel data for PandaQuest on WoW Forever
+## Version: 0.2.0
+## Author: vem882
+## IconTexture: Interface\AddOns\PandaQuestDB\Textures\icon.tga
+## X-Website: https://github.com/vem882/pqDB
+## X-License: GPL-3.0
+## X-Curse-Project-ID: 1807827
+## Category: Quests
+## X-Category: Quests & Leveling
+
+Database\Forever\ZoneData.lua
+Database\Forever\Data\Meta.lua
+Database\Forever\Data\Quests.lua
+Database\Forever\Data\Npcs.lua
+Database\Forever\Data\Objects.lua
+Database\Forever\Data\Items.lua
+Database\Forever\Overrides\Wowhead.lua
+Database\Forever\Overrides\Portal.lua
+Database\Export.lua

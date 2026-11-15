@@ -1,0 +1,24 @@
+## Interface: 50504
+## Title: |cff5fd7ffPanda|rQuest Database
+## Notes: Quest, world and travel data for PandaQuest on Mists of Pandaria Classic
+## Version: 0.2.0
+## Author: vem882
+## IconTexture: Interface\AddOns\PandaQuestDB\Textures\icon.tga
+## X-Website: https://github.com/vem882/pqDB
+## X-License: GPL-3.0
+## X-Curse-Project-ID: 1807827
+## Category: Quests
+## X-Category: Quests & Leveling
+## AllowLoadGameType: mists
+
+Database\ZoneData.lua
+Database\Data\Meta.lua
+Database\Data\Quests.lua
+Database\Data\Npcs.lua
+Database\Data\Objects.lua
+Database\Data\Items.lua
+Database\Data\Seed.lua
+Database\Overrides\Wowhead.lua
+Database\Overrides\Portal.lua
+Database\Overrides\Flights.lua
+Database\Export.lua

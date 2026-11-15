@@ -1,0 +1,22 @@
+## Interface: 11509
+## Title: |cff5fd7ffPanda|rQuest Database
+## Notes: Quest, world and travel data for PandaQuest on Classic Era
+## Version: 0.2.0
+## Author: vem882
+## IconTexture: Interface\AddOns\PandaQuestDB\Textures\icon.tga
+## X-Website: https://github.com/vem882/pqDB
+## X-License: GPL-3.0
+## X-Curse-Project-ID: 1807827
+## Category: Quests
+## X-Category: Quests & Leveling
+
+Database\Era\ZoneData.lua
+Database\Era\Data\Meta.lua
+Database\Era\Data\Quests.lua
+Database\Era\Data\Npcs.lua
+Database\Era\Data\Objects.lua
+Database\Era\Data\Items.lua
+Database\Data\Seed.lua
+Database\Era\Overrides\Wowhead.lua
+Database\Era\Overrides\Portal.lua
+Database\Export.lua
