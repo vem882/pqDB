@@ -52,3 +52,5 @@ Gathering, respawn and drop seed data includes material from
 See [PandaBase's source index](https://pd.zroot.it/sources) for supplemental data and credits.
 
 World of Warcraft is a trademark of Blizzard Entertainment. PandaQuest is an independent fan project.
+
+The addon icon combines the PandaQuest logo with the WoW texture `INV_MISC_BOOK_09`. The game artwork belongs to Blizzard Entertainment.
