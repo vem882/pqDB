@@ -2,6 +2,21 @@
 - Include distinct datasets for MoP Classic, Classic Era, TBC Anniversary and WoW Forever.
 Older data syncs: see each version's GitHub release notes and https://pd.zroot.it/changelog
 
+0.2.634
+- database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,326 NPCs, 6 objects
+- npc 46820 - Summoned Water Elemental - updated
+  - coordinates: 18 spawn points added in Hillsbrad Foothills
+- npc 46826 - Scalding Whelp Corpse - updated
+  - coordinates: 2 spawn points added in Badlands
+- npc 46828 - Wild Black Dragon Egg - updated
+  - coordinates: 2 spawn points added in Badlands
+- npc 46829 - Nyxondra's Egg - updated
+  - coordinates: 4 spawn points added in Badlands
+- npc 46833 - Eye of the Watchers - updated
+  - coordinates: 2 spawn points added in Badlands
+- npc 46932 - Minion of Hogger - updated
+  - coordinates: 5 spawn points added in Elwynn Forest
+
 0.2.633
 - database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,320 NPCs, 6 objects
 - database - Classic Era: data from the PandaQuest portal: 3,713 quests, 65 NPCs, 10 objects
