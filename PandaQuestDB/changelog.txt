@@ -2,6 +2,17 @@
 - Include distinct datasets for MoP Classic, Classic Era, TBC Anniversary and WoW Forever.
 Older data syncs: see each version's GitHub release notes and https://pd.zroot.it/changelog
 
+0.2.633
+- database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,320 NPCs, 6 objects
+- database - Classic Era: data from the PandaQuest portal: 3,713 quests, 65 NPCs, 10 objects
+- database - TBC Anniversary: data from the PandaQuest portal: 5,290 quests, 80 NPCs, 7 objects
+- npc 46688 - Rocket Hologram - updated
+  - coordinates: 12 spawn points added in Uldum
+- npc 46843 - Purified Black Dragon Egg - updated
+  - coordinates: 2 spawn points added in Badlands
+- npc 46845 - Wolfoid - updated
+  - coordinates: 2 spawn points added in Silverpine Forest
+
 0.2.632
 - database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,317 NPCs, 6 objects
 - database - Classic Era: data from the PandaQuest portal: 3,713 quests, 64 NPCs, 10 objects
