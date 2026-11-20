@@ -1,0 +1,57 @@
+name: Addon release
+on:
+  pull_request:
+  push:
+    branches: [main]
+  workflow_dispatch:
+permissions:
+  contents: read
+concurrency:
+  group: addon-release-${{ github.ref }}
+  cancel-in-progress: false
+jobs:
+  package:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4.2.2
+        with:
+          fetch-depth: 0
+      - name: Validate and package all game manifests
+        id: package
+        env:
+          ADDON: PandaQuestDB
+          PROJECT: 1807827
+        run: |
+          set -euo pipefail
+          git merge-base --is-ancestor v0.2.624 HEAD
+          count="$(git rev-list --count v0.2.624..HEAD)"
+          version="0.2.$((624 + count))"
+          package="$ADDON-$version.zip"
+          python3 .github/release/package.py "$ADDON" "$PROJECT" "$version" "$package"
+          echo "version=$version" >> "$GITHUB_OUTPUT"
+          echo "package=$package" >> "$GITHUB_OUTPUT"
+      - uses: actions/upload-artifact@v4.4.3
+        with:
+          name: addon-package
+          path: ${{ steps.package.outputs.package }}
+          if-no-files-found: error
+      - name: Publish checked GitHub release
+        if: github.ref == 'refs/heads/main' && github.event_name != 'pull_request'
+        env:
+          GH_TOKEN: ${{ github.token }}
+          PACKAGE: ${{ steps.package.outputs.package }}
+          VERSION: ${{ steps.package.outputs.version }}
+        run: |
+          set -euo pipefail
+          tag="v$VERSION"
+          if gh release view "$tag" --json assets,targetCommitish > release.json 2>/dev/null; then
+            test "$(jq -r .targetCommitish release.json)" = "$GITHUB_SHA"
+            mkdir existing
+            gh release download "$tag" --pattern "$PACKAGE" --dir existing
+            cmp "$PACKAGE" "existing/$PACKAGE"
+          else
+            gh release create "$tag" "$PACKAGE" --target "$GITHUB_SHA" --title "${PACKAGE%.zip}" --generate-notes
+          fi
