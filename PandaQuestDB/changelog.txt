@@ -2,6 +2,16 @@
 - Include distinct datasets for MoP Classic, Classic Era, TBC Anniversary and WoW Forever.
 Older data syncs: see each version's GitHub release notes and https://pd.zroot.it/changelog
 
+0.2.632
+- database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,317 NPCs, 6 objects
+- database - Classic Era: data from the PandaQuest portal: 3,713 quests, 64 NPCs, 10 objects
+- npc 46593 - Doris Chiltonius - updated
+  - coordinates: 1 spawn point added in Orgrimmar
+- npc 46594 - Sergeant Thunderhorn - updated
+  - coordinates: 4 spawn points added in Orgrimmar
+- npc 46595 - Blood Guard Zar'shi - updated
+  - coordinates: 2 spawn points added in Orgrimmar
+
 0.2.629
 - database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,314 NPCs, 6 objects
 - npc 11869 - Ansekhwa - updated
