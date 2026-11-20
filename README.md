@@ -52,3 +52,5 @@ See [PandaBase's source index](https://pd.zroot.it/sources) for supplemental dat
 World of Warcraft is a trademark of Blizzard Entertainment. PandaQuest is an independent fan project.
 
 The addon icon combines the PandaQuest logo with the WoW texture `INV_MISC_BOOK_09`. The game artwork belongs to Blizzard Entertainment.
+
+Each release includes a generated `CHANGELOG.md` in the addon folder. The same added, changed and removed sections appear on GitHub and CurseForge.

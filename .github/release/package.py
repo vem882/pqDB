@@ -1,5 +1,6 @@
 """Validate and package the component's game-specific addon files."""
 
+import hashlib
 import json
 import re
 import subprocess
@@ -7,7 +8,9 @@ import sys
 import zipfile
 from pathlib import Path
 
-addon, project, version, filename = sys.argv[1:]
+from changelog import release_changelog
+
+addon, project, version, filename, notes = sys.argv[1:]
 root = Path(addon)
 tracked = subprocess.check_output(["git", "ls-files", "-z", "--", addon]).decode().split("\0")
 files = {name: Path(name).read_bytes() for name in tracked if name}
@@ -29,6 +32,9 @@ for suffix, interface in interfaces.items():
     assert count == 1, name
     files[name] = toc.encode()
 assert f"{addon}/Textures/icon.tga" in files
+changelog = release_changelog(addon, version)
+files[f"{addon}/CHANGELOG.md"] = changelog
+Path(notes).write_bytes(changelog)
 commit = subprocess.check_output(["git", "rev-parse", "HEAD"], text=True).strip()
 with zipfile.ZipFile(filename, "w", compression=zipfile.ZIP_DEFLATED) as archive:
     for name, content in sorted(files.items()):
@@ -36,4 +42,8 @@ with zipfile.ZipFile(filename, "w", compression=zipfile.ZIP_DEFLATED) as archive
         info.compress_type = zipfile.ZIP_DEFLATED
         info.external_attr = 0o644 << 16
         archive.writestr(info, content, compresslevel=9)
-    archive.comment = json.dumps({"component": commit, "version": version}, sort_keys=True).encode()
+    archive.comment = json.dumps({
+        "component": commit,
+        "version": version,
+        "changelog_sha256": hashlib.sha256(changelog).hexdigest(),
+    }, sort_keys=True).encode()

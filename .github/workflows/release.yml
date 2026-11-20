@@ -30,7 +30,7 @@ jobs:
           count="$(git rev-list --count v0.2.624..HEAD)"
           version="0.2.$((624 + count))"
           package="$ADDON-$version.zip"
-          python3 .github/release/package.py "$ADDON" "$PROJECT" "$version" "$package"
+          python3 .github/release/package.py "$ADDON" "$PROJECT" "$version" "$package" release-notes.md
           echo "version=$version" >> "$GITHUB_OUTPUT"
           echo "package=$package" >> "$GITHUB_OUTPUT"
       - uses: actions/upload-artifact@v4.4.3
@@ -52,6 +52,7 @@ jobs:
             mkdir existing
             gh release download "$tag" --pattern "$PACKAGE" --dir existing
             cmp "$PACKAGE" "existing/$PACKAGE"
+            gh release edit "$tag" --notes-file release-notes.md
           else
-            gh release create "$tag" "$PACKAGE" --target "$GITHUB_SHA" --title "${PACKAGE%.zip}" --generate-notes
+            gh release create "$tag" "$PACKAGE" --target "$GITHUB_SHA" --title "${PACKAGE%.zip}" --notes-file release-notes.md
           fi
