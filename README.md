@@ -38,8 +38,6 @@ guide live in PandaQuest. The main [PandaQuest repository](https://github.com/ve
 builds the version-matched packages from PandaQuest, this repository and
 [pqAuction](https://github.com/vem882/pqAuction).
 
-The English [CurseForge summary and description](docs/curseforge-description.md) are ready to paste.
-This component is published under CurseForge project **1807827**.
 
 ## Data sources and licence
 
