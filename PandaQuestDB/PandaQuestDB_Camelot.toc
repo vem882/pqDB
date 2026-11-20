@@ -18,4 +18,5 @@ Database\Forever\Data\Objects.lua
 Database\Forever\Data\Items.lua
 Database\Forever\Overrides\Wowhead.lua
 Database\Forever\Overrides\Portal.lua
+Database\Forever\Gathering.lua
 Database\Export.lua
