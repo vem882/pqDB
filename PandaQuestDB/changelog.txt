@@ -1,2 +1,10 @@
 - Package PandaQuest's game data as a separate required addon.
 - Include distinct datasets for MoP Classic, Classic Era, TBC Anniversary and WoW Forever.
+Older data syncs: see each version's GitHub release notes and https://pd.zroot.it/changelog
+
+0.2.629
+- database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,314 NPCs, 6 objects
+- npc 11869 - Ansekhwa - updated
+  - coordinates: 5 spawn points added in Thunder Bluff
+- npc 19855 - Sir Maximus Adams - updated
+  - coordinates: 2 spawn points added in Arathi Highlands
