@@ -18083,6 +18083,16 @@ ns.Overrides.wowhead = {
                 "Razor Hill. She teach you more 'bout our history. She teach you the ways of our tribe. " ..
                 "Go to her when you be ready.",
         },
+        [5650] = {
+            description = "Our power comes from darkness and shadow, <name>, but that is not your only " ..
+                "role. You have acknowledged that there is merit in knowing the healing arts. This is " ..
+                "wise. But before you can know the dark, you must also know the light. And for this, I " ..
+                "have a test for you.\n\nNorth of the cemetery is a wounded Deathguard-- Deathguard Kel. " ..
+                "He has protected us from gnolls for some time, and needs healing. But, you must also " ..
+                "fortify his body before he can return to duty. Do both with your spells, and then return " ..
+                "to me.",
+            rewardItems = {{16607, 1}},
+        },
         [5651] = {
             description = "There are many lessons that the Forsaken have learned through " ..
                 "experience--things that some races can only begin to fathom. And although our path lies " ..
