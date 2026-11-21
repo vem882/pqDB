@@ -74632,6 +74632,7 @@ ns.Overrides.wowhead = {
             },
             zoneID = 47,
         },
+        [10828] = {subName = "The Fallen Hope"},
         [10896] = {
             spawns = {[400] = {{37.6, 26.4}, {38.2, 27}, {38.4, 27.6}, {38.6, 27.4}, {38.6, 27.6}}},
             zoneID = 400,
@@ -81510,6 +81511,7 @@ ns.Overrides.wowhead = {
         [70166] = {subName = "Master Demonologist"},
         [70220] = {maxLevel = 90, minLevel = 90},
         [70238] = {maxLevel = 92, minLevel = 92},
+        [70248] = {subName = "Head of Megaera"},
         [70249] = {maxLevel = 92, minLevel = 92},
         [70270] = {subName = "Master Demonologist"},
         [70276] = {maxLevel = 92, minLevel = 92, subName = "Lord of Tempest"},

@@ -10663,6 +10663,15 @@ ns.Overrides.wowhead = {
                 "share a secret: You can find the rods on orcs of the Dragonmaw Clan in the Wetlands.",
             rewardXP = 2450,
         },
+        [1806] = {
+            description = "Why don't we go over to the forge and get started on this? I've been preparing " ..
+                "for your arrival for some time, so it shouldn't take long at all.\n\nWhen we're done, " ..
+                "you'll be far more prepared to defend the Light than you have been, this much I " ..
+                "swear.\n\nI'll be somewhat honest, <name>, seeing the results of your exploits makes me " ..
+                "somewhat envious. But knowing that I can contribute to your adventures in my own " ..
+                "significant way does bring me some joy.",
+            rewardItems = {{6953, 1}},
+        },
         [1818] = {
             description = "I was told Deathguard Dillinger has a job for someone like you. If you're " ..
                 "willing to show your value to the Dark Lady's forces, then report to Dillinger " ..
