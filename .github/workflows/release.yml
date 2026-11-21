@@ -11,7 +11,7 @@ concurrency:
   cancel-in-progress: false
 jobs:
   package:
-    runs-on: ubuntu-latest
+    runs-on: [self-hosted, pandaquest-addon]
     timeout-minutes: 10
     permissions:
       contents: write
