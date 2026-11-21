@@ -10626,6 +10626,16 @@ ns.Overrides.wowhead = {
                 "Tabetha deep in southern Dustwallow Marsh. She will aid you because of our history " ..
                 "together.\n\nAgain, do not come back until you have done both things I've asked.",
         },
+        [1801] = {
+            description = "It will take more than a simple summoning circle to bring forth a felhunter " ..
+                "for you to challenge.\n\nMy three acolytes and I will assist in creating the magic " ..
+                "circles. You require a copy of the Tome of the Cabal, which has been lost to us for some " ..
+                "time. It was written by the first group of warlocks to summon a felhunter " ..
+                "unaided.\n\nPerhaps Jorah Annison can help you with this. He's employed as a " ..
+                "cartographer in the Undercity these days, but still knows more of ancient texts than any " ..
+                "I know.",
+            rewardXP = 610,
+        },
         [1802] = {
             description = "It was lost, but there's some idea as to where it might be found.\n\nThere was " ..
                 "only one copy ever made and it was vandalized at some point, a large portion of it " ..
@@ -29602,6 +29612,14 @@ ns.Overrides.wowhead = {
                 "that I need you to accomplish. Will you do it? Will you seek out Edward on Wyrmscar " ..
                 "Island, northeast of Blood Watch?",
         },
+        [9752] = {
+            description = "You must help me get out of here!\n\nI was gathering herbs nearby when a " ..
+                "handful of these little savages abducted me. I tried to fight them off, but there were " ..
+                "too many of them.\n\nHelp me return to the Cenarion Refuge and away from these cruel " ..
+                "wretches and their vile magic!",
+            rewardChoices = {{25518, 1}, {25517, 1}, {25519, 1}},
+            rewardMoney = 29000,
+        },
         [9753] = {
             description = "We've learned much of our enemies in recent days. The blood elves are led by a " ..
                 "being known as Sironas and plot to destroy us. Ultimately, they seek to enslave O'ros " ..
@@ -30212,6 +30230,15 @@ ns.Overrides.wowhead = {
                 "make armor.\n\nThe dark, scaly hides of the fenclaw thrashers make some of the best " ..
                 "armor Maktu has ever worn. If <name> can bring Maktu some of these hides from the " ..
                 "fenclaw thrashers deep in Serpent Lake, he'll be happy to share some of his armor.",
+            rewardMoney = 31000,
+        },
+        [9835] = {
+            description = "The small band of Broken you see here is a mission from a larger settlement in " ..
+                "Nagrand. The Kurenai, as we call ourselves, are Broken who desire to reunite with our " ..
+                "draenei brothers.\n\nMy group has come here to strengthen Kurenai ties to the draenei of " ..
+                "Telredor.\n\nIf the Ango'rosh ogres have their way, this temple will not stand much " ..
+                "longer. They have cleared the Hewn Bog of its towering mushrooms and draw ever closer to " ..
+                "our refuge. If you would call yourself our friend, aid us in fighting this enemy.",
             rewardMoney = 31000,
         },
         [9836] = {
@@ -31934,6 +31961,15 @@ ns.Overrides.wowhead = {
                 "extraordinaire! I am part of the Nesingwary expedition that came up here from Azeroth in " ..
                 "search of big game. If you are interested in the hunt, perhaps you should visit my crew " ..
                 "at the Nesingwary Safari, due east of here near the border of Zangarmarsh.",
+        },
+        [10115] = {
+            description = "The Kurenai and the draenei don't always see eye to eye, particularly on the " ..
+                "issue of the Lost Ones. We are content to help the Lost Ones who seek us out, but we " ..
+                "won't pursue them. Some draenei are intent on 'redeeming' them all.\n\nHowever, there " ..
+                "are times when even the Lost Ones go too far, such as the Daggerfen. In their village to " ..
+                "the west, they dabble in poisons and deceit, arts that come unnaturally to us.\n\nWe " ..
+                "must put an end to this before the vile Daggerfen can extend their influence.",
+            rewardMoney = 31000,
         },
         [10116] = {
             description = "Wanted: Chieftain Mummaki - leader of the foul and degenerate Lost One tribe " ..
