@@ -34849,6 +34849,15 @@ ns.Overrides.wowhead = {
                 "aid in our fight against Illidan.\n\nAkama's lieutenant at Baa'ri, Oronu the Elder, " ..
                 "receives written orders from him daily. Obtain them and bring them to me.",
         },
+        [10572] = {
+            description = "We cannot permit the Legion to carry out its plan to destroy Wildhammer " ..
+                "Stronghold on their march to the Black Temple.\n\nThere's only one way to stop them, " ..
+                "<name>. You must create an explosive large enough to destroy the Legion's entire " ..
+                "stockpile of infernals at the hold.\n\nThe Fetid Pool near Legion Hold holds an old fel " ..
+                "reaver power core you could use as the base of your device. Search the other wreckage " ..
+                "near the fel reaver for armor plating we might be able to make a casing from.",
+            rewardMoney = 41000,
+        },
         [10573] = {
             description = "From your findings at Legion Hold, we know that the Legion's Shadow Council " ..
                 "allies are producing infernals in the Deathforge. I've dispatched a small scouting party " ..
