@@ -1,5 +1,5 @@
--- AUTO-GENERATED from Questie 12.11.1+v1.1.3 (TBC Anniversary database + corrections from QuestieDB 1.1.3). DO NOT EDIT.
--- Built: 2026-11-19T18:09:34Z. Schema version 1.
+-- AUTO-GENERATED from Questie 12.12.0+v1.1.4 (TBC Anniversary database + corrections from QuestieDB 1.1.4). DO NOT EDIT.
+-- Built: 2026-11-21T18:08:24Z. Schema version 1.
 -- Format: ns.Data.items is a Lua long-bracket string "return { [id] = {...}, ... }" using Questie's positional
 -- itemKeys schema (16 fields). Load with loadstring(ns.Data.items)(). Ids ascending, one entry per line,
 -- trailing nils trimmed, nested tuples positional, spawn tables keyed by areaId.
@@ -3713,7 +3713,7 @@ ns.Data.items = [=[return {
 [5800] = {"Kravel's Parts",nil,nil,nil,nil,nil,nil,nil,1,0,0,12,0},
 [5801] = {"Kraul Guano",{4538,4539},nil,nil,nil,nil,nil,nil,1,0,0,12,0},
 [5802] = {"Delicate Car Parts",nil,nil,nil,nil,nil,nil,nil,1,0,0,12,0},
-[5803] = {"Speck of Dream Dust",{740,741,742,743,744,745,746,14445},nil,nil,nil,nil,nil,nil,1,0,0,12,0},
+[5803] = {"Speck of Dream Dust",{740,741,742,744,745,746,14445},nil,nil,nil,nil,nil,nil,1,0,0,12,0},
 [5804] = {"Goblin Rumors",{},{},nil,nil,nil,nil,nil,1,0,0,12,0,nil,{1117}},
 [5805] = {"Heart of Zeal",{3974,3975,3976,3977,3983,4280,4281,4282,4283,4284,4285,4286,4287,4288,4289,4290,4291,4292,4293,4294,4295,4296,4297,4298,4299,4300,4301,4302,4303,4306,4540,6487},nil,nil,nil,nil,nil,nil,1,0,0,12,0},
 [5806] = {"Fool's Stout",nil,nil,nil,nil,{1127},65536,nil,1,0,0,12,0},
