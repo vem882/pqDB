@@ -2,6 +2,9 @@
 - Include distinct datasets for MoP Classic, Classic Era, TBC Anniversary and WoW Forever.
 Older data syncs: see each version's GitHub release notes and https://pd.zroot.it/changelog
 
+0.2.639
+- database - Classic Era: data from the PandaQuest portal: 3,713 quests, 66 NPCs, 10 objects
+
 0.2.638
 - database - TBC Anniversary: data from the PandaQuest portal: 5,292 quests, 82 NPCs, 7 objects
 
