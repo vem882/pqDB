@@ -2,6 +2,28 @@
 - Include distinct datasets for MoP Classic, Classic Era, TBC Anniversary and WoW Forever.
 Older data syncs: see each version's GitHub release notes and https://pd.zroot.it/changelog
 
+0.2.642
+- database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,344 NPCs, 6 objects
+- npc 14529 - Franklin the Friendly - updated
+  - coordinates: 40 spawn points added in Burning Steppes
+- npc 25051 - Merchant Frostwalker - updated
+  - coordinates: 8 spawn points added in Azuremyst Isle
+  - coordinates: 4 spawn points added in Darkshore
+  - coordinates: 3 spawn points added in Teldrassil
+- npc 27417 - Silverbrook Worgen - updated
+  - coordinates: 40 spawn points added in Grizzly Hills
+- npc 35600 - Arcanist Laniria - updated
+  - coordinates: 9 spawn points added in Ironforge
+- npc 40691 - Stormwind Soldier - updated
+  - coordinates: 3 spawn points added in Kelp'thar Forest
+- npc 53958 - Thrall - updated
+  - coordinates: 4 spawn points added in Molten Front
+- npc 69838 - Arcanis Mechanica - updated
+  - NPC title added (Grand Magister Rommath's Guar...)
+  - NPC level added (9,999)
+- npc 70252 - Arcane Head - updated
+  - NPC title added (Head of Megaera)
+
 0.2.641
 - database - TBC Anniversary: data from the PandaQuest portal: 5,296 quests, 83 NPCs, 7 objects
 
@@ -82,10 +104,3 @@ Older data syncs: see each version's GitHub release notes and https://pd.zroot.i
   - coordinates: 4 spawn points added in Orgrimmar
 - npc 46595 - Blood Guard Zar'shi - updated
   - coordinates: 2 spawn points added in Orgrimmar
-
-0.2.629
-- database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,314 NPCs, 6 objects
-- npc 11869 - Ansekhwa - updated
-  - coordinates: 5 spawn points added in Thunder Bluff
-- npc 19855 - Sir Maximus Adams - updated
-  - coordinates: 2 spawn points added in Arathi Highlands
