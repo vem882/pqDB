@@ -2,6 +2,20 @@
 - Include distinct datasets for MoP Classic, Classic Era, TBC Anniversary and WoW Forever.
 Older data syncs: see each version's GitHub release notes and https://pd.zroot.it/changelog
 
+0.2.636
+- database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,333 NPCs, 6 objects
+- database - TBC Anniversary: data from the PandaQuest portal: 5,290 quests, 82 NPCs, 7 objects
+- npc 11865 - Buliwyf Stonehand - updated
+  - coordinates: 4 spawn points added in Ironforge
+- npc 11868 - Sayoc - updated
+  - coordinates: 4 spawn points added in Orgrimmar
+- npc 46533 - Adarrah - updated
+  - coordinates: 1 spawn point added in Tanaris
+- npc 46536 - Lady Humps - updated
+  - coordinates: 2 spawn points added in Tanaris
+- npc 46539 - Budd - updated
+  - coordinates: 2 spawn points added in Tanaris
+
 0.2.635
 - database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,328 NPCs, 6 objects
 - database - TBC Anniversary: data from the PandaQuest portal: 5,290 quests, 81 NPCs, 7 objects
