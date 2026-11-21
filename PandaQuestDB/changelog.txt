@@ -2,6 +2,14 @@
 - Include distinct datasets for MoP Classic, Classic Era, TBC Anniversary and WoW Forever.
 Older data syncs: see each version's GitHub release notes and https://pd.zroot.it/changelog
 
+0.2.637
+- database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,335 NPCs, 6 objects
+- database - TBC Anniversary: data from the PandaQuest portal: 5,291 quests, 82 NPCs, 7 objects
+- npc 10828 - High General Abbendis - updated
+  - NPC title added (The Fallen Hope)
+- npc 70248 - Arcane Head - updated
+  - NPC title added (Head of Megaera)
+
 0.2.636
 - database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,333 NPCs, 6 objects
 - database - TBC Anniversary: data from the PandaQuest portal: 5,290 quests, 82 NPCs, 7 objects
