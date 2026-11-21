@@ -1,5 +1,9 @@
 # PandaQuest Database
 
+> Versioned quest, world and profession data for [PandaQuest](https://github.com/vem882/pandaquest).
+
+**Related projects:** [PandaQuest](https://github.com/vem882/pandaquest) · [PandaQuest Auction](https://github.com/vem882/pqAuction) · [PandaBase](https://pd.zroot.it)
+
 PandaQuest Database supplies the quests, NPCs, objects, items and zone data used by the
 [PandaQuest addon](https://github.com/vem882/pandaquest). It also includes quest corrections and
 available gathering, respawn, drop and flight data for the supported game versions.
@@ -43,11 +47,19 @@ builds the version-matched packages from PandaQuest, this repository and
 
 PandaQuest Database is distributed under the [GNU General Public License v3](LICENSE).
 The generated quest, NPC, object, item and zone tables draw from
-[Questie](https://github.com/Questie/Questie) and [QuestieDB](https://github.com/Questie/QuestieDB).
+[Questie](https://github.com/Questie/Questie), [QuestieDB](https://github.com/Questie/QuestieDB)
+and the community-observation model documented by
+[QuestieTrace](https://github.com/Questie/QuestieTrace). Thank you to the Questie community for
+its long-running research and data stewardship. PandaQuest transforms compatible data into its
+own versioned database and does not copy Questie code.
 Gathering, respawn and drop seed data includes material from
 [pfQuest](https://github.com/shagu/pfQuest) under its
 [MIT licence](PandaQuestDB/licenses/pfQuest-MIT.txt).
 See [PandaBase's source index](https://pd.zroot.it/sources) for supplemental data and credits.
+
+Validated opt-in PandaBase community observations supplement source data with coordinates, flight
+times, gathering and respawn measurements, and corrections. They are retained with provenance and
+reviewed before becoming shipped data.
 
 World of Warcraft is a trademark of Blizzard Entertainment. PandaQuest is an independent fan project.
 
