@@ -2,6 +2,14 @@
 - Include distinct datasets for MoP Classic, Classic Era, TBC Anniversary and WoW Forever.
 Older data syncs: see each version's GitHub release notes and https://pd.zroot.it/changelog
 
+0.2.635
+- database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,328 NPCs, 6 objects
+- database - TBC Anniversary: data from the PandaQuest portal: 5,290 quests, 81 NPCs, 7 objects
+- npc 10361 - Gruul Darkblade - updated
+  - coordinates: 1 spawn point added in Azshara
+- npc 47050 - Harrison Jones - updated
+  - coordinates: 11 spawn points added in Uldum
+
 0.2.634
 - database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,326 NPCs, 6 objects
 - npc 46820 - Summoned Water Elemental - updated
