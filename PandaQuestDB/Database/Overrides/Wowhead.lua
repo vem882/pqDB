@@ -80572,6 +80572,14 @@ ns.Overrides.wowhead = {
             },
             zoneID = 4755,
         },
+        [35598] = {
+            spawns = {
+                [1519] = {
+                    {80.6, 38}, {81, 37.2}, {82.6, 35}, {83.2, 33.4}, {83.2, 33.6}, {83.6, 34}, {83.6, 34.6},
+                },
+            },
+            zoneID = 1519,
+        },
         [35599] = {
             spawns = {[1657] = {{56.4, 37}, {57.2, 36.4}, {57.2, 37}, {57.6, 36.8}, {66.6, 41.8}}},
             zoneID = 1657,
@@ -81447,6 +81455,7 @@ ns.Overrides.wowhead = {
         [68048] = {maxLevel = 90, minLevel = 90},
         [68049] = {maxLevel = 90, minLevel = 90},
         [68050] = {maxLevel = 90, minLevel = 90},
+        [68069] = {subName = "Head of Megaera"},
         [68084] = {subName = "Regent Lord of Quel'Thalas"},
         [68086] = {subName = "Kirin Tor"},
         [68108] = {subName = "Leader of the Kirin Tor"},
@@ -81455,6 +81464,7 @@ ns.Overrides.wowhead = {
         [68128] = {maxLevel = 90, minLevel = 90, subName = "The Metal Brewmaster"},
         [68130] = {maxLevel = 9999, minLevel = 9999},
         [68150] = {maxLevel = 90, minLevel = 90, subName = "Prince of Stormwind"},
+        [68162] = {subName = "Head of Megaera"},
         [68166] = {maxLevel = 90, minLevel = 90, subName = "SI:7"},
         [68169] = {maxLevel = 90, minLevel = 90, subName = "Champion of Ogudei"},
         [68170] = {subName = "Champion of Ogudei"},
