@@ -1,5 +1,5 @@
--- AUTO-GENERATED from Questie 12.11.1+v1.1.3 (Classic Era database + corrections from QuestieDB 1.1.3). DO NOT EDIT.
--- Built: 2026-11-19T18:09:34Z. Schema version 1.
+-- AUTO-GENERATED from Questie 12.12.0+v1.1.4 (Classic Era database + corrections from QuestieDB 1.1.4). DO NOT EDIT.
+-- Built: 2026-11-21T18:08:24Z. Schema version 1.
 -- Format: ns.Data.quests is a Lua long-bracket string "return { [id] = {...}, ... }" using Questie's positional
 -- questKeys schema (36 fields). Load with loadstring(ns.Data.quests)(). Ids ascending, one entry per line,
 -- trailing nils trimmed, nested tuples positional, spawn tables keyed by areaId.
@@ -533,7 +533,7 @@ ns.Data.quests = [=[return {
 [552] = {"Helcular's Revenge",{{2429}},{{2429}},29,33,178,nil,{"Retrieve Helcular's Rod from the Yeti and bring it back to Novice Thaivand in Tarren Mill."},nil,{nil,nil,{{3708}}},nil,nil,nil,nil,nil,nil,267,nil,nil,nil,nil,553,8,nil,nil,{{68,100}}},
 [553] = {"Helcular's Revenge",{{2429}},{nil,{1767}},29,33,178,nil,{"Charge the Rod of Helcular with the powers of the Flame of Azel, Flame of Veraz and the Flame of Uzel.","","Drive the charged rod into Helcular's grave in Southshore."},nil,{nil,{{1768,"Flame of Azel charged"},{1769,"Flame of Veraz charged"},{1770,"Flame of Uzel charged"}}},3710,nil,{552},nil,nil,nil,267,nil,nil,nil,nil,nil,nil,nil,nil,{{68,150}}},
 [554] = {"Stormpike's Deciphering",{{2277}},{{1356}},28,40,77,nil,{"Take the Ensorcelled Parchment to Prospector Stormpike in Ironforge."},nil,nil,3706,nil,{551},nil,nil,nil,36,nil,nil,nil,nil,nil,nil,nil,nil,{{47,100}}},
-[555] = {"Soothing Turtle Bisque",{{2430}},{{2430}},28,31,77,nil,{"Bring 10 pieces of Turtle Meat and some Soothing Spices to Chef Jessen in Southshore."},nil,{nil,nil,{{3712},{3713}}},nil,nil,nil,nil,nil,nil,267,nil,nil,nil,nil,nil,8,nil,nil,{{72,100}}},
+[555] = {"Soothing Turtle Bisque",{{2430}},{{2430}},28,31,77,nil,{"Bring 10 pieces of Turtle Meat and some Soothing Spices to Chef Jessen in Southshore."},nil,{nil,nil,{{3712},{3713}}},nil,nil,nil,nil,nil,{7321},267,nil,nil,nil,nil,nil,8,nil,nil,{{72,100}}},
 [556] = {"Stone Tokens",{{2437}},{{2437}},30,32,178,nil,{"Bring 10 Worn Stone Tokens to Keeper Bel'varil in Tarren Mill."},nil,{nil,nil,{{3714}}},nil,nil,nil,nil,nil,nil,267,nil,nil,nil,nil,557,8,nil,nil,{{68,100}}},
 [557] = {"Bracers of Binding",{{2437}},{{2437}},30,34,178,nil,{"Bring 4 Bracers of Earth Binding to Keeper Bel'varil in Tarren Mill."},nil,{nil,nil,{{3715}}},nil,nil,{556},nil,nil,nil,267,nil,nil,nil,nil,nil,8,nil,nil,{{68,100}}},
 [558] = {"Jaina's Autograph",{{14305}},{{14305}},10,60,77,nil,{"Travel to Theramore to see about getting Lady Jaina Proudmoore's autograph for your ward."},nil,{nil,nil,{{18642,nil,5}}},nil,{1687,1479,1558},nil,{},{4822},nil,-284,nil,nil,nil,{18598},nil,nil,nil,nil,{{469,75}}},
@@ -1244,7 +1244,7 @@ ns.Data.quests = [=[return {
 [1429] = {"The Atal'ai Exile",{{1443}},{{5598}},38,44,178,nil,{"Bring the Bundle of Atal'ai Artifacts to the Atal'ai Exile in the Hinterlands."},nil,nil,6193,nil,{1424},nil,nil,nil,8,nil,nil,nil,nil,1444,nil,nil,nil,{}},
 [1430] = {"Fresh Meat",{{5591}},{{5591}},35,44,178,nil,{"Bring 10 Monstrous Crawler Legs to Dar in the Swamp of Sorrows."},nil,{nil,nil,{{6184}}},nil,nil,nil,nil,nil,nil,8,nil,nil,nil,nil,nil,8,nil,nil,{{76,100}}},
 [1431] = {"Alliance Relations",{{5639}},{{5640}},30,30,178,nil,{"Speak to Keldran in Orgrimmar."},nil,nil,nil,nil,nil,nil,nil,nil,1637,nil,nil,nil,nil,1432,8,nil,nil,{{76,25}}},
-[1432] = {"Alliance Relations",{{5640}},{{5641}},30,30,178,nil,{"Speak to Takata Steelblade in Desolace."},nil,nil,nil,nil,{1431},nil,nil,nil,1637,nil,nil,nil,nil,1433,8,nil,nil,{{76,50}}},
+[1432] = {"Alliance Relations",{{5640}},{{5641}},30,30,178,nil,{"Speak to Takata Steelblade in Desolace."},nil,nil,nil,nil,{1431},nil,nil,nil,1637,nil,nil,nil,nil,0,8,nil,nil,{{76,50}}},
 [1433] = {"Alliance Relations",{{5641}},{{4498}},30,33,178,nil,{"Speak to Maurin Bonesplitter in Desolace."},nil,nil,nil,nil,{1432},nil,nil,nil,1637,nil,nil,nil,nil,1435,8,nil,nil,{}},
 [1434] = {"Befouled by Satyr",{{5641}},{{5641}},25,33,178,nil,{"Slay 7 Hatefury Rogues, 7 Hatefury Felsworn, 7 Hatefury Betrayers, and 7 Hatefury Hellcallers, and return to Takata Steelblade in Desolace."},nil,{{{4670},{4672},{4673},{4675}}},nil,nil,{1432},nil,nil,nil,1637,nil,nil,nil,nil,nil,8,nil,nil,{{68,100}}},
 [1435] = {"The Burning of Spirits",{{4498}},{{4498}},25,33,178,nil,{"Return the Burning Gem and 15 Infused Burning Gems to Maurin Bonesplitter in Desolace."},nil,{nil,nil,{{6435}}},6436,nil,{1433},nil,nil,nil,1637,nil,nil,nil,nil,nil,nil,nil,nil,{{68,100}}},
@@ -1370,7 +1370,7 @@ ns.Data.quests = [=[return {
 [1656] = {"A Task Unfinished",{{6775}},{{6747}},1,5,178,nil,{"Bring the Bundle of Furs to Innkeeper Kauth in Bloodhoof Village."},nil,nil,7626,nil,nil,nil,nil,nil,220,nil,nil,nil,nil,nil,nil,nil,nil,{{81,25}}},
 [1657] = {"Stinking Up Southshore",{{15197}},{{15197}},25,60,178,nil,{"Toss three Forsaken Stink Bombs into the heart of Southshore in Hillsbrad, and return to Darkcaller Yanka at the Wickerman Festival in Tirisfal Glade."},nil,{{{15415,nil,3}}},20387,nil,nil,nil,nil,nil,-22,nil,nil,nil,nil,nil,nil,nil,nil,{{68,150}}},
 [1658] = {"Crashing the Wickerman Festival",{{15199}},{{15199}},25,60,77,nil,{"Locate the Forsaken's Wickerman Festival in Tirisfal Glade. Return to Sergeant Hartman in Southshore once you've done so."},{"Scout out the Forsaken's Wickerman Festival.",{[85]={{55.48,69.85}}}},nil,nil,nil,nil,nil,nil,nil,-22,nil,nil,nil,nil,nil,4,2,nil,{{469,100}}},
-[1661] = {"The Tome of Nobility",{{6171}},{{6171}},40,40,5,2,{"Speak to Duthorian Rall in Stormwind."},nil,nil,nil,nil,nil,nil,nil,{4485,4486},-141,nil,nil,nil,nil,nil,8,nil,nil,{}},
+[1661] = {"The Tome of Nobility",{{6171}},{{6171}},40,40,5,2,{"Speak to Duthorian Rall in Stormwind."},nil,nil,nil,nil,nil,nil,nil,nil,-141,nil,nil,nil,nil,nil,8,nil,nil,{},nil,{4485,4486}},
 [1665] = {"Bartleby's Mug",{{6090}},{{6089}},10,10,77,1,{"Bring Bartleby's Mug to Burlguard"},nil,nil,6781,nil,{1640},nil,nil,nil,-81,nil,nil,nil,nil,1666,nil,nil,nil,{}},
 [1666] = {"Marshal Haggard",{{6089}},{{294}},10,10,77,1,{"Speak with Marshal Haggard."},nil,nil,nil,nil,{1665},nil,nil,nil,-81,nil,nil,nil,nil,1667,8,nil,nil,{}},
 [1667] = {"Dead-tooth Jack",{{294}},{{294}},10,10,77,1,{"Retrieve Haggard's Badge from Dead-tooth Jack's camp, and return to Marshal Haggard."},nil,{nil,nil,{{6782}}},nil,nil,{1666},nil,nil,nil,-81,nil,nil,nil,{6783},nil,8,nil,nil,{}},
@@ -2008,7 +2008,7 @@ ns.Data.quests = [=[return {
 [3961] = {"Linken's Adventure",{{9117}},{{8737}},47,54,0,nil,{"Take the Silver Totem of Aquementas to Linken in Marshal's Refuge."},nil,nil,11522,nil,{4005},nil,nil,nil,490,nil,nil,nil,nil,3962,nil,nil,nil,{}},
 [3962] = {"It's Dangerous to Go Alone",{{8737}},{{8737}},47,56,0,nil,{"Travel to Fire Plume Ridge, south of Marshal's Refuge.","","Find Blazerunner and use the totem to remove his protective aura. Once he has been defeated, acquire the Golden Flame from the cave."},nil,{{{9376}},nil,{{11179}}},11522,nil,{3961},nil,nil,nil,490,nil,nil,nil,nil,nil,nil,nil,nil,{}},
 [3981] = {"Commander Gor'shak",{{9081}},{{9020}},48,52,178,nil,{"Find Commander Gor'shak in Blackrock Depths.","","You recall that the crudely drawn picture of the orc included bars drawn over the portrait. Perhaps you should search for a prison of some sort."},nil,nil,nil,nil,{3906},nil,nil,nil,1584,nil,nil,nil,nil,3982,8,nil,nil,{{76,100}}},
-[3982] = {"What Is Going On?",{{9020}},{{9020}},48,54,178,nil,{"Defend Gor'shak."},nil,{{{9020,nil,3}}},nil,nil,{3981},nil,nil,nil,1584,nil,nil,nil,nil,4001,2,3,nil,{{76,100}}},
+[3982] = {"What Is Going On?",{{9020}},{{9020}},48,54,178,nil,{"Defend Gor'shak."},nil,{{{9020,nil,3}}},nil,nil,{3981},nil,nil,nil,1584,nil,nil,nil,nil,4001,2,0,nil,{{76,100}}},
 [4001] = {"What Is Going On?",{{9020}},{{4949}},48,54,178,nil,{"Speak with Kharan Mighthammer and gather information about Princess Moira Bronzebeard's kidnapping. Take that information to Thrall in Orgrimmar.","","You recall Gor'shak mentioning that Kharan is being held in a cell nearby.",""},nil,{{{9021,nil,5}}},nil,nil,{3982},nil,nil,nil,1584,nil,nil,nil,nil,4002,10,2,nil,{{76,150}}},
 [4002] = {"The Eastern Kingdom",{{4949}},{{4949}},48,54,178,nil,{"Speak with Thrall if you are prepared to take on the mission he has planned."},nil,nil,nil,nil,{4001},nil,nil,nil,1584,nil,nil,nil,nil,4003,8,nil,nil,{}},
 [4003] = {"The Royal Rescue",{{4949}},{{8929}},48,59,178,nil,{"Slay Emperor Dagran Thaurissan and free Princess Moira Bronzebeard from his evil spell. ",""},nil,{{{9019}}},nil,nil,{4002},nil,nil,nil,1584,nil,nil,nil,nil,4004,8,nil,nil,{}},
@@ -2155,8 +2155,8 @@ ns.Data.quests = [=[return {
 [4482] = {"Libram of Tenacity",{{9836}},{{9836}},50,55,0,nil,nil,nil,{nil,nil,{{11754},{11734},{11564},{11753}}},nil,nil,nil,nil,nil,nil,46,nil,nil,nil,nil,nil,8,1,nil,{}},
 [4483] = {"Libram of Resilience",{{9836}},{{9836}},50,55,0,nil,nil,nil,{nil,nil,{{11754},{11567},{11751},{11736}}},nil,nil,nil,nil,nil,nil,46,nil,nil,nil,nil,nil,8,1,nil,{}},
 [4484] = {"Libram of Voracity",{{9836}},{{9836}},50,55,0,nil,nil,nil,{nil,nil,{{11754},{11737},{11951},{11563}}},nil,nil,nil,nil,nil,nil,46,nil,nil,nil,nil,nil,8,1,nil,{}},
-[4485] = {"The Tome of Nobility",{{6179}},{{6171}},40,40,5,2,{"Speak to Duthorian Rall in Stormwind."},nil,nil,nil,nil,nil,nil,nil,{1661,4486},-141,nil,nil,nil,nil,nil,8,nil,nil,{}},
-[4486] = {"The Tome of Nobility",{{5149}},{{6171}},40,40,5,2,{"Speak to Duthorian Rall in Stormwind."},nil,nil,nil,nil,nil,nil,nil,{1661,4485},-141,nil,nil,nil,nil,nil,8,nil,nil,{}},
+[4485] = {"The Tome of Nobility",{{6179}},{{6171}},40,40,5,2,{"Speak to Duthorian Rall in Stormwind."},nil,nil,nil,nil,nil,nil,nil,{4486},-141,nil,nil,nil,nil,1661,8,nil,nil,{},1661},
+[4486] = {"The Tome of Nobility",{{5149}},{{6171}},40,40,5,2,{"Speak to Duthorian Rall in Stormwind."},nil,nil,nil,nil,nil,nil,nil,{4485},-141,nil,nil,nil,nil,1661,8,nil,nil,{},1661},
 [4487] = {"Summon Felsteed",{{5172}},{{6251}},40,40,77,256,{"Speak to Strahad Farsan in Ratchet."},nil,nil,nil,nil,nil,nil,nil,{3631,4488,4489},-61,nil,nil,nil,nil,4490,8,nil,nil,{}},
 [4488] = {"Summon Felsteed",{{461}},{{6251}},40,40,77,256,{"Speak to Strahad Farsan in Ratchet."},nil,nil,nil,nil,nil,nil,nil,{3631,4487,4489},-61,nil,nil,nil,nil,4490,8,nil,nil,{}},
 [4489] = {"Summon Felsteed",{{4563}},{{6251}},40,40,178,256,{"Speak to Strahad Farsan in Ratchet."},nil,nil,nil,nil,nil,nil,nil,{3631,4487,4488},-61,nil,nil,nil,nil,4490,8,nil,nil,{}},

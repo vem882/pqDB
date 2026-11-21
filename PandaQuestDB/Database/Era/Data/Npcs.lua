@@ -1,5 +1,5 @@
--- AUTO-GENERATED from Questie 12.11.1+v1.1.3 (Classic Era database + corrections from QuestieDB 1.1.3). DO NOT EDIT.
--- Built: 2026-11-19T18:09:34Z. Schema version 1.
+-- AUTO-GENERATED from Questie 12.12.0+v1.1.4 (Classic Era database + corrections from QuestieDB 1.1.4). DO NOT EDIT.
+-- Built: 2026-11-21T18:08:24Z. Schema version 1.
 -- Format: ns.Data.npcs is a Lua long-bracket string "return { [id] = {...}, ... }" using Questie's positional
 -- npcKeys schema (15 fields; waypoints = {[areaId] = { {{x,y},...} polylines }}). Load with loadstring(ns.Data.npcs)(). Ids ascending, one entry per line,
 -- trailing nils trimmed, nested tuples positional, spawn tables keyed by areaId.
@@ -1939,8 +1939,8 @@ ns.Data.npcs = [=[return {
 [2423] = {"Lord Aliden Perenolde",1522,1522,41,41,0,{[36]={{39.32,14.58}}},nil,36,nil,nil,16,nil,nil,0},
 [2424] = {"Test Banker",4370,4370,62,62,0,nil,nil,0,nil,nil,55,"A",nil,0},
 [2425] = {"Varimathras",518000,518000,62,62,3,{[1497]={{56.25,92.2}}},nil,1497,{1048,5725,6145,6521},{550,1048,1978,5725,6144,6521,6522},68,"H",nil,3},
-[2427] = {"Jailor Eston",664,664,24,24,0,{[267]={{79.6,41.83}}},nil,267,nil,nil,16,nil,nil,0},
-[2428] = {"Jailor Marlgen",664,664,24,24,0,{[267]={{79.49,40.57}}},nil,267,nil,nil,16,nil,nil,0},
+[2427] = {"Jailor Eston",664,664,24,24,0,{[267]={{79.6,41.83},{75.29,41.73}}},nil,267,nil,nil,16,nil,nil,0},
+[2428] = {"Jailor Marlgen",664,664,24,24,0,{[267]={{79.49,40.57},{78,40.16}}},nil,267,nil,nil,16,nil,nil,0},
 [2429] = {"Novice Thaivand",1002,1002,30,30,0,{[267]={{63.88,19.66}}},nil,267,{552,553},{552},68,"H",nil,2},
 [2430] = {"Chef Jessen",1342,1342,35,35,0,{[267]={{51.89,58.68}}},nil,267,{555},{555},12,"A",nil,2},
 [2431] = {"Jailor Borhuin",1536,1536,37,37,0,{[36]={{60.4,43.8},{60.8,43.6},{61,43.4},{61.8,40.6},{62.4,40.2},{62.6,40.2},{63,43.4},{63.2,43.8}}},nil,36,nil,nil,16,nil,nil,0},

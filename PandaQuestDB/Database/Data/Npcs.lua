@@ -1,5 +1,5 @@
--- AUTO-GENERATED from Questie 12.11.1+v1.1.3 (MoP database + corrections from QuestieDB 1.1.3). DO NOT EDIT.
--- Built: 2026-11-19T18:09:34Z. Schema version 1.
+-- AUTO-GENERATED from Questie 12.12.0+v1.1.4 (MoP database + corrections from QuestieDB 1.1.4). DO NOT EDIT.
+-- Built: 2026-11-21T18:08:24Z. Schema version 1.
 -- Format: ns.Data.npcs is a Lua long-bracket string "return { [id] = {...}, ... }" using Questie's positional
 -- npcKeys schema (15 fields; waypoints = {[areaId] = { {{x,y},...} polylines }}). Load with loadstring(ns.Data.npcs)(). Ids ascending, one entry per line,
 -- trailing nils trimmed, nested tuples positional, spawn tables keyed by areaId.
@@ -1950,8 +1950,8 @@ ns.Data.npcs = [=[return {
 [2423] = {"Lord Aliden Perenolde",1522,1522,41,41,0,nil,nil,0,nil,nil,14,nil,nil,0},
 [2424] = {"Guild Banker",25,27,1,1,0,nil,nil,0,nil,nil,35,"AH","Guild Banker",0},
 [2425] = {"Varimathras",684400,684400,73,73,3,nil,nil,0,{1048,5725,6145},{1048,1978,5725},68,"H",nil,1},
-[2427] = {"Jailor Eston",664,664,24,24,0,nil,nil,0,nil,nil,472,nil,nil,0},
-[2428] = {"Jailor Marlgen",664,664,24,24,0,nil,{[267]={{{79.68,40.55},{79.8,40.65},{80.06,40.52},{80.18,39.66},{79.82,39.13},{79.52,39.03},{79.23,40.11},{79.28,40.6},{79.48,40.61}}}},0,nil,nil,472,nil,nil,0},
+[2427] = {"Jailor Eston",664,664,24,24,0,{[267]={{75.29,41.73}}},nil,0,nil,nil,472,nil,nil,0},
+[2428] = {"Jailor Marlgen",664,664,24,24,0,{[267]={{78,40.16}}},{[267]={{{79.68,40.55},{79.8,40.65},{80.06,40.52},{80.18,39.66},{79.82,39.13},{79.52,39.03},{79.23,40.11},{79.28,40.6},{79.48,40.61}}}},0,nil,nil,472,nil,nil,0},
 [2429] = {"Novice Thaivand",1003,1003,30,30,0,{[267]={{57.16,45.13}}},nil,267,nil,{552},68,"H",nil,0},
 [2430] = {"Chef Jessen",1342,1342,35,35,0,nil,nil,0,nil,{555},12,"A",nil,0},
 [2431] = {"Jailor Borhuin",1536,1536,37,37,0,{},nil,0,nil,nil,87,nil,nil,0},

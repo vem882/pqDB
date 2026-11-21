@@ -2,6 +2,39 @@
 - Include distinct datasets for MoP Classic, Classic Era, TBC Anniversary and WoW Forever.
 Older data syncs: see each version's GitHub release notes and https://pd.zroot.it/changelog
 
+0.2.649
+- database - rebuilt from Questie 12.12.0+v1.1.4 (was 12.11.1+v1.1.3)
+- database - Classic Era rebuilt from Questie 12.12.0+v1.1.4 (was 12.11.1+v1.1.3)
+- database - TBC Anniversary rebuilt from Questie 12.12.0+v1.1.4 (was 12.11.1+v1.1.3)
+- database - WoW Forever rebuilt from Questie 12.12.0+v1.1.4 (was 12.11.1+v1.1.3)
+- database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,346 NPCs, 6 objects
+- quest 1661 - The Tome of Nobility - updated
+  - exclusive quests: -2
+  - breadcrumb quests: +2
+- quest 3982 - What Is Going On? - updated
+  - data rewritten, nothing a player sees changed
+- quest 4485 - The Tome of Nobility - updated
+  - exclusive quests: -2
+  - breadcrumb target added
+- quest 4486 - The Tome of Nobility - updated
+  - exclusive quests: -2
+  - breadcrumb target added
+- npc 2427 - Jailor Eston - updated
+  - coordinates in Hillsbrad Foothills: 1 spawn point refined, 9 removed
+- npc 2428 - Jailor Marlgen - updated
+  - coordinates in Hillsbrad Foothills: 1 spawn point refined, 7 removed
+- object 177274 - Moonwell - updated
+  - coordinates: 1 spawn point removed in Darkshore
+- object 177278 - Moonwell - updated
+  - coordinates: 4 spawn points removed in Teldrassil
+  - coordinates: 1 spawn point removed in Ashenvale
+- object 177280 - Moonwell - updated
+  - coordinates: 1 spawn point removed in Darkshore
+- item 5803 - Speck of Dream Dust - updated
+  - dropped by NPCs: -1
+- quest 1432 - Alliance Relations - fixed
+  - next quest in the chain removed
+
 0.2.645
 - database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,348 NPCs, 6 objects
 - npc 35598 - Arcanist Paharin - updated
@@ -82,18 +115,3 @@ Older data syncs: see each version's GitHub release notes and https://pd.zroot.i
   - coordinates: 1 spawn point added in Azshara
 - npc 47050 - Harrison Jones - updated
   - coordinates: 11 spawn points added in Uldum
-
-0.2.634
-- database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,326 NPCs, 6 objects
-- npc 46820 - Summoned Water Elemental - updated
-  - coordinates: 18 spawn points added in Hillsbrad Foothills
-- npc 46826 - Scalding Whelp Corpse - updated
-  - coordinates: 2 spawn points added in Badlands
-- npc 46828 - Wild Black Dragon Egg - updated
-  - coordinates: 2 spawn points added in Badlands
-- npc 46829 - Nyxondra's Egg - updated
-  - coordinates: 4 spawn points added in Badlands
-- npc 46833 - Eye of the Watchers - updated
-  - coordinates: 2 spawn points added in Badlands
-- npc 46932 - Minion of Hogger - updated
-  - coordinates: 5 spawn points added in Elwynn Forest
