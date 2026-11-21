@@ -16,7 +16,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: actions/checkout@v4.2.2
+      - uses: actions/checkout@v7.0.1
         with:
           fetch-depth: 0
       - name: Validate and package all game manifests
@@ -33,7 +33,7 @@ jobs:
           python3 .github/release/package.py "$ADDON" "$PROJECT" "$version" "$package" release-notes.md
           echo "version=$version" >> "$GITHUB_OUTPUT"
           echo "package=$package" >> "$GITHUB_OUTPUT"
-      - uses: actions/upload-artifact@v4.4.3
+      - uses: actions/upload-artifact@v7.0.2
         with:
           name: addon-package
           path: ${{ steps.package.outputs.package }}
