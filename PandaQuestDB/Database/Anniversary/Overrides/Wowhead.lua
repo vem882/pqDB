@@ -13519,6 +13519,15 @@ ns.Overrides.wowhead = {
             description = "<Dorius groans.>\n\nI'm badly injured, <race>. Feel... light headed... World " ..
                 "spinning... Bleeding... internally.\n\nI must get back to Ironforge. Help me, <name>.",
         },
+        [3368] = {
+            description = "Brother,\n\nIf you are reading this letter, I am no more. How it got to you, I " ..
+                "do not know, but thank and reward the ones responsible.\n\nAbout the stones: They exist " ..
+                "and the Dark Irons have them in their possession. Their leader, Lathoric the Black, is " ..
+                "using the power of the stones to enslave my excavation team. They were taken to the " ..
+                "cauldron. Their minds are twisted, working night and day to complete something called " ..
+                "Obsidion.\n\nHelp them, brother. It is the final wish of a dead man.\n\n-Dorius",
+            rewardMoney = 13000,
+        },
         [3369] = {
             description = "This shard holds great secrets; it is the pure essence of the Emerald Dream. " ..
                 "However, what I see in this shard is not a dream; one would call this sort of a vision a " ..
