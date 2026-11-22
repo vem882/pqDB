@@ -8142,6 +8142,14 @@ ns.Overrides.wowhead = {
                 "your while.",
             rewardChoices = {{6748, 1}, {6750, 1}, {6749, 1}},
         },
+        [1145] = {
+            description = "Many travelers who've come through the Crossroads helped me gather eggs from " ..
+                "the Field of Giants, and many of them have tales of how deadly the creatures are. I've " ..
+                "heard enough to consider them insects a much larger threat than my masters first " ..
+                "thought.\n\nI need a courier to travel to Orgrimmar to meet Belgrom Rockmaul. It be no " ..
+                "simple matter, and someone who would take the task seriously should go.\n\nBelgrom " ..
+                "usually be found outside the warriors' guild house.",
+        },
         [1146] = {
             description = "So, Korran has come to a similar conclusion about these insects--they seem to " ..
                 "be a larger threat than we assumed.\n\nA few days ago a hunter returned to me from " ..
@@ -21566,6 +21574,15 @@ ns.Overrides.wowhead = {
                 "inside itself.\n\nGo to Zul'Gurub and bring back the Paragons of Power from the " ..
                 "Gurubashi. Learn what it means to be the confessor, and preserve us from evil.",
             rewardItems = {{19843, 1}},
+        },
+        [8062] = {
+            description = "In the dark times after the fall of the Gurubashi Empire, Zandalar predators " ..
+                "used their prowess to provide sustenance for the tribe. Hunters claim to be much like " ..
+                "our tribe's predators - to seek the hunt is to embody the essence of the predator, yes. " ..
+                "Your hunt in Zul'Gurub, however, will show us how you truly rate amongst our finest " ..
+                "predators.\n\nBring to me a sampling of the Paragons of Power from within Zul'Gurub. Do " ..
+                "so, and you'll take first steps in becoming the penultimate predator.",
+            rewardItems = {{19833, 1}},
         },
         [8063] = {
             description = "The madcaps of Zandalar are similar to rogues, but above all else they embrace " ..
@@ -37069,6 +37086,16 @@ ns.Overrides.wowhead = {
                 "warriors took up arms and with little preparation pursued the spiders.\n\nWe have not " ..
                 "seen the captives or our hunting parties since. We hope that some may still be alive, " ..
                 "perhaps imprisoned by the spiders. Our numbers are few. Will you search for our people?",
+            rewardMoney = 33000,
+        },
+        [10874] = {
+            description = "Terokk's perch, Skettis, looms above the Bone Wastes to the east. At the base " ..
+                "of Skettis lies Veil Shalas, the most formidable of Terokk's colonies. It is through the " ..
+                "stronghold of Veil Shalas that Terokk's forward sages wage war against the Light.\n\nThe " ..
+                "evil-doers of Shalas communicate with their master using a complex system of magical " ..
+                "signal fires. Travel to the east, <race>, and extinguish the fires. Once Veil Shalas is " ..
+                "silenced, we can begin to plot the fall of Skettis.\n\nBut I get ahead of myself.",
+            rewardChoices = {{25966, 1}, {25965, 1}, {25963, 1}},
             rewardMoney = 33000,
         },
         [10875] = {

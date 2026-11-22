@@ -2,6 +2,9 @@
 - Include distinct datasets for MoP Classic, Classic Era, TBC Anniversary and WoW Forever.
 Older data syncs: see each version's GitHub release notes and https://pd.zroot.it/changelog
 
+0.2.651
+- database - TBC Anniversary: data from the PandaQuest portal: 5,300 quests, 85 NPCs, 7 objects
+
 0.2.650
 - database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,350 NPCs, 6 objects
 - database - TBC Anniversary: data from the PandaQuest portal: 5,297 quests, 85 NPCs, 7 objects
@@ -106,17 +109,3 @@ Older data syncs: see each version's GitHub release notes and https://pd.zroot.i
   - NPC title added (The Fallen Hope)
 - npc 70248 - Arcane Head - updated
   - NPC title added (Head of Megaera)
-
-0.2.636
-- database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,333 NPCs, 6 objects
-- database - TBC Anniversary: data from the PandaQuest portal: 5,290 quests, 82 NPCs, 7 objects
-- npc 11865 - Buliwyf Stonehand - updated
-  - coordinates: 4 spawn points added in Ironforge
-- npc 11868 - Sayoc - updated
-  - coordinates: 4 spawn points added in Orgrimmar
-- npc 46533 - Adarrah - updated
-  - coordinates: 1 spawn point added in Tanaris
-- npc 46536 - Lady Humps - updated
-  - coordinates: 2 spawn points added in Tanaris
-- npc 46539 - Budd - updated
-  - coordinates: 2 spawn points added in Tanaris
