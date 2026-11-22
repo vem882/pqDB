@@ -2,6 +2,17 @@
 - Include distinct datasets for MoP Classic, Classic Era, TBC Anniversary and WoW Forever.
 Older data syncs: see each version's GitHub release notes and https://pd.zroot.it/changelog
 
+0.2.653
+- database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,354 NPCs, 6 objects
+- npc 47102 - Tailgun - updated
+  - coordinates: 1 spawn point added in Uldum
+- npc 47112 - Mantaur 2 - updated
+  - coordinates: 1 spawn point added in Uldum
+- npc 47157 - Theldurin the Lost - updated
+  - coordinates: 5 spawn points added in Badlands
+- npc 53290 - Arch Druid Fandral Staghelm - updated
+  - coordinates: 3 spawn points added in Ashenvale
+
 0.2.652
 - database - TBC Anniversary: data from the PandaQuest portal: 5,301 quests, 85 NPCs, 7 objects
 
@@ -101,6 +112,3 @@ Older data syncs: see each version's GitHub release notes and https://pd.zroot.i
 
 0.2.639
 - database - Classic Era: data from the PandaQuest portal: 3,713 quests, 66 NPCs, 10 objects
-
-0.2.638
-- database - TBC Anniversary: data from the PandaQuest portal: 5,292 quests, 82 NPCs, 7 objects
