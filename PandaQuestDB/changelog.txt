@@ -2,6 +2,19 @@
 - Include distinct datasets for MoP Classic, Classic Era, TBC Anniversary and WoW Forever.
 Older data syncs: see each version's GitHub release notes and https://pd.zroot.it/changelog
 
+0.2.650
+- database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,350 NPCs, 6 objects
+- database - TBC Anniversary: data from the PandaQuest portal: 5,297 quests, 85 NPCs, 7 objects
+- npc 32392 - Plagued Felbeast - updated
+  - coordinates: 40 spawn points added in Undercity
+  - coordinates: 9 spawn points added in Tirisfal Glades
+- npc 47482 - Jora "Nobbly" Wildwing - updated
+  - coordinates: 2 spawn points added in Twilight Highlands
+- npc 50346 - Ronak - updated
+  - coordinates: 3 spawn points added in Winterspring
+- npc 68633 - Archmage Aethas Sunreaver - updated
+  - NPC level added (9,999)
+
 0.2.649
 - database - rebuilt from Questie 12.12.0+v1.1.4 (was 12.11.1+v1.1.3)
 - database - Classic Era rebuilt from Questie 12.12.0+v1.1.4 (was 12.11.1+v1.1.3)
@@ -107,11 +120,3 @@ Older data syncs: see each version's GitHub release notes and https://pd.zroot.i
   - coordinates: 2 spawn points added in Tanaris
 - npc 46539 - Budd - updated
   - coordinates: 2 spawn points added in Tanaris
-
-0.2.635
-- database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,328 NPCs, 6 objects
-- database - TBC Anniversary: data from the PandaQuest portal: 5,290 quests, 81 NPCs, 7 objects
-- npc 10361 - Gruul Darkblade - updated
-  - coordinates: 1 spawn point added in Azshara
-- npc 47050 - Harrison Jones - updated
-  - coordinates: 11 spawn points added in Uldum
