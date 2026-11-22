@@ -2,6 +2,21 @@
 - Include distinct datasets for MoP Classic, Classic Era, TBC Anniversary and WoW Forever.
 Older data syncs: see each version's GitHub release notes and https://pd.zroot.it/changelog
 
+0.2.659
+- database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,364 NPCs, 6 objects
+- npc 43498 - Moonshadow - updated
+  - coordinates: 2 spawn points added in Stonetalon Mountains
+- npc 51545 - Explorer's League Scout - updated
+  - coordinates: 1 spawn point added in Howling Fjord
+- npc 53913 - Arch Druid Hamuul Runetotem - updated
+  - coordinates: 5 spawn points added in Molten Front
+- npc 57861 - Blackhowl Bloodhound - updated
+  - coordinates: 9 spawn points added in Ruins of Gilneas
+- npc 58501 - Ren Firetongue - updated
+  - coordinates: 1 spawn point added in Vale of Eternal Blossoms
+- npc 60141 - Shao-Tien Executioner - updated
+  - coordinates: 5 spawn points added in Vale of Eternal Blossoms
+
 0.2.658
 - database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,358 NPCs, 6 objects
 - npc 14503 - The Cleaner - updated
@@ -95,8 +110,3 @@ Older data syncs: see each version's GitHub release notes and https://pd.zroot.i
   - NPC title added (Head of Megaera)
 - npc 68162 - Arcane Head - updated
   - NPC title added (Head of Megaera)
-
-0.2.643
-- database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,345 NPCs, 6 objects
-- npc 35599 - Arcanist Dulial - updated
-  - coordinates: 5 spawn points added in Darnassus
