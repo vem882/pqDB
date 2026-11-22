@@ -14687,6 +14687,14 @@ ns.Overrides.wowhead = {
                 "almost stopped when he heard that news.\n\n<Gor'shak laughs.>\n\nShhh! Do you hear that? " ..
                 "Guards coming! DEFEND YOURSELF!",
         },
+        [4001] = {
+            description = "So far, my communication with the dwarf, Kharan, in the cell across the hall, " ..
+                "has been limited. I have, however, managed to convince him that I, rather -we- mean him " ..
+                "no harm.\n\nGo speak with him and gather as much information about the Princess and her " ..
+                "captors as possible. Take that information back to the Warchief.\n\nThrall does not want " ..
+                "the Princess harmed, but instead, has some grand plan laid out, which includes her being " ..
+                "safely returned to Ironforge. Kharan already knows all of this... Go!",
+        },
         [4002] = {
             description = "You bring excellent information, <name>.\n\nAs Warchief, it is my duty to do " ..
                 "what is best for the Horde. To ensure that the generations that come after us are not " ..
