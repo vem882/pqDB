@@ -2,6 +2,11 @@
 - Include distinct datasets for MoP Classic, Classic Era, TBC Anniversary and WoW Forever.
 Older data syncs: see each version's GitHub release notes and https://pd.zroot.it/changelog
 
+0.2.654
+- database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,355 NPCs, 6 objects
+- npc 54109 - Arch Druid Hamuul Runetotem - updated
+  - coordinates: 14 spawn points added in Molten Front
+
 0.2.653
 - database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,354 NPCs, 6 objects
 - npc 47102 - Tailgun - updated
@@ -109,6 +114,3 @@ Older data syncs: see each version's GitHub release notes and https://pd.zroot.i
 - database - TBC Anniversary: data from the PandaQuest portal: 5,296 quests, 82 NPCs, 7 objects
 - npc 68125 - Arcane Head - updated
   - NPC title added (Head of Megaera)
-
-0.2.639
-- database - Classic Era: data from the PandaQuest portal: 3,713 quests, 66 NPCs, 10 objects
