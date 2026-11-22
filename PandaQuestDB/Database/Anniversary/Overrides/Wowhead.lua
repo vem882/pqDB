@@ -31240,6 +31240,15 @@ ns.Overrides.wowhead = {
                 "greatly slow down their progress, buying me the time I need.\n\nStay as far away as " ..
                 "possible from the overseers, <name>. They are extremely dangerous beings.",
         },
+        [10000] = {
+            description = "Our forces at Thrallmar thought they had the fel orcs contained in the " ..
+                "Hellfire Citadel area, but the recent arrivals at the ruins to the east say " ..
+                "otherwise.\n\nWe can't permit them to gain a foothold here. Rokag has dispatched " ..
+                "Shadowstalker Kaide to the ruins to keep an eye on them, but we have to do something to " ..
+                "keep them from digging in.\n\nGo to the ruins, decimate their peons, and then look for " ..
+                "Kaide in the trees to the north. He'll tell you where to go from there.",
+            rewardMoney = 29000,
+        },
         [10001] = {
             description = "All forge camps have a master planner. The master planner dictates what types " ..
                 "of structures are present at a forge camp and how each structure is situated. Moreover, " ..
@@ -40099,6 +40108,20 @@ ns.Overrides.wowhead = {
             },
             zoneID = 1377,
         },
+        [15854] = {
+            spawns = {
+                [1377] = {
+                    {28.6, 89}, {28.8, 90.6}, {29, 90}, {29.6, 86.2}, {36.2, 79.6}, {40.2, 76.6},
+                    {43.4, 43.2}, {43.6, 43.2}, {44.2, 57.4}, {44.2, 58}, {44.2, 61}, {44.2, 61.8},
+                    {44.4, 44.4}, {44.4, 56.4}, {44.4, 59.6}, {44.8, 47.4}, {45, 45.4}, {45, 45.8},
+                    {45, 47.6}, {45, 50.2}, {45, 51}, {45, 51.8}, {45, 53.8}, {45.2, 44}, {45.6, 46.4},
+                    {46, 42.4}, {46.4, 41.4}, {46.6, 41.6}, {47.4, 40}, {48.2, 39.4}, {48.4, 39.6},
+                    {49.8, 38.6}, {50.4, 37.6}, {50.6, 37.4}, {52, 36.8}, {53, 36.4}, {53.4, 36.6},
+                    {54.2, 36.8}, {55.2, 36.8}, {55.6, 36.6},
+                },
+            },
+            zoneID = 1377,
+        },
         [16141] = {
             spawns = {
                 [139] = {
@@ -40323,6 +40346,20 @@ ns.Overrides.wowhead = {
                     {48.2, 18}, {48.4, 23.6}, {48.6, 14.6}, {48.6, 21}, {48.8, 21.6}, {49, 18.8}, {49, 26.8},
                     {49.2, 22.6}, {49.6, 17.4}, {49.6, 17.6}, {49.6, 20.8}, {50, 16}, {50.6, 15.8},
                     {50.6, 17.6}, {51, 17}, {51.8, 17.6},
+                },
+            },
+            zoneID = 3523,
+        },
+        [21323] = {
+            spawns = {
+                [3523] = {
+                    {18.4, 73.4}, {19, 71.2}, {19.4, 73.4}, {19.4, 76.8}, {19.6, 73.4}, {19.8, 72.4},
+                    {20.4, 77.8}, {20.6, 75.4}, {21.2, 76.6}, {21.8, 77}, {22.6, 78.2}, {23.4, 79.6},
+                    {23.8, 77.8}, {24.4, 76.6}, {25, 79.4}, {25.4, 78.4}, {25.6, 79.8}, {26.4, 81.6},
+                    {27, 81}, {27.4, 79.2}, {27.6, 80.4}, {28.6, 64.8}, {28.6, 80.6}, {30, 80.4},
+                    {30.4, 77.2}, {31.2, 74.4}, {31.4, 79.4}, {31.8, 75.6}, {32.2, 64.8}, {32.4, 66.4},
+                    {33.2, 75.4}, {33.2, 78.2}, {33.6, 76.2}, {33.8, 78.8}, {34.6, 66.6}, {35, 76.4},
+                    {35.6, 77.6}, {36.2, 79.2}, {36.6, 76.4}, {36.8, 73.4},
                 },
             },
             zoneID = 3523,
