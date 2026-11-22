@@ -81658,6 +81658,7 @@ ns.Overrides.wowhead = {
         [71742] = {maxLevel = 9999, minLevel = 9999},
         [71865] = {subName = "Warchief"},
         [71939] = {subName = "Flightmaster"},
+        [71940] = {subName = "Flightmaster"},
         [71952] = {subName = "The Red Crane"},
         [71953] = {subName = "The White Tiger"},
         [71954] = {subName = "The Black Ox"},

@@ -2,6 +2,12 @@
 - Include distinct datasets for MoP Classic, Classic Era, TBC Anniversary and WoW Forever.
 Older data syncs: see each version's GitHub release notes and https://pd.zroot.it/changelog
 
+0.2.656
+- database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,356 NPCs, 6 objects
+- database - TBC Anniversary: data from the PandaQuest portal: 5,303 quests, 85 NPCs, 7 objects
+- npc 71940 - Michi Windblossom - updated
+  - NPC title added (Flightmaster)
+
 0.2.654
 - database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,355 NPCs, 6 objects
 - npc 54109 - Arch Druid Hamuul Runetotem - updated
@@ -108,9 +114,3 @@ Older data syncs: see each version's GitHub release notes and https://pd.zroot.i
 
 0.2.641
 - database - TBC Anniversary: data from the PandaQuest portal: 5,296 quests, 83 NPCs, 7 objects
-
-0.2.640
-- database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,336 NPCs, 6 objects
-- database - TBC Anniversary: data from the PandaQuest portal: 5,296 quests, 82 NPCs, 7 objects
-- npc 68125 - Arcane Head - updated
-  - NPC title added (Head of Megaera)
