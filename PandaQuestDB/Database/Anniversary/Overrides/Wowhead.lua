@@ -10206,6 +10206,10 @@ ns.Overrides.wowhead = {
                 "when time permits, this will be a much greater challenge to all paladins who choose to " ..
                 "undertake my quest.\n\nSpeak to me again and I shall grant you a great boon.",
         },
+        [1665] = {
+            description = "Ok, here's my mug. Wait! Let me finish what's in it first... there we go.",
+            rewardXP = 420,
+        },
         [1666] = {
             description = "You've learned a few moves, but you could still use a decent weapon. I bet if " ..
                 "you spoke with Marshal Haggard he could help you.\n\nMarshal Haggard lives in a manor in " ..
@@ -21740,6 +21744,15 @@ ns.Overrides.wowhead = {
         [8102] = {rewardItems = {{19599, 1}}},
         [8103] = {rewardItems = {{19600, 1}}},
         [8104] = {rewardItems = {{19601, 1}}},
+        [8105] = {
+            description = "<name>, the battle for Arathi Basin is a battle for resources and territory. " ..
+                "Key points in the area must be held and operated in order to supply our forces with much " ..
+                "needed raw materials and supplies. I charge you to assault the points farthest from our " ..
+                "Arathi Basin base.\n\nAssault the farm, the mine, the lumber mill and the blacksmith " ..
+                "when they are controlled by the enemy. Find the enemy's banner and rip it from its flag " ..
+                "post!\n\nWhen you have done this to all four points, return to me.",
+            rewardMoney = 16500,
+        },
         [8106] = {rewardItems = {{19602, 1}}},
         [8107] = {rewardItems = {{19603, 1}}},
         [8108] = {rewardItems = {{19604, 1}}},
