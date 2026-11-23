@@ -2,6 +2,9 @@
 - Include distinct datasets for MoP Classic, Classic Era, TBC Anniversary and WoW Forever.
 Older data syncs: see each version's GitHub release notes and https://pd.zroot.it/changelog
 
+0.2.672
+- database - TBC Anniversary: data from the PandaQuest portal: 5,306 quests, 88 NPCs, 7 objects
+
 0.2.671
 - database - TBC Anniversary: data from the PandaQuest portal: 5,306 quests, 87 NPCs, 7 objects
 
@@ -45,8 +48,3 @@ Older data syncs: see each version's GitHub release notes and https://pd.zroot.i
   - coordinates: 2 spawn points added in Azshara
 - npc 56053 - Sithera Wellspun - updated
   - coordinates: 2 spawn points added in Darkmoon Island
-
-0.2.661
-- database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,367 NPCs, 6 objects
-- npc 10658 - Winna's Kitten - updated
-  - coordinates: 2 spawn points added in Felwood
