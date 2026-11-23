@@ -81703,6 +81703,7 @@ ns.Overrides.wowhead = {
         [68560] = {subName = "Calf of Darkhide"},
         [68565] = {subName = "The Midnight Plunderer"},
         [68587] = {maxLevel = 90, minLevel = 90},
+        [68617] = {maxLevel = 90, minLevel = 90},
         [68633] = {maxLevel = 9999, minLevel = 9999},
         [68647] = {maxLevel = 90, minLevel = 90},
         [68651] = {subName = "Leader of the Kirin Tor"},
