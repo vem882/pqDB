@@ -9624,6 +9624,15 @@ ns.Overrides.wowhead = {
                 "willing to slay the demon if he would allow it, but do not press too hard. It is better " ..
                 "if he thinks it his own idea.",
         },
+        [1485] = {
+            description = "Those warlocks who came before us have earned the distrust of the Horde, and " ..
+                "while we are tolerated, we are not loved.\n\nThis has not brought the warlocks closer " ..
+                "together, however, as many choose to live reclusively, dabbling in their magics alone. I " ..
+                "will not seek to lead you down one path or the other, but only help you in your " ..
+                "maturation.\n\nBefore I teach you the art of summoning, bring me six heads of the vile " ..
+                "familiars from the cave to the northeast.",
+            rewardXP = 80,
+        },
         [1486] = {
             description = "As Naralex descended deeper into his nightmare, a strange breed of beasts " ..
                 "arose from beneath the Barrens into the Wailing Caverns.\n\nThese deviate creatures have " ..

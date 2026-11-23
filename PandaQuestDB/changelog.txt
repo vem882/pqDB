@@ -2,6 +2,9 @@
 - Include distinct datasets for MoP Classic, Classic Era, TBC Anniversary and WoW Forever.
 Older data syncs: see each version's GitHub release notes and https://pd.zroot.it/changelog
 
+0.2.688
+- database - TBC Anniversary: data from the PandaQuest portal: 5,310 quests, 91 NPCs, 7 objects
+
 0.2.687
 - database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,395 NPCs, 6 objects
 - npc 70389 - Archmage Aethas Sunreaver - updated
@@ -64,10 +67,3 @@ Older data syncs: see each version's GitHub release notes and https://pd.zroot.i
 - database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,381 NPCs, 6 objects
 - npc 50775 - Likk the Hunter - updated
   - coordinates: 7 spawn points added in Eastern Plaguelands
-
-0.2.677
-- database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,380 NPCs, 6 objects
-- npc 9698 - Firetail Scorpid - updated
-  - coordinates: 40 spawn points added in Burning Steppes
-- npc 50730 - Venomspine - updated
-  - coordinates: 4 spawn points added in Burning Steppes
