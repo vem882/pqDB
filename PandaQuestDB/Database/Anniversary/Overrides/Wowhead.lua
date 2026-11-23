@@ -8891,6 +8891,15 @@ ns.Overrides.wowhead = {
                 "traveling for him. How about it? Are you the <race> for the job?\n\nIf so, then you'll " ..
                 "find Stormpike at the top of the northern guard tower.",
         },
+        [1358] = {
+            description = "A colleague in Kalimdor, Apothecary Helbrim, is researching the effects of " ..
+                "Lordaeron toxins on the beasts of Kalimdor. He would be very interested in a sample of " ..
+                "the wolf hearts Renferrel sent me.\n\nHelbrim is stationed in the Barrens, in a village " ..
+                "known as the Crossroads. To reach him, you must travel via zeppelin to the orc capital " ..
+                "of Orgrimmar, then travel south, by foot, to Durotar. Head west into the Barrens, and " ..
+                "you will soon reach the Crossroads.",
+            rewardChoices = {{10637, 1}, {10638, 1}},
+        },
         [1359] = {
             description = "The wolf hearts you acquired possess a quality unseen in similar specimens. " ..
                 "There is a toxicity to them that should be deadly to the very wolves in which the hearts " ..
