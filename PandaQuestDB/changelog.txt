@@ -2,6 +2,13 @@
 - Include distinct datasets for MoP Classic, Classic Era, TBC Anniversary and WoW Forever.
 Older data syncs: see each version's GitHub release notes and https://pd.zroot.it/changelog
 
+0.2.693
+- database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,401 NPCs, 6 objects
+- npc 47499 - High Executor Darthalia - updated
+  - coordinates: 1 spawn point added in Hillsbrad Foothills
+- npc 47525 - Servant of Lord Geoffery - updated
+  - coordinates: 9 spawn points added in Twilight Highlands
+
 0.2.692
 - database - rebuilt from Questie 12.13.0+v1.1.5 (was 12.12.0+v1.1.4)
 - database - Classic Era rebuilt from Questie 12.13.0+v1.1.5 (was 12.12.0+v1.1.4)
@@ -70,8 +77,3 @@ Older data syncs: see each version's GitHub release notes and https://pd.zroot.i
 - database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,390 NPCs, 6 objects
 - npc 48409 - Hellmondath - updated
   - coordinates: 1 spawn point added in Burning Steppes
-
-0.2.682
-- database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,389 NPCs, 6 objects
-- npc 50465 - Master Mathias Shaw - updated
-  - coordinates: 1 spawn point added in Twilight Highlands
