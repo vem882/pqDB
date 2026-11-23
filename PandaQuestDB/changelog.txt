@@ -2,6 +2,10 @@
 - Include distinct datasets for MoP Classic, Classic Era, TBC Anniversary and WoW Forever.
 Older data syncs: see each version's GitHub release notes and https://pd.zroot.it/changelog
 
+0.2.695
+- database - Classic Era: data from the PandaQuest portal: 3,713 quests, 69 NPCs, 10 objects
+- database - TBC Anniversary: data from the PandaQuest portal: 5,310 quests, 94 NPCs, 7 objects
+
 0.2.694
 - database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,402 NPCs, 6 objects
 - npc 47527 - Captured Wind Rider - updated
@@ -67,13 +71,3 @@ Older data syncs: see each version's GitHub release notes and https://pd.zroot.i
 - database - TBC Anniversary: data from the PandaQuest portal: 5,309 quests, 90 NPCs, 7 objects
 - npc 47441 - Phaseleashed Imp - updated
   - coordinates: 9 spawn points added in Felwood
-
-0.2.684
-- database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,393 NPCs, 6 objects
-- npc 41739 - Sergeant Dontrag - updated
-  - coordinates: 7 spawn points added in Ashenvale
-  - coordinates: 4 spawn points added in Stonetalon Mountains
-- npc 59928 - Caravan Cart - updated
-  - coordinates: 25 spawn points added in Vale of Eternal Blossoms
-- npc 71426 - Wrathion - updated
-  - NPC title added (The Black Prince)
