@@ -13259,6 +13259,12 @@ ns.Overrides.wowhead = {
                 "local warrior trainer. I wouldn't hesitate to read it before you go about any other " ..
                 "business here in the Abbey.",
         },
+        [3101] = {
+            description = "I was asked to bring this to your attention as soon as you returned from the " ..
+                "kobold camps, <name>. It appears to be a letter sealed with the insignia of Brother " ..
+                "Sammuel, our local paladin trainer. I wouldn't hesitate to read it before you go about " ..
+                "any other business here in the Abbey.",
+        },
         [3102] = {
             description = "I was asked to bring this to your attention as soon as you returned from the " ..
                 "kobold camps, <name>. It appears to be a letter sealed with the insignia of Jorik, one " ..
