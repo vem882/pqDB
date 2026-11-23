@@ -2,6 +2,11 @@
 - Include distinct datasets for MoP Classic, Classic Era, TBC Anniversary and WoW Forever.
 Older data syncs: see each version's GitHub release notes and https://pd.zroot.it/changelog
 
+0.2.676
+- database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,378 NPCs, 6 objects
+- npc 19286 - Invading Fel Stalker - updated
+  - coordinates: 38 spawn points added in Blasted Lands
+
 0.2.675
 - database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,377 NPCs, 6 objects
 - npc 11826 - Kristy Grant - updated
@@ -41,8 +46,3 @@ Older data syncs: see each version's GitHub release notes and https://pd.zroot.i
 
 0.2.666
 - database - TBC Anniversary: data from the PandaQuest portal: 5,304 quests, 86 NPCs, 7 objects
-
-0.2.665
-- database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,373 NPCs, 6 objects
-- npc 50822 - One-Eye the Fierce - updated
-  - coordinates: 6 spawn points added in Vale of Eternal Blossoms
