@@ -2,6 +2,11 @@
 - Include distinct datasets for MoP Classic, Classic Era, TBC Anniversary and WoW Forever.
 Older data syncs: see each version's GitHub release notes and https://pd.zroot.it/changelog
 
+0.2.687
+- database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,395 NPCs, 6 objects
+- npc 70389 - Archmage Aethas Sunreaver - updated
+  - NPC level added (90)
+
 0.2.686
 - database - TBC Anniversary: data from the PandaQuest portal: 5,309 quests, 91 NPCs, 7 objects
 
@@ -66,8 +71,3 @@ Older data syncs: see each version's GitHub release notes and https://pd.zroot.i
   - coordinates: 40 spawn points added in Burning Steppes
 - npc 50730 - Venomspine - updated
   - coordinates: 4 spawn points added in Burning Steppes
-
-0.2.676
-- database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,378 NPCs, 6 objects
-- npc 19286 - Invading Fel Stalker - updated
-  - coordinates: 38 spawn points added in Blasted Lands
