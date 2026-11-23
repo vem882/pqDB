@@ -2,6 +2,16 @@
 - Include distinct datasets for MoP Classic, Classic Era, TBC Anniversary and WoW Forever.
 Older data syncs: see each version's GitHub release notes and https://pd.zroot.it/changelog
 
+0.2.684
+- database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,393 NPCs, 6 objects
+- npc 41739 - Sergeant Dontrag - updated
+  - coordinates: 7 spawn points added in Ashenvale
+  - coordinates: 4 spawn points added in Stonetalon Mountains
+- npc 59928 - Caravan Cart - updated
+  - coordinates: 25 spawn points added in Vale of Eternal Blossoms
+- npc 71426 - Wrathion - updated
+  - NPC title added (The Black Prince)
+
 0.2.683
 - database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,390 NPCs, 6 objects
 - npc 48409 - Hellmondath - updated
@@ -68,6 +78,3 @@ Older data syncs: see each version's GitHub release notes and https://pd.zroot.i
   - coordinates: 40 spawn points added in Orgrimmar
   - coordinates: 24 spawn points added in Tirisfal Glades
   - coordinates: 18 spawn points added in Durotar
-
-0.2.673
-- database - TBC Anniversary: data from the PandaQuest portal: 5,307 quests, 89 NPCs, 7 objects
