@@ -2,6 +2,15 @@
 - Include distinct datasets for MoP Classic, Classic Era, TBC Anniversary and WoW Forever.
 Older data syncs: see each version's GitHub release notes and https://pd.zroot.it/changelog
 
+0.2.675
+- database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,377 NPCs, 6 objects
+- npc 11826 - Kristy Grant - updated
+  - coordinates: 1 spawn point added in Feralas
+- npc 11867 - Woo Ping - updated
+  - coordinates: 1 spawn point added in Stormwind City
+- npc 52545 - Lieutenant Tristia - updated
+  - coordinates: 2 spawn points added in Stormwind City
+
 0.2.674
 - database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,374 NPCs, 6 objects
 - npc 25070 - Chief Officer Coppernut - updated
@@ -37,8 +46,3 @@ Older data syncs: see each version's GitHub release notes and https://pd.zroot.i
 - database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,373 NPCs, 6 objects
 - npc 50822 - One-Eye the Fierce - updated
   - coordinates: 6 spawn points added in Vale of Eternal Blossoms
-
-0.2.664
-- database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,372 NPCs, 6 objects
-- npc 47364 - Schnottz's Bodyguard - updated
-  - coordinates: 3 spawn points added in Uldum
