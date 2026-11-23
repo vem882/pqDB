@@ -81868,6 +81868,7 @@ ns.Overrides.wowhead = {
         },
         [73061] = {subName = "Prince of Stormwind"},
         [73145] = {subName = "Glorious Conquest Quartermaster"},
+        [73153] = {maxLevel = 91, minLevel = 91},
         [73207] = {subName = "Prince of Stormwind"},
         [73212] = {subName = "Regent Lord of Quel'Thalas"},
         [73305] = {subName = "Timeless Artifacts"},
