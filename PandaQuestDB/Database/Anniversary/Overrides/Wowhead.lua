@@ -13186,6 +13186,11 @@ ns.Overrides.wowhead = {
                 "sent by the warrior trainer Harutt. If this note is from Harutt, I wouldn't take long in " ..
                 "reading it's contents.",
         },
+        [3092] = {
+            description = "Just a moment ago a messenger was looking for you, <name>. I believe she was " ..
+                "sent by the hunter trainer Lanka. If this note is from Lanka, I wouldn't take long in " ..
+                "reading it's contents.",
+        },
         [3093] = {
             description = "Just a moment ago a messenger was looking for you, <name>. I believe she was " ..
                 "sent by the shaman trainer Meela. If this note is from Meela, I wouldn't take long in " ..
