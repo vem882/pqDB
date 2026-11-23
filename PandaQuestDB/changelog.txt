@@ -2,6 +2,9 @@
 - Include distinct datasets for MoP Classic, Classic Era, TBC Anniversary and WoW Forever.
 Older data syncs: see each version's GitHub release notes and https://pd.zroot.it/changelog
 
+0.2.673
+- database - TBC Anniversary: data from the PandaQuest portal: 5,307 quests, 89 NPCs, 7 objects
+
 0.2.672
 - database - TBC Anniversary: data from the PandaQuest portal: 5,306 quests, 88 NPCs, 7 objects
 
@@ -39,12 +42,3 @@ Older data syncs: see each version's GitHub release notes and https://pd.zroot.i
   - coordinates: 8 spawn points added in Wetlands
   - coordinates: 4 spawn points added in Dustwallow Marsh
   - coordinates: 1 spawn point added in category 3
-
-0.2.662
-- database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,370 NPCs, 6 objects
-- npc 26590 - Ravenous Worg - updated
-  - coordinates: 2 spawn points added in Grizzly Hills
-- npc 36930 - Grit - updated
-  - coordinates: 2 spawn points added in Azshara
-- npc 56053 - Sithera Wellspun - updated
-  - coordinates: 2 spawn points added in Darkmoon Island

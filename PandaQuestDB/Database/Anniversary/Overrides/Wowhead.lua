@@ -12640,6 +12640,15 @@ ns.Overrides.wowhead = {
                 "it's important, then by my calculations there's an eighty-four percent probability that " ..
                 "it really is important!\n\nThose are good odds!",
         },
+        [2932] = {
+            description = "The Witherbark trolls were once allies to the Horde, but they betrayed " ..
+                "Thrall... and that must be punished!\n\nHere, take my pike and go to the Hinterlands, " ..
+                "far to the north. You will find it northeast of Tarren Mill, a village held by our " ..
+                "allies, the Forsaken.\n\nWhen you enter the Hinterlands, hunt Witherbark trolls. Gather " ..
+                "their skulls and drive my pike into the ground at one of their smaller villages, " ..
+                "Hiri'watha or Zun'watha.\n\nShow them their vile actions are of consequence!",
+            rewardMoney = 5500,
+        },
         [2933] = {
             description = "These bottles hold a vile, green venom.\n\nConsidering the number of bottles " ..
                 "in this village, the Witherbarks must deem it very important. Perhaps an apothecary in " ..
@@ -40084,6 +40093,10 @@ ns.Overrides.wowhead = {
         [12144] = {
             spawns = {[17] = {{41.8, 60.4}, {42, 60.8}}, [148] = {{42.8, 45.4}, {43.4, 45.8}}},
             zoneID = 17,
+        },
+        [12799] = {
+            spawns = {[1637] = {{41.4, 68.4}, {41.4, 68.8}, {41.4, 69.6}, {41.6, 68.4}, {41.6, 68.6}}},
+            zoneID = 1637,
         },
         [12805] = {
             spawns = {[1519] = {{73, 53.6}, {73.4, 52.6}, {73.6, 52.4}, {73.6, 53.6}, {73.8, 53.4}}},
