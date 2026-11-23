@@ -2,6 +2,12 @@
 - Include distinct datasets for MoP Classic, Classic Era, TBC Anniversary and WoW Forever.
 Older data syncs: see each version's GitHub release notes and https://pd.zroot.it/changelog
 
+0.2.685
+- database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,394 NPCs, 6 objects
+- database - TBC Anniversary: data from the PandaQuest portal: 5,309 quests, 90 NPCs, 7 objects
+- npc 47441 - Phaseleashed Imp - updated
+  - coordinates: 9 spawn points added in Felwood
+
 0.2.684
 - database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,393 NPCs, 6 objects
 - npc 41739 - Sergeant Dontrag - updated
@@ -71,10 +77,3 @@ Older data syncs: see each version's GitHub release notes and https://pd.zroot.i
   - coordinates: 1 spawn point added in Stormwind City
 - npc 52545 - Lieutenant Tristia - updated
   - coordinates: 2 spawn points added in Stormwind City
-
-0.2.674
-- database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,374 NPCs, 6 objects
-- npc 25070 - Chief Officer Coppernut - updated
-  - coordinates: 40 spawn points added in Orgrimmar
-  - coordinates: 24 spawn points added in Tirisfal Glades
-  - coordinates: 18 spawn points added in Durotar
