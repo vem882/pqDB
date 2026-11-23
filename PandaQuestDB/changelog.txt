@@ -2,6 +2,9 @@
 - Include distinct datasets for MoP Classic, Classic Era, TBC Anniversary and WoW Forever.
 Older data syncs: see each version's GitHub release notes and https://pd.zroot.it/changelog
 
+0.2.686
+- database - TBC Anniversary: data from the PandaQuest portal: 5,309 quests, 91 NPCs, 7 objects
+
 0.2.685
 - database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,394 NPCs, 6 objects
 - database - TBC Anniversary: data from the PandaQuest portal: 5,309 quests, 90 NPCs, 7 objects
@@ -68,12 +71,3 @@ Older data syncs: see each version's GitHub release notes and https://pd.zroot.i
 - database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,378 NPCs, 6 objects
 - npc 19286 - Invading Fel Stalker - updated
   - coordinates: 38 spawn points added in Blasted Lands
-
-0.2.675
-- database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,377 NPCs, 6 objects
-- npc 11826 - Kristy Grant - updated
-  - coordinates: 1 spawn point added in Feralas
-- npc 11867 - Woo Ping - updated
-  - coordinates: 1 spawn point added in Stormwind City
-- npc 52545 - Lieutenant Tristia - updated
-  - coordinates: 2 spawn points added in Stormwind City
