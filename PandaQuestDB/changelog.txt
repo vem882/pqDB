@@ -2,6 +2,9 @@
 - Include distinct datasets for MoP Classic, Classic Era, TBC Anniversary and WoW Forever.
 Older data syncs: see each version's GitHub release notes and https://pd.zroot.it/changelog
 
+0.2.668
+- database - TBC Anniversary: data from the PandaQuest portal: 5,305 quests, 86 NPCs, 7 objects
+
 0.2.667
 - database - Classic Era: data from the PandaQuest portal: 3,713 quests, 67 NPCs, 10 objects
 
@@ -65,9 +68,3 @@ Older data syncs: see each version's GitHub release notes and https://pd.zroot.i
 - database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,358 NPCs, 6 objects
 - npc 14503 - The Cleaner - updated
   - coordinates: 7 spawn points added in Un'Goro Crater
-
-0.2.657
-- database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,357 NPCs, 6 objects
-- database - TBC Anniversary: data from the PandaQuest portal: 5,304 quests, 85 NPCs, 7 objects
-- npc 14522 - Ur'dan - updated
-  - coordinates: 3 spawn points added in Felwood
