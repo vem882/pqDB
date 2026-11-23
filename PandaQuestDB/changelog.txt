@@ -2,6 +2,13 @@
 - Include distinct datasets for MoP Classic, Classic Era, TBC Anniversary and WoW Forever.
 Older data syncs: see each version's GitHub release notes and https://pd.zroot.it/changelog
 
+0.2.674
+- database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,374 NPCs, 6 objects
+- npc 25070 - Chief Officer Coppernut - updated
+  - coordinates: 40 spawn points added in Orgrimmar
+  - coordinates: 24 spawn points added in Tirisfal Glades
+  - coordinates: 18 spawn points added in Durotar
+
 0.2.673
 - database - TBC Anniversary: data from the PandaQuest portal: 5,307 quests, 89 NPCs, 7 objects
 
@@ -35,10 +42,3 @@ Older data syncs: see each version's GitHub release notes and https://pd.zroot.i
 - database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,372 NPCs, 6 objects
 - npc 47364 - Schnottz's Bodyguard - updated
   - coordinates: 3 spawn points added in Uldum
-
-0.2.663
-- database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,371 NPCs, 6 objects
-- npc 24838 - Sailor Henders - updated
-  - coordinates: 8 spawn points added in Wetlands
-  - coordinates: 4 spawn points added in Dustwallow Marsh
-  - coordinates: 1 spawn point added in category 3
