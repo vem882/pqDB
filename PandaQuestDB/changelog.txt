@@ -2,6 +2,12 @@
 - Include distinct datasets for MoP Classic, Classic Era, TBC Anniversary and WoW Forever.
 Older data syncs: see each version's GitHub release notes and https://pd.zroot.it/changelog
 
+0.2.690
+- database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,396 NPCs, 6 objects
+- npc 69389 - Ryshelle Brightlock - updated
+  - NPC title added (The Reliquary)
+  - NPC level added (90)
+
 0.2.689
 - database - TBC Anniversary: data from the PandaQuest portal: 5,310 quests, 92 NPCs, 7 objects
 
@@ -57,11 +63,3 @@ Older data syncs: see each version's GitHub release notes and https://pd.zroot.i
   - NPC level added (90)
 - npc 70535 - Teng of the Flying Daggers - updated
   - NPC title added (Shado-Pan Assault Quartermaster)
-
-0.2.679
-- database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,383 NPCs, 6 objects
-- database - TBC Anniversary: data from the PandaQuest portal: 5,308 quests, 89 NPCs, 7 objects
-- npc 41873 - Imp Minion - updated
-  - coordinates: 40 spawn points added in Desolace
-- npc 56051 - Franklin Jenner - updated
-  - coordinates: 4 spawn points added in Darkmoon Island
