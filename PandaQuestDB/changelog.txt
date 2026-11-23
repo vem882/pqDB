@@ -2,6 +2,9 @@
 - Include distinct datasets for MoP Classic, Classic Era, TBC Anniversary and WoW Forever.
 Older data syncs: see each version's GitHub release notes and https://pd.zroot.it/changelog
 
+0.2.671
+- database - TBC Anniversary: data from the PandaQuest portal: 5,306 quests, 87 NPCs, 7 objects
+
 0.2.670
 - database - Classic Era: data from the PandaQuest portal: 3,713 quests, 68 NPCs, 10 objects
 
@@ -47,10 +50,3 @@ Older data syncs: see each version's GitHub release notes and https://pd.zroot.i
 - database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,367 NPCs, 6 objects
 - npc 10658 - Winna's Kitten - updated
   - coordinates: 2 spawn points added in Felwood
-
-0.2.660
-- database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,366 NPCs, 6 objects
-- npc 52797 - Nozdormu - updated
-  - coordinates: 1 spawn point added in Mount Hyjal
-- npc 53049 - Hyjal Protector - updated
-  - coordinates: 1 spawn point added in Mount Hyjal
