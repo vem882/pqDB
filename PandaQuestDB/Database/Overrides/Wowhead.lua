@@ -81780,6 +81780,7 @@ ns.Overrides.wowhead = {
         [70333] = {maxLevel = 90, minLevel = 90},
         [70339] = {maxLevel = 90, minLevel = 90},
         [70360] = {subName = "Ranger General of the Silver Covenant"},
+        [70389] = {maxLevel = 90, minLevel = 90},
         [70398] = {subName = "Fishing Trainer"},
         [70404] = {maxLevel = 90, minLevel = 90},
         [70407] = {maxLevel = 90, minLevel = 90},
