@@ -10062,6 +10062,13 @@ ns.Overrides.wowhead = {
                 "blacksmith, Verner Osgood, would teach you a trick or two.",
             rewardItems = {{6735, 1}},
         },
+        [1638] = {
+            description = "You've shown yourself to be a competent warrior, <name>. But you're still " ..
+                "young and have a lot to learn.\n\nSpeak with Harry Burlguard --he's usually in the Pig " ..
+                "and Whistle tavern, in the Old Town of Stormwind. Harry is an old veteran and a good " ..
+                "teacher. He can show you a few moves that'll keep you breathing longer.",
+            rewardXP = 85,
+        },
         [1639] = {
             description = "Yeah, I can teach you. But first I wanna see what moves you have " ..
                 "already.\n\nSee that drunk over there at the end of the bar? Bartleby? I want you to get " ..
