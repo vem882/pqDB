@@ -40456,6 +40456,7 @@ ns.Overrides.wowhead = {
             },
             zoneID = 3523,
         },
+        [21129] = {spawns = {[3520] = {{42.2, 45}}}, zoneID = 3520},
         [21323] = {
             spawns = {
                 [3523] = {
