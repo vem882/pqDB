@@ -2,6 +2,15 @@
 - Include distinct datasets for MoP Classic, Classic Era, TBC Anniversary and WoW Forever.
 Older data syncs: see each version's GitHub release notes and https://pd.zroot.it/changelog
 
+0.2.662
+- database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,370 NPCs, 6 objects
+- npc 26590 - Ravenous Worg - updated
+  - coordinates: 2 spawn points added in Grizzly Hills
+- npc 36930 - Grit - updated
+  - coordinates: 2 spawn points added in Azshara
+- npc 56053 - Sithera Wellspun - updated
+  - coordinates: 2 spawn points added in Darkmoon Island
+
 0.2.661
 - database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,367 NPCs, 6 objects
 - npc 10658 - Winna's Kitten - updated
@@ -67,16 +76,3 @@ Older data syncs: see each version's GitHub release notes and https://pd.zroot.i
 
 0.2.651
 - database - TBC Anniversary: data from the PandaQuest portal: 5,300 quests, 85 NPCs, 7 objects
-
-0.2.650
-- database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,350 NPCs, 6 objects
-- database - TBC Anniversary: data from the PandaQuest portal: 5,297 quests, 85 NPCs, 7 objects
-- npc 32392 - Plagued Felbeast - updated
-  - coordinates: 40 spawn points added in Undercity
-  - coordinates: 9 spawn points added in Tirisfal Glades
-- npc 47482 - Jora "Nobbly" Wildwing - updated
-  - coordinates: 2 spawn points added in Twilight Highlands
-- npc 50346 - Ronak - updated
-  - coordinates: 3 spawn points added in Winterspring
-- npc 68633 - Archmage Aethas Sunreaver - updated
-  - NPC level added (9,999)
