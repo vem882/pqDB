@@ -32943,6 +32943,15 @@ ns.Overrides.wowhead = {
             rewardChoices = {{25986, 1}, {25987, 1}, {25985, 1}},
             rewardMoney = 29000,
         },
+        [10256] = {
+            description = "In retrospect, I suppose I should've expected Kael'thas's magic to be this " ..
+                "robust. He's always been a talented mage, but I've never seen anything like the power he " ..
+                "wielded during the attack on the tower.\n\nThe ward keeps me from being able to scry out " ..
+                "the force holding it in place, but it doesn't preclude you from scrying.\n\nYou'll " ..
+                "require a focus, though. A crystal-bearing giant named Apex roams the plains to the west " ..
+                "of Manaforge Duro. One of its crystals would make an excellent scrying focus.",
+            rewardMoney = 41000,
+        },
         [10257] = {
             description = "It doesn't surprise me that Kael'thas has put the key to this ward in the " ..
                 "hands of someone like Commander Sarannis. Prince Kael'thas is a great many things, but " ..
