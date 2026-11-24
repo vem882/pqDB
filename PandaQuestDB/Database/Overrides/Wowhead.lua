@@ -80665,6 +80665,7 @@ ns.Overrides.wowhead = {
             spawns = {[1638] = {{76.4, 28.8}, {76.4, 29.6}, {76.6, 28.4}, {76.6, 28.6}, {77.6, 28.4}}},
             zoneID = 1638,
         },
+        [34610] = {spawns = {[331] = {{22.4, 52.6}}}, zoneID = 331},
         [35370] = {
             spawns = {
                 [4755] = {
@@ -80767,6 +80768,16 @@ ns.Overrides.wowhead = {
                 },
             },
             zoneID = 405,
+        },
+        [42162] = {
+            spawns = {
+                [11] = {
+                    {39.6, 46.6}, {42.2, 45.2}, {43, 42.2}, {43.2, 42.8}, {43.4, 43.6}, {44.6, 43.4},
+                    {44.8, 43.6}, {46.8, 45.2}, {47.2, 46}, {48.2, 48.8}, {49, 46}, {49, 48.6}, {49.2, 45},
+                    {50.2, 49.6}, {50.6, 49.8}, {51.4, 49.2}, {51.6, 48.8},
+                },
+            },
+            zoneID = 11,
         },
         [42300] = {
             spawns = {
@@ -81329,6 +81340,7 @@ ns.Overrides.wowhead = {
             zoneID = 28,
         },
         [50346] = {spawns = {[618] = {{59.4, 42.8}, {59.6, 42.4}, {59.6, 42.6}}}, zoneID = 618},
+        [50348] = {spawns = {[618] = {{59.4, 24}, {59.6, 24}}}, zoneID = 618},
         [50354] = {
             spawns = {
                 [5841] = {
@@ -81686,6 +81698,7 @@ ns.Overrides.wowhead = {
         [67386] = {maxLevel = 90, minLevel = 90},
         [67387] = {rank = 0, subName = "Chief Architect of Gnomish Engineering"},
         [67402] = {maxLevel = 90, minLevel = 90},
+        [67414] = {rank = 1},
         [67436] = {rank = 1},
         [67438] = {rank = 1, spawns = {[6134] = {{12.2, 62.6}, {12.4, 62.4}, {12.6, 62.6}, {13.8, 41.2}}}},
         [67439] = {rank = 1},
@@ -81778,6 +81791,7 @@ ns.Overrides.wowhead = {
         [68565] = {subName = "The Midnight Plunderer"},
         [68587] = {maxLevel = 90, minLevel = 90},
         [68617] = {maxLevel = 90, minLevel = 90},
+        [68632] = {maxLevel = 90, minLevel = 90},
         [68633] = {maxLevel = 9999, minLevel = 9999},
         [68647] = {maxLevel = 90, minLevel = 90},
         [68651] = {subName = "Leader of the Kirin Tor"},
