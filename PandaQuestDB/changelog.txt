@@ -2,6 +2,11 @@
 - Include distinct datasets for MoP Classic, Classic Era, TBC Anniversary and WoW Forever.
 Older data syncs: see each version's GitHub release notes and https://pd.zroot.it/changelog
 
+0.2.702
+- database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,408 NPCs, 6 objects
+- npc 19365 - Argent Bowman - updated
+  - coordinates: 11 spawn points added in Blasted Lands
+
 0.2.701
 - database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,407 NPCs, 6 objects
 - npc 69461 - Itoka - updated
@@ -71,6 +76,3 @@ Older data syncs: see each version's GitHub release notes and https://pd.zroot.i
 - npc 245163 - Baolai the Immolator - updated
   - NPC level added (91)
   - rank added (elite)
-
-0.2.691
-- database - TBC Anniversary: data from the PandaQuest portal: 5,310 quests, 93 NPCs, 7 objects
