@@ -2,6 +2,11 @@
 - Include distinct datasets for MoP Classic, Classic Era, TBC Anniversary and WoW Forever.
 Older data syncs: see each version's GitHub release notes and https://pd.zroot.it/changelog
 
+0.2.730
+- database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,429 NPCs, 6 objects
+- npc 40697 - Erunak Stonespeaker - updated
+  - coordinates: 1 spawn point added in Kelp'thar Forest
+
 0.2.729
 - database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,428 NPCs, 6 objects
 - npc 50788 - Quetzl - updated
@@ -59,9 +64,3 @@ Older data syncs: see each version's GitHub release notes and https://pd.zroot.i
 
 0.2.720
 - database - TBC Anniversary: data from the PandaQuest portal: 5,321 quests, 109 NPCs, 7 objects
-
-0.2.719
-- database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,414 NPCs, 6 objects
-- database - TBC Anniversary: data from the PandaQuest portal: 5,320 quests, 109 NPCs, 7 objects
-- npc 52542 - Evee Copperspring - updated
-  - coordinates: 1 spawn point added in Tanaris
