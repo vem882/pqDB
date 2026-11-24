@@ -2,6 +2,11 @@
 - Include distinct datasets for MoP Classic, Classic Era, TBC Anniversary and WoW Forever.
 Older data syncs: see each version's GitHub release notes and https://pd.zroot.it/changelog
 
+0.2.703
+- database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,408 NPCs, 6 objects
+- npc 67438 - Krasari Elder - updated
+  - rank added (elite)
+
 0.2.702
 - database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,408 NPCs, 6 objects
 - npc 19365 - Argent Bowman - updated
@@ -51,28 +56,3 @@ Older data syncs: see each version's GitHub release notes and https://pd.zroot.i
   - coordinates: 1 spawn point added in Hillsbrad Foothills
 - npc 47525 - Servant of Lord Geoffery - updated
   - coordinates: 9 spawn points added in Twilight Highlands
-
-0.2.692
-- database - rebuilt from Questie 12.13.0+v1.1.5 (was 12.12.0+v1.1.4)
-- database - Classic Era rebuilt from Questie 12.13.0+v1.1.5 (was 12.12.0+v1.1.4)
-- database - TBC Anniversary rebuilt from Questie 12.13.0+v1.1.5 (was 12.12.0+v1.1.4)
-- database - WoW Forever rebuilt from Questie 12.13.0+v1.1.5 (was 12.12.0+v1.1.4)
-- database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,399 NPCs, 6 objects
-- quest 1148 - Parts of the Swarm - updated
-  - earlier quests (any one): -1
-  - availability added
-- quest 6627 - Test of Lore - updated
-  - objectives added
-  - coordinates: 1 exploration point removed in Stonetalon Mountains
-- quest 6628 - Test of Lore - updated
-  - objectives added
-  - coordinates: 1 exploration point removed in Undercity
-- npc 244975 - Aetha - updated
-  - NPC level added (91)
-  - rank added (elite)
-- npc 244995 - Quid - updated
-  - NPC level added (91)
-  - rank added (elite)
-- npc 245163 - Baolai the Immolator - updated
-  - NPC level added (91)
-  - rank added (elite)
