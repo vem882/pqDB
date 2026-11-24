@@ -2,6 +2,14 @@
 - Include distinct datasets for MoP Classic, Classic Era, TBC Anniversary and WoW Forever.
 Older data syncs: see each version's GitHub release notes and https://pd.zroot.it/changelog
 
+0.2.745
+- database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,454 NPCs, 7 objects
+- database - TBC Anniversary: data from the PandaQuest portal: 5,321 quests, 118 NPCs, 8 objects
+- npc 19311 - Portal Hound - updated
+  - coordinates: 40 spawn points added in Blasted Lands
+- npc 28875 - Shalewing - updated
+  - coordinates: 17 spawn points added in Zul'Drak
+
 0.2.744
 - database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,452 NPCs, 7 objects
 - npc 40215 - Argex Irongut - updated
@@ -79,10 +87,3 @@ Older data syncs: see each version's GitHub release notes and https://pd.zroot.i
 - database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,436 NPCs, 7 objects
 - npc 60371 - Jade Construct - updated
   - coordinates: 9 spawn points added in Vale of Eternal Blossoms
-
-0.2.734
-- database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,435 NPCs, 7 objects
-- npc 40274 - Restless Zombie - updated
-  - coordinates: 1 spawn point added in Durotar
-- npc 47985 - Pretentious Businessman - updated
-  - coordinates: 3 spawn points added in Uldum
