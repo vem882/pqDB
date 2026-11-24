@@ -2,6 +2,15 @@
 - Include distinct datasets for MoP Classic, Classic Era, TBC Anniversary and WoW Forever.
 Older data syncs: see each version's GitHub release notes and https://pd.zroot.it/changelog
 
+0.2.740
+- database - rebuilt from Questie 12.14.0+v1.1.6 (was 12.13.0+v1.1.5)
+- database - Classic Era rebuilt from Questie 12.14.0+v1.1.6 (was 12.13.0+v1.1.5)
+- database - TBC Anniversary rebuilt from Questie 12.14.0+v1.1.6 (was 12.13.0+v1.1.5)
+- database - WoW Forever rebuilt from Questie 12.14.0+v1.1.6 (was 12.13.0+v1.1.5)
+- database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,441 NPCs, 7 objects
+- npc 52269 - Renataki - updated
+  - coordinates: 1 spawn point added in Zul'Gurub
+
 0.2.739
 - database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,440 NPCs, 7 objects
 - npc 34715 - Sky-Captain "Dusty" Blastnut - updated
@@ -67,8 +76,3 @@ Older data syncs: see each version's GitHub release notes and https://pd.zroot.i
 - database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,429 NPCs, 6 objects
 - npc 40697 - Erunak Stonespeaker - updated
   - coordinates: 1 spawn point added in Kelp'thar Forest
-
-0.2.729
-- database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,428 NPCs, 6 objects
-- npc 50788 - Quetzl - updated
-  - coordinates: 2 spawn points added in Winterspring
