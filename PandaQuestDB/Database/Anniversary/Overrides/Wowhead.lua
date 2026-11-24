@@ -32881,6 +32881,14 @@ ns.Overrides.wowhead = {
                 "there and I would like you to target them. Succeed and you will deliver a crushing blow " ..
                 "against our enemy's forces.",
         },
+        [10247] = {
+            description = "On the outskirts of town to the east are the Proving Grounds. Our top " ..
+                "experimentalist, Doctor Vomisa, has been toying with a combination of fel reaver, " ..
+                "ethereal, and of course, goblin technologies there.\n\nThis is in no small part thanks " ..
+                "to your gathering efforts Junior Technician 3rd Grade, <name>!\n\nGo to him; I know that " ..
+                "he'll have a solution for saving Area 52.\n\nAnd since he's likely to use you as a test " ..
+                "subject, if I were you, I'd bring some friends along just in case.",
+        },
         [10248] = {
             description = "Doctor Vomisa, Ph.T. at your service. Here, take this controller. I want you " ..
                 "to activate it and give my newly-invented Scrap Reaver X6000 a spin.\n\nJust stay " ..
