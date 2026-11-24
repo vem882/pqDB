@@ -2,6 +2,14 @@
 - Include distinct datasets for MoP Classic, Classic Era, TBC Anniversary and WoW Forever.
 Older data syncs: see each version's GitHub release notes and https://pd.zroot.it/changelog
 
+0.2.744
+- database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,452 NPCs, 7 objects
+- npc 40215 - Argex Irongut - updated
+  - coordinates: 1 spawn point added in Tanaris
+- npc 68936 - Ishi - updated
+  - NPC title added (Blademaster)
+  - NPC level added (90)
+
 0.2.743
 - database - TBC Anniversary: data from the PandaQuest portal: 5,321 quests, 117 NPCs, 8 objects
 
@@ -78,8 +86,3 @@ Older data syncs: see each version's GitHub release notes and https://pd.zroot.i
   - coordinates: 1 spawn point added in Durotar
 - npc 47985 - Pretentious Businessman - updated
   - coordinates: 3 spawn points added in Uldum
-
-0.2.733
-- database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,433 NPCs, 7 objects
-- npc 51255 - Lieutenant Tristia - updated
-  - coordinates: 2 spawn points added in Stormwind City
