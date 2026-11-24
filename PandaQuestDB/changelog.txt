@@ -2,6 +2,17 @@
 - Include distinct datasets for MoP Classic, Classic Era, TBC Anniversary and WoW Forever.
 Older data syncs: see each version's GitHub release notes and https://pd.zroot.it/changelog
 
+0.2.742
+- database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,450 NPCs, 7 objects
+- database - TBC Anniversary: data from the PandaQuest portal: 5,321 quests, 115 NPCs, 8 objects
+- npc 24840 - Sailor Vines - updated
+  - coordinates: 5 spawn points added in Wetlands
+  - coordinates: 3 spawn points added in Dustwallow Marsh
+- npc 38200 - Silver Covenant Agent - updated
+  - coordinates: 11 spawn points added in Dalaran -
+- npc 47984 - Prolific Writer - updated
+  - coordinates: 4 spawn points added in Uldum
+
 0.2.741
 - database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,447 NPCs, 7 objects
 - npc 19322 - Argent Guardian - updated
@@ -80,9 +91,3 @@ Older data syncs: see each version's GitHub release notes and https://pd.zroot.i
   - coordinates: 4 spawn points added in Northern Stranglethorn
 - object 185900 - Picnic Grill - updated
   - coordinates: 1 spawn point added in Silvermoon City
-
-0.2.731
-- database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,430 NPCs, 6 objects
-- npc 38302 - Manifestation of the Sea Witch - updated
-  - coordinates: 6 spawn points added in Echo Isles
-  - coordinates: 4 spawn points added in Durotar
