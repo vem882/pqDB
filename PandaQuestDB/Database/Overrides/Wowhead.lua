@@ -81623,7 +81623,7 @@ ns.Overrides.wowhead = {
         [67387] = {rank = 0, subName = "Chief Architect of Gnomish Engineering"},
         [67402] = {maxLevel = 90, minLevel = 90},
         [67436] = {rank = 1},
-        [67438] = {spawns = {[6134] = {{12.2, 62.6}, {12.4, 62.4}, {12.6, 62.6}, {13.8, 41.2}}}},
+        [67438] = {rank = 1, spawns = {[6134] = {{12.2, 62.6}, {12.4, 62.4}, {12.6, 62.6}, {13.8, 41.2}}}},
         [67439] = {rank = 1},
         [67444] = {maxLevel = 90, minLevel = 90},
         [67554] = {maxLevel = 90, minLevel = 90},
