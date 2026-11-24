@@ -2,6 +2,15 @@
 - Include distinct datasets for MoP Classic, Classic Era, TBC Anniversary and WoW Forever.
 Older data syncs: see each version's GitHub release notes and https://pd.zroot.it/changelog
 
+0.2.748
+- database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,459 NPCs, 7 objects
+- npc 11656 - Warsong Peon - updated
+  - coordinates: 40 spawn points added in Ashenvale
+- npc 73622 - Graceful Swan - updated
+  - NPC title added (Innkeeper)
+- npc 73632 - Cowardly Zue - updated
+  - NPC title added (Stable Master)
+
 0.2.747
 - database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,456 NPCs, 7 objects
 - npc 19366 - Argent Hunter - updated
@@ -78,9 +87,3 @@ Older data syncs: see each version's GitHub release notes and https://pd.zroot.i
 0.2.738
 - database - Classic Era: data from the PandaQuest portal: 3,713 quests, 81 NPCs, 10 objects
 - database - TBC Anniversary: data from the PandaQuest portal: 5,321 quests, 114 NPCs, 7 objects
-
-0.2.737
-- database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,439 NPCs, 7 objects
-- database - Classic Era: data from the PandaQuest portal: 3,713 quests, 79 NPCs, 10 objects
-- npc 30479 - Stormhoof's Spirit - updated
-  - coordinates: 1 spawn point added in The Storm Peaks
