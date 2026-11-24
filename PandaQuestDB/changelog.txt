@@ -2,6 +2,11 @@
 - Include distinct datasets for MoP Classic, Classic Era, TBC Anniversary and WoW Forever.
 Older data syncs: see each version's GitHub release notes and https://pd.zroot.it/changelog
 
+0.2.752
+- database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,464 NPCs, 7 objects
+- npc 48557 - High Warlord Cromush - updated
+  - coordinates: 1 spawn point added in Hillsbrad Foothills
+
 0.2.751
 - database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,463 NPCs, 7 objects
 - npc 73138 - Wrathion - updated
@@ -67,18 +72,3 @@ Older data syncs: see each version's GitHub release notes and https://pd.zroot.i
   - coordinates: 11 spawn points added in Dalaran -
 - npc 47984 - Prolific Writer - updated
   - coordinates: 4 spawn points added in Uldum
-
-0.2.741
-- database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,447 NPCs, 7 objects
-- npc 19322 - Argent Guardian - updated
-  - coordinates: 21 spawn points added in Blasted Lands
-- npc 40883 - Skywall Denizen - updated
-  - coordinates: 3 spawn points added in Mount Hyjal
-- npc 48485 - Packleader Ivar Bloodfang - updated
-  - coordinates: 2 spawn points added in Hillsbrad Foothills
-- npc 53293 - Fandral Staghelm - updated
-  - coordinates: 3 spawn points added in Mount Hyjal
-- npc 67555 - Ancient Bloodcrown Crane - updated
-  - rank added (elite)
-- npc 67556 - Krasari Elder - updated
-  - rank added (elite)
