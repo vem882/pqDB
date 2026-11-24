@@ -29617,6 +29617,13 @@ ns.Overrides.wowhead = {
                 "we will do our best to send the necessary resources to the Cenarion Refuge.",
             rewardChoices = {{25524, 1}, {25523, 1}, {25522, 1}},
         },
+        [9733] = {
+            description = "The Cenarion Expedition has become a large organization with a good degree of " ..
+                "autonomy. These events are important enough that we need to warn the Cenarion " ..
+                "Circle.\n\nDo not worry, I will not ask you to travel back to Moonglade; we have " ..
+                "emissaries as nearby as Hellfire Peninsula.",
+            rewardMoney = 16000,
+        },
         [9734] = {
             description = "Return to Ysiel and let her know that help will be extended to her as soon as " ..
                 "it is possible.\n\nAffairs in Moonglade and Silithus have kept our members occupied, but " ..
