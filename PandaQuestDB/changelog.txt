@@ -2,6 +2,17 @@
 - Include distinct datasets for MoP Classic, Classic Era, TBC Anniversary and WoW Forever.
 Older data syncs: see each version's GitHub release notes and https://pd.zroot.it/changelog
 
+0.2.728
+- database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,427 NPCs, 6 objects
+- npc 38942 - Merciless Jungle Vine - updated
+  - coordinates: 1 spawn point added in Southern Barrens
+- npc 50779 - Sporeggon - updated
+  - coordinates: 3 spawn points added in Eastern Plaguelands
+- npc 50817 - Lith the Stalker - updated
+  - coordinates: 6 spawn points added in Kun-Lai Summit
+- npc 59925 - Kun-Lai Refugee - updated
+  - coordinates: 34 spawn points added in Vale of Eternal Blossoms
+
 0.2.727
 - database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,423 NPCs, 6 objects
 - npc 34610 - Demonic Invader - updated
@@ -57,6 +68,3 @@ Older data syncs: see each version's GitHub release notes and https://pd.zroot.i
 - npc 53394 - Blue Dragon - updated
   - coordinates: 4 spawn points added in Stormwind City
   - coordinates: 4 spawn points added in Orgrimmar
-
-0.2.717
-- database - TBC Anniversary: data from the PandaQuest portal: 5,319 quests, 108 NPCs, 7 objects
