@@ -2,6 +2,21 @@
 - Include distinct datasets for MoP Classic, Classic Era, TBC Anniversary and WoW Forever.
 Older data syncs: see each version's GitHub release notes and https://pd.zroot.it/changelog
 
+0.2.754
+- database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,472 NPCs, 7 objects
+- npc 51919 - Brackenwall Enforcer - updated
+  - coordinates: 1 spawn point added in Dustwallow Marsh
+- npc 53016 - Hardwrench Zombie Survivor - updated
+  - coordinates: 40 spawn points added in The Cape of Stranglethorn
+- npc 54032 - Dead Gang Member - updated
+  - coordinates: 3 spawn points added in Stormwind City
+- npc 58502 - He Softfoot - updated
+  - coordinates: 1 spawn point added in Vale of Eternal Blossoms
+- npc 60225 - Shao-Tien Marauder - updated
+  - coordinates: 40 spawn points added in Vale of Eternal Blossoms
+- npc 73656 - Crafter Kwon - updated
+  - NPC title added (Arms & Armor Repairs)
+
 0.2.753
 - database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,466 NPCs, 7 objects
 - npc 67560 - King Varian Wrynn - updated
@@ -66,6 +81,3 @@ Older data syncs: see each version's GitHub release notes and https://pd.zroot.i
 - npc 68936 - Ishi - updated
   - NPC title added (Blademaster)
   - NPC level added (90)
-
-0.2.743
-- database - TBC Anniversary: data from the PandaQuest portal: 5,321 quests, 117 NPCs, 8 objects
