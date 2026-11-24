@@ -2,6 +2,11 @@
 - Include distinct datasets for MoP Classic, Classic Era, TBC Anniversary and WoW Forever.
 Older data syncs: see each version's GitHub release notes and https://pd.zroot.it/changelog
 
+0.2.701
+- database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,407 NPCs, 6 objects
+- npc 69461 - Itoka - updated
+  - NPC title added (Master of the Forge)
+
 0.2.700
 - database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,406 NPCs, 6 objects
 - npc 67557 - Colossal Viseclaw - updated
@@ -69,9 +74,3 @@ Older data syncs: see each version's GitHub release notes and https://pd.zroot.i
 
 0.2.691
 - database - TBC Anniversary: data from the PandaQuest portal: 5,310 quests, 93 NPCs, 7 objects
-
-0.2.690
-- database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,396 NPCs, 6 objects
-- npc 69389 - Ryshelle Brightlock - updated
-  - NPC title added (The Reliquary)
-  - NPC level added (90)
