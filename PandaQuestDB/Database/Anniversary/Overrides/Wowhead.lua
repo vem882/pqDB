@@ -32951,6 +32951,13 @@ ns.Overrides.wowhead = {
                 "regain my freedom.",
             rewardMoney = 132000,
         },
+        [10258] = {
+            description = "Hogarth, the commander of the Armory, is in the eastern tower. You must report " ..
+                "your victory over Urtrak to him. Perhaps he will be friendly? Of course he may try to " ..
+                "consume your soul. One can never tell with spirits such as these.\n\nThe Unyielding are " ..
+                "still against us and will no doubt kill you if they can. Be careful <name>.",
+            rewardChoices = {{29108, 1}, {29109, 1}},
+        },
         [10262] = {
             description = "There is something else that I want your help with.\n\nA group of ethereals, " ..
                 "known as the Zaxxis, have cut their relationship with the Consortium and gone into " ..
