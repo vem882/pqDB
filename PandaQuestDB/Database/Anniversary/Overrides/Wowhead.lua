@@ -30579,6 +30579,14 @@ ns.Overrides.wowhead = {
                 "me their twisted idols of worship so that they may ride the lightning.",
             rewardChoices = {{25570, 1}, {25568, 1}, {25569, 1}},
         },
+        [9864] = {
+            description = "After the last Murkblood raid, a group of younglings decided to act. We tried " ..
+                "to stop them but the rage had taken hold. It has now been one week since we last saw our " ..
+                "beloved younglings.\n\nPlease, <race>, you must find them! They have just barely reached " ..
+                "adolescence. How can they expect to defeat such savages?\n\nThey took the road leading " ..
+                "west out of town. Follow that road around and look for signs of our younglings.\n\nAnd " ..
+                "<name>, avoid Halaa if you value your life. It is a war-zone.",
+        },
         [9865] = {
             description = "I do not know you, stranger, but I ask for your help. I feel shame for this, " ..
                 "but I am only one orc.\n\nEmotions have surfaced that I have never felt. I... I seek " ..

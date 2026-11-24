@@ -2,6 +2,9 @@
 - Include distinct datasets for MoP Classic, Classic Era, TBC Anniversary and WoW Forever.
 Older data syncs: see each version's GitHub release notes and https://pd.zroot.it/changelog
 
+0.2.708
+- database - TBC Anniversary: data from the PandaQuest portal: 5,313 quests, 102 NPCs, 7 objects
+
 0.2.707
 - database - TBC Anniversary: data from the PandaQuest portal: 5,312 quests, 102 NPCs, 7 objects
 
@@ -44,8 +47,3 @@ Older data syncs: see each version's GitHub release notes and https://pd.zroot.i
 - database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,405 NPCs, 6 objects
 - npc 69619 - Archmage Aethas Sunreaver - updated
   - NPC level added (90)
-
-0.2.697
-- database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,404 NPCs, 6 objects
-- npc 73153 - Arcweaver Reinforcements - updated
-  - NPC level added (91)
