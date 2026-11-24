@@ -2,6 +2,11 @@
 - Include distinct datasets for MoP Classic, Classic Era, TBC Anniversary and WoW Forever.
 Older data syncs: see each version's GitHub release notes and https://pd.zroot.it/changelog
 
+0.2.733
+- database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,433 NPCs, 7 objects
+- npc 51255 - Lieutenant Tristia - updated
+  - coordinates: 2 spawn points added in Stormwind City
+
 0.2.732
 - database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,432 NPCs, 7 objects
 - npc 8977 - Krom'Grul - updated
@@ -70,8 +75,3 @@ Older data syncs: see each version's GitHub release notes and https://pd.zroot.i
 
 0.2.723
 - database - Classic Era: data from the PandaQuest portal: 3,713 quests, 78 NPCs, 10 objects
-
-0.2.722
-- database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,415 NPCs, 6 objects
-- npc 32387 - Stormwind Elite - updated
-  - coordinates: 39 spawn points added in Undercity
