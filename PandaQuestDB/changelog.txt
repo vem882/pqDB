@@ -2,6 +2,11 @@
 - Include distinct datasets for MoP Classic, Classic Era, TBC Anniversary and WoW Forever.
 Older data syncs: see each version's GitHub release notes and https://pd.zroot.it/changelog
 
+0.2.751
+- database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,463 NPCs, 7 objects
+- npc 73138 - Wrathion - updated
+  - NPC title added (The Black Prince)
+
 0.2.750
 - database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,462 NPCs, 7 objects
 - npc 48462 - Neferset Infantry - updated
@@ -77,12 +82,3 @@ Older data syncs: see each version's GitHub release notes and https://pd.zroot.i
   - rank added (elite)
 - npc 67556 - Krasari Elder - updated
   - rank added (elite)
-
-0.2.740
-- database - rebuilt from Questie 12.14.0+v1.1.6 (was 12.13.0+v1.1.5)
-- database - Classic Era rebuilt from Questie 12.14.0+v1.1.6 (was 12.13.0+v1.1.5)
-- database - TBC Anniversary rebuilt from Questie 12.14.0+v1.1.6 (was 12.13.0+v1.1.5)
-- database - WoW Forever rebuilt from Questie 12.14.0+v1.1.6 (was 12.13.0+v1.1.5)
-- database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,441 NPCs, 7 objects
-- npc 52269 - Renataki - updated
-  - coordinates: 1 spawn point added in Zul'Gurub
