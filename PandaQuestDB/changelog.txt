@@ -2,6 +2,14 @@
 - Include distinct datasets for MoP Classic, Classic Era, TBC Anniversary and WoW Forever.
 Older data syncs: see each version's GitHub release notes and https://pd.zroot.it/changelog
 
+0.2.753
+- database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,466 NPCs, 7 objects
+- npc 67560 - King Varian Wrynn - updated
+  - NPC title added (King of Stormwind)
+  - rank added (elite)
+- npc 69026 - King Varian Wrynn - updated
+  - NPC title added (King of Stormwind)
+
 0.2.752
 - database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,464 NPCs, 7 objects
 - npc 48557 - High Warlord Cromush - updated
@@ -61,14 +69,3 @@ Older data syncs: see each version's GitHub release notes and https://pd.zroot.i
 
 0.2.743
 - database - TBC Anniversary: data from the PandaQuest portal: 5,321 quests, 117 NPCs, 8 objects
-
-0.2.742
-- database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,450 NPCs, 7 objects
-- database - TBC Anniversary: data from the PandaQuest portal: 5,321 quests, 115 NPCs, 8 objects
-- npc 24840 - Sailor Vines - updated
-  - coordinates: 5 spawn points added in Wetlands
-  - coordinates: 3 spawn points added in Dustwallow Marsh
-- npc 38200 - Silver Covenant Agent - updated
-  - coordinates: 11 spawn points added in Dalaran -
-- npc 47984 - Prolific Writer - updated
-  - coordinates: 4 spawn points added in Uldum
