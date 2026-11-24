@@ -2,6 +2,9 @@
 - Include distinct datasets for MoP Classic, Classic Era, TBC Anniversary and WoW Forever.
 Older data syncs: see each version's GitHub release notes and https://pd.zroot.it/changelog
 
+0.2.743
+- database - TBC Anniversary: data from the PandaQuest portal: 5,321 quests, 117 NPCs, 8 objects
+
 0.2.742
 - database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,450 NPCs, 7 objects
 - database - TBC Anniversary: data from the PandaQuest portal: 5,321 quests, 115 NPCs, 8 objects
@@ -80,14 +83,3 @@ Older data syncs: see each version's GitHub release notes and https://pd.zroot.i
 - database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,433 NPCs, 7 objects
 - npc 51255 - Lieutenant Tristia - updated
   - coordinates: 2 spawn points added in Stormwind City
-
-0.2.732
-- database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,432 NPCs, 7 objects
-- npc 8977 - Krom'Grul - updated
-  - coordinates: 40 spawn points added in Burning Steppes
-- npc 24924 - Sky-Captain Bomblast - updated
-  - coordinates: 5 spawn points added in Orgrimmar
-  - coordinates: 4 spawn points added in Durotar
-  - coordinates: 4 spawn points added in Northern Stranglethorn
-- object 185900 - Picnic Grill - updated
-  - coordinates: 1 spawn point added in Silvermoon City
