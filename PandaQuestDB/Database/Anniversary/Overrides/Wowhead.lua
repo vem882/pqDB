@@ -30531,6 +30531,16 @@ ns.Overrides.wowhead = {
                 "I'll be fine.",
             rewardMoney = 35000,
         },
+        [9859] = {
+            description = "<Wracking cough.>\n\nDon't worry about...<cough>... me. I'll be fine. It's " ..
+                "just a...<cough>... scratch.\n\nJust the same, I think you'll... <cough>... have to fill " ..
+                "in for me one more... <cough>... time.\n\nYou must seek out the great Bach'lor, king " ..
+                "of...<cough>... the stags. It's ok if you... <cough>... take friends along.\n\nBring me " ..
+                "one of his hooves...<cough>, <cough>... as confirmation.\n\nLook for him...<cough>... " ..
+                "leading his herd in the far west of Nagrand.",
+            rewardChoices = {{25543, 1}, {25636, 1}, {25545, 1}},
+            rewardMoney = 70000,
+        },
         [9860] = {
             description = "Return to Cedric at once, <name>. The aid you've given the Violet Eye will not " ..
                 "go unrewarded.\n\nThink what you want of us and our organization, <class>, but gaining " ..
@@ -40119,6 +40129,7 @@ ns.Overrides.wowhead = {
             zoneID = 17,
         },
         [6240] = {spawns = {[17] = {{68.4, 48.6}, {68.6, 48.4}, {68.6, 48.6}}}, zoneID = 17},
+        [6748] = {spawns = {[3525] = {{25.8, 40.8}}}, zoneID = 3525},
         [8122] = {
             spawns = {[1637] = {{74, 27.6}, {74.4, 26.4}, {74.4, 27.2}, {74.6, 26.2}, {74.6, 27}}},
             zoneID = 1637,
@@ -40261,6 +40272,16 @@ ns.Overrides.wowhead = {
                     {46, 42.4}, {46.4, 41.4}, {46.6, 41.6}, {47.4, 40}, {48.2, 39.4}, {48.4, 39.6},
                     {49.8, 38.6}, {50.4, 37.6}, {50.6, 37.4}, {52, 36.8}, {53, 36.4}, {53.4, 36.6},
                     {54.2, 36.8}, {55.2, 36.8}, {55.6, 36.6},
+                },
+            },
+            zoneID = 1377,
+        },
+        [15858] = {
+            spawns = {
+                [1377] = {
+                    {28.4, 89.4}, {28.8, 89.2}, {28.8, 90.4}, {29.4, 91.6}, {29.6, 90.4}, {30, 90.6},
+                    {31.2, 91.2}, {43, 70.8}, {44, 43.2}, {54.4, 35.6}, {54.4, 37}, {54.6, 36}, {54.6, 37.2},
+                    {54.8, 35.4},
                 },
             },
             zoneID = 1377,
@@ -40612,6 +40633,23 @@ ns.Overrides.wowhead = {
                 },
             },
             zoneID = 3522,
+        },
+        [23543] = {
+            spawns = {
+                [1] = {{46.4, 51.4}, {46.4, 52.4}, {46.4, 52.8}, {46.4, 53.6}, {46.6, 52.4}},
+                [12] = {{42.4, 65.4}, {42.4, 66}, {42.4, 66.6}, {42.6, 65.2}, {42.6, 65.6}, {42.6, 66.6}},
+                [14] = {{52.4, 41.4}, {52.4, 41.8}, {52.4, 42.8}, {52.6, 41.4}, {52.6, 42}, {52.6, 42.8}},
+                [85] = {{60.8, 52.4}, {60.8, 52.6}, {61.4, 51.2}, {61.6, 52.8}},
+                [3430] = {
+                    {47.4, 46.4}, {47.4, 46.6}, {47.6, 46.2}, {47.6, 46.8}, {47.8, 44.8}, {48, 47.6},
+                    {48.6, 46.2},
+                },
+                [3524] = {
+                    {48.2, 50.4}, {48.4, 50.8}, {48.6, 53.2}, {48.8, 51.4}, {49, 50.4}, {49, 51.6},
+                    {49.6, 51}, {49.6, 51.6}, {50.6, 51.6},
+                },
+            },
+            zoneID = 3524,
         },
         [23768] = {spawns = {[15] = {{63.6, 42.8}}}, zoneID = 15},
         [23928] = {
