@@ -35324,6 +35324,13 @@ ns.Overrides.wowhead = {
                 "this for us, <name>.",
             rewardChoices = {{31531, 1}, {31532, 1}, {31533, 1}, {31534, 1}},
         },
+        [10608] = {
+            description = "The damned rock flayers are keeping me from my research down in the Singing " ..
+                "Ridge! By digging at the crystals there, with every scratch they are ruining my chances " ..
+                "of studying the harmonics of the singing crystals.\n\nYou look like someone who can help " ..
+                "me deal with this problem. Head south and clear those crystal flayers out.",
+            rewardMoney = 37000,
+        },
         [10609] = {
             description = "I'm researching the applications of drake essences to my work as a physician. " ..
                 "I think they could be a panacea for a host of maladies!\n\nI need someone to go south to " ..
@@ -40115,6 +40122,7 @@ ns.Overrides.wowhead = {
             },
             zoneID = 36,
         },
+        [3582] = {spawns = {[11] = {{10.8, 60.4}}}, zoneID = 11},
         [3879] = {spawns = {[331] = {{25.6, 30.6}, {25.6, 32}, {25.8, 29.4}, {25.8, 30}}}},
         [3898] = {spawns = {[148] = {{43.4, 94.2}, {43.6, 94.4}, {43.6, 94.6}}}},
         [3899] = {spawns = {[148] = {{43.4, 94.2}, {43.6, 94.2}, {43.6, 94.6}}}},
