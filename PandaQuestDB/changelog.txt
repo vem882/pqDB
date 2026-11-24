@@ -2,6 +2,11 @@
 - Include distinct datasets for MoP Classic, Classic Era, TBC Anniversary and WoW Forever.
 Older data syncs: see each version's GitHub release notes and https://pd.zroot.it/changelog
 
+0.2.729
+- database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,428 NPCs, 6 objects
+- npc 50788 - Quetzl - updated
+  - coordinates: 2 spawn points added in Winterspring
+
 0.2.728
 - database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,427 NPCs, 6 objects
 - npc 38942 - Merciless Jungle Vine - updated
@@ -60,11 +65,3 @@ Older data syncs: see each version's GitHub release notes and https://pd.zroot.i
 - database - TBC Anniversary: data from the PandaQuest portal: 5,320 quests, 109 NPCs, 7 objects
 - npc 52542 - Evee Copperspring - updated
   - coordinates: 1 spawn point added in Tanaris
-
-0.2.718
-- database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,413 NPCs, 6 objects
-- database - Classic Era: data from the PandaQuest portal: 3,713 quests, 77 NPCs, 10 objects
-- database - TBC Anniversary: data from the PandaQuest portal: 5,319 quests, 109 NPCs, 7 objects
-- npc 53394 - Blue Dragon - updated
-  - coordinates: 4 spawn points added in Stormwind City
-  - coordinates: 4 spawn points added in Orgrimmar
