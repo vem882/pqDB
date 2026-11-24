@@ -2,6 +2,11 @@
 - Include distinct datasets for MoP Classic, Classic Era, TBC Anniversary and WoW Forever.
 Older data syncs: see each version's GitHub release notes and https://pd.zroot.it/changelog
 
+0.2.722
+- database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,415 NPCs, 6 objects
+- npc 32387 - Stormwind Elite - updated
+  - coordinates: 39 spawn points added in Undercity
+
 0.2.721
 - database - TBC Anniversary: data from the PandaQuest portal: 5,321 quests, 110 NPCs, 7 objects
 
@@ -44,15 +49,3 @@ Older data syncs: see each version's GitHub release notes and https://pd.zroot.i
 
 0.2.712
 - database - TBC Anniversary: data from the PandaQuest portal: 5,316 quests, 102 NPCs, 7 objects
-
-0.2.711
-- database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,411 NPCs, 6 objects
-- npc 42300 - Kor'kron Air Marine - updated
-  - coordinates: 11 spawn points added in Wetlands
-  - coordinates: 10 spawn points added in Twilight Highlands
-  - coordinates: 9 spawn points added in Azshara
-  - coordinates: 9 spawn points added in Arathi Highlands
-- npc 50906 - Mutilax - updated
-  - coordinates: 5 spawn points added in Western Plaguelands
-- npc 60142 - Shao-Tien Executioner - updated
-  - coordinates: 6 spawn points added in Vale of Eternal Blossoms
