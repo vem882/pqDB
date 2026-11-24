@@ -2,6 +2,12 @@
 - Include distinct datasets for MoP Classic, Classic Era, TBC Anniversary and WoW Forever.
 Older data syncs: see each version's GitHub release notes and https://pd.zroot.it/changelog
 
+0.2.731
+- database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,430 NPCs, 6 objects
+- npc 38302 - Manifestation of the Sea Witch - updated
+  - coordinates: 6 spawn points added in Echo Isles
+  - coordinates: 4 spawn points added in Durotar
+
 0.2.730
 - database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,429 NPCs, 6 objects
 - npc 40697 - Erunak Stonespeaker - updated
@@ -61,6 +67,3 @@ Older data syncs: see each version's GitHub release notes and https://pd.zroot.i
 
 0.2.721
 - database - TBC Anniversary: data from the PandaQuest portal: 5,321 quests, 110 NPCs, 7 objects
-
-0.2.720
-- database - TBC Anniversary: data from the PandaQuest portal: 5,321 quests, 109 NPCs, 7 objects
