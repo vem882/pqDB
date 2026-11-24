@@ -2,6 +2,9 @@
 - Include distinct datasets for MoP Classic, Classic Era, TBC Anniversary and WoW Forever.
 Older data syncs: see each version's GitHub release notes and https://pd.zroot.it/changelog
 
+0.2.721
+- database - TBC Anniversary: data from the PandaQuest portal: 5,321 quests, 110 NPCs, 7 objects
+
 0.2.720
 - database - TBC Anniversary: data from the PandaQuest portal: 5,321 quests, 109 NPCs, 7 objects
 
@@ -53,6 +56,3 @@ Older data syncs: see each version's GitHub release notes and https://pd.zroot.i
   - coordinates: 5 spawn points added in Western Plaguelands
 - npc 60142 - Shao-Tien Executioner - updated
   - coordinates: 6 spawn points added in Vale of Eternal Blossoms
-
-0.2.710
-- database - TBC Anniversary: data from the PandaQuest portal: 5,315 quests, 102 NPCs, 7 objects
