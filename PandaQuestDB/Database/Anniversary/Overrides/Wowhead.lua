@@ -33001,6 +33001,14 @@ ns.Overrides.wowhead = {
                 "recently ran into trouble with a pack of renegade ethereals. As a representative of the " ..
                 "Scryers, I would like for you to help him in any way that you can.",
         },
+        [10265] = {
+            description = "Our leader, Nexus-Prince Haramad, has tasked me with the acquisition of a " ..
+                "crystal artifact from the Arklon Ruins to the southeast.\n\nThey're old draenei ruins. " ..
+                "Unfortunately for both myself and the goblins here, the Burning Legion has decided to " ..
+                "move in to perform their own excavation.\n\nIf you're willing to help me, go to the " ..
+                "ruins and take the crystal artifact from the dreadlord named Pentatharon.",
+            rewardMoney = 41000,
+        },
         [10266] = {
             description = "While you were at the Arklon Ruins, I received a request for assistance from " ..
                 "one of our representatives out in the field. It would appear that the Consortium is " ..
