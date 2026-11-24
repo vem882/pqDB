@@ -81821,6 +81821,7 @@ ns.Overrides.wowhead = {
         [69966] = {maxLevel = 91, minLevel = 91, subName = "Glorious Conquest Quartermaster"},
         [70022] = {subName = "The Bone Collector"},
         [70030] = {subName = "Jurassic Expedition"},
+        [70034] = {subName = "Jurassic Expedition"},
         [70068] = {maxLevel = 93, minLevel = 93, subName = "The Unsullied"},
         [70100] = {maxLevel = 90, minLevel = 90},
         [70160] = {subName = "Lord of the Shado-Pan"},
