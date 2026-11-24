@@ -81618,6 +81618,7 @@ ns.Overrides.wowhead = {
         [67439] = {rank = 1},
         [67444] = {maxLevel = 90, minLevel = 90},
         [67554] = {maxLevel = 90, minLevel = 90},
+        [67557] = {rank = 1},
         [67586] = {rank = 0},
         [67628] = {maxLevel = 90, minLevel = 90},
         [67630] = {maxLevel = 87, minLevel = 87},
