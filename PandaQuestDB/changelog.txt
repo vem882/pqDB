@@ -2,6 +2,9 @@
 - Include distinct datasets for MoP Classic, Classic Era, TBC Anniversary and WoW Forever.
 Older data syncs: see each version's GitHub release notes and https://pd.zroot.it/changelog
 
+0.2.746
+- database - TBC Anniversary: data from the PandaQuest portal: 5,321 quests, 120 NPCs, 8 objects
+
 0.2.745
 - database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,454 NPCs, 7 objects
 - database - TBC Anniversary: data from the PandaQuest portal: 5,321 quests, 118 NPCs, 8 objects
@@ -82,8 +85,3 @@ Older data syncs: see each version's GitHub release notes and https://pd.zroot.i
 - npc 68225 - Ishi - updated
   - NPC title added (Blademaster)
   - NPC level added (90)
-
-0.2.735
-- database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,436 NPCs, 7 objects
-- npc 60371 - Jade Construct - updated
-  - coordinates: 9 spawn points added in Vale of Eternal Blossoms
