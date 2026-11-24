@@ -2,6 +2,13 @@
 - Include distinct datasets for MoP Classic, Classic Era, TBC Anniversary and WoW Forever.
 Older data syncs: see each version's GitHub release notes and https://pd.zroot.it/changelog
 
+0.2.755
+- database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,474 NPCs, 7 objects
+- npc 38668 - Talren Highbeacon - updated
+  - coordinates: 1 spawn point added in Eastern Plaguelands
+- npc 38806 - Ragnaros - updated
+  - coordinates: 1 spawn point added in Mount Hyjal
+
 0.2.754
 - database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,472 NPCs, 7 objects
 - npc 51919 - Brackenwall Enforcer - updated
@@ -73,11 +80,3 @@ Older data syncs: see each version's GitHub release notes and https://pd.zroot.i
   - coordinates: 40 spawn points added in Blasted Lands
 - npc 28875 - Shalewing - updated
   - coordinates: 17 spawn points added in Zul'Drak
-
-0.2.744
-- database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,452 NPCs, 7 objects
-- npc 40215 - Argex Irongut - updated
-  - coordinates: 1 spawn point added in Tanaris
-- npc 68936 - Ishi - updated
-  - NPC title added (Blademaster)
-  - NPC level added (90)
