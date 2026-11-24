@@ -38769,6 +38769,7 @@ ns.Overrides.wowhead = {
                 "once!",
         },
         [11108] = {description = "Come, highlord <name>. Illidan himself awaits us!", rewardMoney = 132000},
+        [11109] = {rewardItems = {{32859, 1}}},
         [11110] = {rewardItems = {{32860, 1}}},
         [11111] = {rewardItems = {{32857, 1}}},
         [11112] = {rewardItems = {{32858, 1}}},
