@@ -2,6 +2,13 @@
 - Include distinct datasets for MoP Classic, Classic Era, TBC Anniversary and WoW Forever.
 Older data syncs: see each version's GitHub release notes and https://pd.zroot.it/changelog
 
+0.2.747
+- database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,456 NPCs, 7 objects
+- npc 19366 - Argent Hunter - updated
+  - coordinates: 12 spawn points added in Blasted Lands
+- npc 40231 - Hexed Troll - updated
+  - coordinates: 3 spawn points added in Durotar
+
 0.2.746
 - database - TBC Anniversary: data from the PandaQuest portal: 5,321 quests, 120 NPCs, 8 objects
 
@@ -77,11 +84,3 @@ Older data syncs: see each version's GitHub release notes and https://pd.zroot.i
 - database - Classic Era: data from the PandaQuest portal: 3,713 quests, 79 NPCs, 10 objects
 - npc 30479 - Stormhoof's Spirit - updated
   - coordinates: 1 spawn point added in The Storm Peaks
-
-0.2.736
-- database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,438 NPCs, 7 objects
-- npc 68044 - Kor'kron Subjugator - updated
-  - NPC level added (90)
-- npc 68225 - Ishi - updated
-  - NPC title added (Blademaster)
-  - NPC level added (90)
