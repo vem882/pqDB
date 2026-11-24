@@ -2,6 +2,10 @@
 - Include distinct datasets for MoP Classic, Classic Era, TBC Anniversary and WoW Forever.
 Older data syncs: see each version's GitHub release notes and https://pd.zroot.it/changelog
 
+0.2.738
+- database - Classic Era: data from the PandaQuest portal: 3,713 quests, 81 NPCs, 10 objects
+- database - TBC Anniversary: data from the PandaQuest portal: 5,321 quests, 114 NPCs, 7 objects
+
 0.2.737
 - database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,439 NPCs, 7 objects
 - database - Classic Era: data from the PandaQuest portal: 3,713 quests, 79 NPCs, 10 objects
@@ -70,16 +74,3 @@ Older data syncs: see each version's GitHub release notes and https://pd.zroot.i
   - coordinates: 6 spawn points added in Kun-Lai Summit
 - npc 59925 - Kun-Lai Refugee - updated
   - coordinates: 34 spawn points added in Vale of Eternal Blossoms
-
-0.2.727
-- database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,423 NPCs, 6 objects
-- npc 34610 - Demonic Invader - updated
-  - coordinates: 1 spawn point added in Ashenvale
-- npc 42162 - Skeleton - updated
-  - coordinates: 17 spawn points added in Wetlands
-- npc 50348 - Norissis - updated
-  - coordinates: 2 spawn points added in Winterspring
-- npc 67414 - Vol'jin - updated
-  - rank added (elite)
-- npc 68632 - Mage-Commander Zuros - updated
-  - NPC level added (90)
