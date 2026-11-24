@@ -2,6 +2,11 @@
 - Include distinct datasets for MoP Classic, Classic Era, TBC Anniversary and WoW Forever.
 Older data syncs: see each version's GitHub release notes and https://pd.zroot.it/changelog
 
+0.2.749
+- database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,460 NPCs, 7 objects
+- npc 50960 - Hexapos - updated
+  - coordinates: 5 spawn points added in Dread Wastes
+
 0.2.748
 - database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,459 NPCs, 7 objects
 - npc 11656 - Warsong Peon - updated
@@ -83,7 +88,3 @@ Older data syncs: see each version's GitHub release notes and https://pd.zroot.i
   - coordinates: 23 spawn points added in Durotar
   - coordinates: 17 spawn points added in Thunder Bluff
   - coordinates: also changed in 2 more zones
-
-0.2.738
-- database - Classic Era: data from the PandaQuest portal: 3,713 quests, 81 NPCs, 10 objects
-- database - TBC Anniversary: data from the PandaQuest portal: 5,321 quests, 114 NPCs, 7 objects
