@@ -32967,6 +32967,15 @@ ns.Overrides.wowhead = {
                 "still against us and will no doubt kill you if they can. Be careful <name>.",
             rewardChoices = {{29108, 1}, {29109, 1}},
         },
+        [10261] = {
+            description = "WANTED: 1 Annihilator Servo to replace the failing one in my Long Neck " ..
+                "Spectrum Analyzer.\n\nYou and your friends might want to check with the blood elves at " ..
+                "Manaforge B'naar to the west to see if they have any spares. They seem to have a few " ..
+                "arcane annihilators roaming about.\n\nPlease deliver the servo in pristine condition to " ..
+                "Papa Wheeler at Area 52.",
+            rewardChoices = {{30295, 1}, {30296, 1}, {30294, 1}},
+            rewardMoney = 78000,
+        },
         [10262] = {
             description = "There is something else that I want your help with.\n\nA group of ethereals, " ..
                 "known as the Zaxxis, have cut their relationship with the Consortium and gone into " ..
@@ -40610,6 +40619,7 @@ ns.Overrides.wowhead = {
             zoneID = 3523,
         },
         [21129] = {spawns = {[3520] = {{42.2, 45}}}, zoneID = 3520},
+        [21134] = {spawns = {[3483] = {{70, 77}}}, zoneID = 3483},
         [21323] = {
             spawns = {
                 [3523] = {
