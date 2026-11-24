@@ -2,6 +2,13 @@
 - Include distinct datasets for MoP Classic, Classic Era, TBC Anniversary and WoW Forever.
 Older data syncs: see each version's GitHub release notes and https://pd.zroot.it/changelog
 
+0.2.734
+- database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,435 NPCs, 7 objects
+- npc 40274 - Restless Zombie - updated
+  - coordinates: 1 spawn point added in Durotar
+- npc 47985 - Pretentious Businessman - updated
+  - coordinates: 3 spawn points added in Uldum
+
 0.2.733
 - database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,433 NPCs, 7 objects
 - npc 51255 - Lieutenant Tristia - updated
@@ -72,6 +79,3 @@ Older data syncs: see each version's GitHub release notes and https://pd.zroot.i
 - database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,416 NPCs, 6 objects
 - npc 50850 - Savage - updated
   - coordinates: 10 spawn points added in The Jade Forest
-
-0.2.723
-- database - Classic Era: data from the PandaQuest portal: 3,713 quests, 78 NPCs, 10 objects
