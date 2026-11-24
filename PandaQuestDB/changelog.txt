@@ -2,6 +2,12 @@
 - Include distinct datasets for MoP Classic, Classic Era, TBC Anniversary and WoW Forever.
 Older data syncs: see each version's GitHub release notes and https://pd.zroot.it/changelog
 
+0.2.737
+- database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,439 NPCs, 7 objects
+- database - Classic Era: data from the PandaQuest portal: 3,713 quests, 79 NPCs, 10 objects
+- npc 30479 - Stormhoof's Spirit - updated
+  - coordinates: 1 spawn point added in The Storm Peaks
+
 0.2.736
 - database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,438 NPCs, 7 objects
 - npc 68044 - Kor'kron Subjugator - updated
@@ -77,10 +83,3 @@ Older data syncs: see each version's GitHub release notes and https://pd.zroot.i
   - rank added (elite)
 - npc 68632 - Mage-Commander Zuros - updated
   - NPC level added (90)
-
-0.2.726
-- database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,418 NPCs, 6 objects
-- npc 11705 - Rayan Dawnrisen - updated
-  - coordinates: 1 spawn point added in Azshara
-- npc 36786 - Azshara Detonator - updated
-  - coordinates: 1 spawn point added in Azshara
