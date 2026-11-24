@@ -38251,6 +38251,14 @@ ns.Overrides.wowhead = {
                 "the mission. I'm certain that the exarch could benefit from your knowledge and " ..
                 "experience. Are you willing to travel to Area 52 and assist him?",
         },
+        [11039] = {
+            description = "Some time ago, Voren'thal dispatched a small team to Netherstorm to " ..
+                "investigate the activities of Kael'thas. Our leader has the utmost confidence in " ..
+                "Spymaster Thalodien and his compatriots, and has decided to honor his request for " ..
+                "reinforcements.\n\nThalodien's report was brief, but clear that he's encountered " ..
+                "something of great importance. Report to him at Area 52 and assist him in any way " ..
+                "possible, <name>.",
+        },
         [11040] = {
             description = "You can count on one hand the number of times I've collaborated with a goblin. " ..
                 "We're far more likely to be in competition with them, but when I received Rocket-Chief " ..
