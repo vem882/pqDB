@@ -2,6 +2,10 @@
 - Include distinct datasets for MoP Classic, Classic Era, TBC Anniversary and WoW Forever.
 Older data syncs: see each version's GitHub release notes and https://pd.zroot.it/changelog
 
+0.2.706
+- database - Classic Era: data from the PandaQuest portal: 3,713 quests, 73 NPCs, 10 objects
+- database - TBC Anniversary: data from the PandaQuest portal: 5,311 quests, 102 NPCs, 7 objects
+
 0.2.705
 - database - TBC Anniversary: data from the PandaQuest portal: 5,311 quests, 101 NPCs, 7 objects
 
@@ -47,7 +51,3 @@ Older data syncs: see each version's GitHub release notes and https://pd.zroot.i
 - database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,403 NPCs, 6 objects
 - npc 68617 - Archmage Lan'dalock - updated
   - NPC level added (90)
-
-0.2.695
-- database - Classic Era: data from the PandaQuest portal: 3,713 quests, 69 NPCs, 10 objects
-- database - TBC Anniversary: data from the PandaQuest portal: 5,310 quests, 94 NPCs, 7 objects
