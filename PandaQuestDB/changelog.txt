@@ -2,6 +2,13 @@
 - Include distinct datasets for MoP Classic, Classic Era, TBC Anniversary and WoW Forever.
 Older data syncs: see each version's GitHub release notes and https://pd.zroot.it/changelog
 
+0.2.716
+- database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,412 NPCs, 6 objects
+- database - Classic Era: data from the PandaQuest portal: 3,713 quests, 76 NPCs, 10 objects
+- database - TBC Anniversary: data from the PandaQuest portal: 5,318 quests, 108 NPCs, 7 objects
+- npc 70034 - Arnold Raygun - updated
+  - NPC title added (Jurassic Expedition)
+
 0.2.715
 - database - Classic Era: data from the PandaQuest portal: 3,713 quests, 74 NPCs, 10 objects
 - database - TBC Anniversary: data from the PandaQuest portal: 5,318 quests, 106 NPCs, 7 objects
@@ -42,6 +49,3 @@ Older data syncs: see each version's GitHub release notes and https://pd.zroot.i
 0.2.706
 - database - Classic Era: data from the PandaQuest portal: 3,713 quests, 73 NPCs, 10 objects
 - database - TBC Anniversary: data from the PandaQuest portal: 5,311 quests, 102 NPCs, 7 objects
-
-0.2.705
-- database - TBC Anniversary: data from the PandaQuest portal: 5,311 quests, 101 NPCs, 7 objects
