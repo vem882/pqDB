@@ -81765,6 +81765,7 @@ ns.Overrides.wowhead = {
         [69371] = {subName = "Plague Consultant"},
         [69389] = {maxLevel = 90, minLevel = 90, subName = "The Reliquary"},
         [69433] = {subName = "Illusions and Transformations"},
+        [69461] = {subName = "Master of the Forge"},
         [69619] = {maxLevel = 90, minLevel = 90},
         [69663] = {subName = "The Hunt Master"},
         [69668] = {subName = "Kirin Tor"},
