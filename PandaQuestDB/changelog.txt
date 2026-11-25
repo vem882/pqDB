@@ -2,6 +2,11 @@
 - Include distinct datasets for MoP Classic, Classic Era, TBC Anniversary and WoW Forever.
 Older data syncs: see each version's GitHub release notes and https://pd.zroot.it/changelog
 
+0.2.788
+- database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,548 NPCs, 7 objects
+- npc 42369 - Faceless Mauler - updated
+  - coordinates: 15 spawn points added in Abyssal Depths
+
 0.2.787
 - database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,547 NPCs, 7 objects
 - npc 15917 - Lunar Festival Reveler - updated
@@ -83,8 +88,3 @@ Older data syncs: see each version's GitHub release notes and https://pd.zroot.i
 - database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,524 NPCs, 7 objects
 - npc 43448 - Messner - updated
   - coordinates: 2 spawn points added in Redridge Mountains
-
-0.2.777
-- database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,523 NPCs, 7 objects
-- npc 50952 - Barnacle Jim - updated
-  - coordinates: 4 spawn points added in Thousand Needles
