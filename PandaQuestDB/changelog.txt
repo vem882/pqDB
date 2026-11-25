@@ -2,6 +2,13 @@
 - Include distinct datasets for MoP Classic, Classic Era, TBC Anniversary and WoW Forever.
 Older data syncs: see each version's GitHub release notes and https://pd.zroot.it/changelog
 
+0.2.761
+- database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,496 NPCs, 7 objects
+- npc 19599 - Void Servant - updated
+  - coordinates: 5 spawn points added in Hellfire Peninsula
+- npc 50727 - Strix the Barbed - updated
+  - coordinates: 3 spawn points added in Thousand Needles
+
 0.2.760
 - database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,494 NPCs, 7 objects
 - npc 28854 - Blood of the Old God - updated
@@ -102,10 +109,3 @@ Older data syncs: see each version's GitHub release notes and https://pd.zroot.i
 - database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,463 NPCs, 7 objects
 - npc 73138 - Wrathion - updated
   - NPC title added (The Black Prince)
-
-0.2.750
-- database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,462 NPCs, 7 objects
-- npc 48462 - Neferset Infantry - updated
-  - coordinates: 1 spawn point added in Uldum
-- npc 52211 - Crossroads Caravan Cart - updated
-  - coordinates: 1 spawn point added in The Barrens
