@@ -2,6 +2,15 @@
 - Include distinct datasets for MoP Classic, Classic Era, TBC Anniversary and WoW Forever.
 Older data syncs: see each version's GitHub release notes and https://pd.zroot.it/changelog
 
+0.2.799
+- database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,573 NPCs, 9 objects
+- npc 11828 - Kelly Grant - updated
+  - coordinates: 9 spawn points added in Stormwind City
+- npc 51848 - Thelsamar Mountaineer - updated
+  - coordinates: 4 spawn points added in Loch Modan
+- object 222684 - Glinting Sand - updated
+  - coordinates: 22 spawn points added in Timeless Isle
+
 0.2.798
 - database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,571 NPCs, 8 objects
 - npc 40312 - Tiger Matriarch - updated
@@ -89,8 +98,3 @@ Older data syncs: see each version's GitHub release notes and https://pd.zroot.i
 - database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,549 NPCs, 7 objects
 - npc 43936 - Pincer X2 Crewmember - updated
   - coordinates: 40 spawn points added in Abyssal Depths
-
-0.2.788
-- database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,548 NPCs, 7 objects
-- npc 42369 - Faceless Mauler - updated
-  - coordinates: 15 spawn points added in Abyssal Depths
