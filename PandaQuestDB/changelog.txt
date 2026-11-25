@@ -2,6 +2,11 @@
 - Include distinct datasets for MoP Classic, Classic Era, TBC Anniversary and WoW Forever.
 Older data syncs: see each version's GitHub release notes and https://pd.zroot.it/changelog
 
+0.2.778
+- database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,524 NPCs, 7 objects
+- npc 43448 - Messner - updated
+  - coordinates: 2 spawn points added in Redridge Mountains
+
 0.2.777
 - database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,523 NPCs, 7 objects
 - npc 50952 - Barnacle Jim - updated
@@ -68,8 +73,3 @@ Older data syncs: see each version's GitHub release notes and https://pd.zroot.i
 
 0.2.768
 - database - TBC Anniversary: data from the PandaQuest portal: 5,326 quests, 123 NPCs, 8 objects
-
-0.2.767
-- database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,505 NPCs, 7 objects
-- npc 47736 - Magatha Grimtotem - updated
-  - coordinates: 1 spawn point added in Thousand Needles
