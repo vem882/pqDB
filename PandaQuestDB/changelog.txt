@@ -2,6 +2,11 @@
 - Include distinct datasets for MoP Classic, Classic Era, TBC Anniversary and WoW Forever.
 Older data syncs: see each version's GitHub release notes and https://pd.zroot.it/changelog
 
+0.2.800
+- database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,574 NPCs, 9 objects
+- npc 48703 - Harrison Jones - updated
+  - coordinates: 1 spawn point added in Uldum
+
 0.2.799
 - database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,573 NPCs, 9 objects
 - npc 11828 - Kelly Grant - updated
@@ -93,8 +98,3 @@ Older data syncs: see each version's GitHub release notes and https://pd.zroot.i
   - coordinates: 4 spawn points added in Durotar
 - npc 49027 - Keegan Firebeard - updated
   - coordinates: 1 spawn point added in Twilight Highlands
-
-0.2.789
-- database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,549 NPCs, 7 objects
-- npc 43936 - Pincer X2 Crewmember - updated
-  - coordinates: 40 spawn points added in Abyssal Depths
