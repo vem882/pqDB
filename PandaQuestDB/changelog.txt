@@ -2,6 +2,13 @@
 - Include distinct datasets for MoP Classic, Classic Era, TBC Anniversary and WoW Forever.
 Older data syncs: see each version's GitHub release notes and https://pd.zroot.it/changelog
 
+0.2.793
+- database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,557 NPCs, 8 objects
+- npc 25111 - Treasure - updated
+  - coordinates: 18 spawn points added in The Barrens
+  - coordinates: 12 spawn points added in Northern Stranglethorn
+  - coordinates: 10 spawn points added in The Cape of Stranglethorn
+
 0.2.792
 - database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,556 NPCs, 8 objects
 - npc 11217 - Lucien Sarkhoff - updated
@@ -86,13 +93,3 @@ Older data syncs: see each version's GitHub release notes and https://pd.zroot.i
   - coordinates: 1 spawn point added in Abyssal Depths
 - npc 50339 - Sandpecker - updated
   - coordinates: 4 spawn points added in Valley of the Four Winds
-
-0.2.782
-- database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,532 NPCs, 7 objects
-- database - TBC Anniversary: data from the PandaQuest portal: 5,326 quests, 131 NPCs, 8 objects
-- npc 11180 - Bloodvenom Post Brave - updated
-  - coordinates: 7 spawn points added in Felwood
-- npc 50786 - Sparkwing - updated
-  - coordinates: 2 spawn points added in Stonetalon Mountains
-- npc 52578 - Orcish Orphan - updated
-  - coordinates: 18 spawn points added in Azshara
