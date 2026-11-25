@@ -2,6 +2,15 @@
 - Include distinct datasets for MoP Classic, Classic Era, TBC Anniversary and WoW Forever.
 Older data syncs: see each version's GitHub release notes and https://pd.zroot.it/changelog
 
+0.2.763
+- database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,499 NPCs, 7 objects
+- npc 39253 - Gnome Citizen - updated
+  - coordinates: 40 spawn points added in Ironforge
+- npc 40598 - Drag Master Miglen - updated
+  - coordinates: 3 spawn points added in Thousand Needles
+- npc 53058 - Lylagar Breath - updated
+  - coordinates: 2 spawn points added in Mount Hyjal
+
 0.2.762
 - database - TBC Anniversary: data from the PandaQuest portal: 5,326 quests, 122 NPCs, 8 objects
 
@@ -102,8 +111,3 @@ Older data syncs: see each version's GitHub release notes and https://pd.zroot.i
   - rank added (elite)
 - npc 69026 - King Varian Wrynn - updated
   - NPC title added (King of Stormwind)
-
-0.2.752
-- database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,464 NPCs, 7 objects
-- npc 48557 - High Warlord Cromush - updated
-  - coordinates: 1 spawn point added in Hillsbrad Foothills
