@@ -2,6 +2,18 @@
 - Include distinct datasets for MoP Classic, Classic Era, TBC Anniversary and WoW Forever.
 Older data syncs: see each version's GitHub release notes and https://pd.zroot.it/changelog
 
+0.2.794
+- database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,561 NPCs, 8 objects
+- npc 11614 - Bloodshot - updated
+  - coordinates: 5 spawn points added in Western Plaguelands
+- npc 43901 - Earthcaller Torunscar - updated
+  - coordinates: 3 spawn points added in Deepholm
+- npc 53408 - Blue Drake - updated
+  - coordinates: 40 spawn points added in Stormwind City
+  - coordinates: 25 spawn points added in Orgrimmar
+- npc 53534 - Technician Joram - updated
+  - coordinates: 7 spawn points added in Abyssal Depths
+
 0.2.793
 - database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,557 NPCs, 8 objects
 - npc 25111 - Treasure - updated
@@ -82,14 +94,3 @@ Older data syncs: see each version's GitHub release notes and https://pd.zroot.i
 - database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,537 NPCs, 7 objects
 - npc 43907 - Duskhaven Watchman - updated
   - coordinates: 2 spawn points added in Gilneas
-
-0.2.783
-- database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,536 NPCs, 7 objects
-- npc 10662 - Spellmaw - updated
-  - coordinates: 40 spawn points added in Winterspring
-- npc 10950 - Redpath Militia - updated
-  - coordinates: 6 spawn points added in Eastern Plaguelands
-- npc 42358 - Pincer X2 Crewmember - updated
-  - coordinates: 1 spawn point added in Abyssal Depths
-- npc 50339 - Sandpecker - updated
-  - coordinates: 4 spawn points added in Valley of the Four Winds
