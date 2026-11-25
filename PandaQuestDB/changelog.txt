@@ -2,6 +2,11 @@
 - Include distinct datasets for MoP Classic, Classic Era, TBC Anniversary and WoW Forever.
 Older data syncs: see each version's GitHub release notes and https://pd.zroot.it/changelog
 
+0.2.789
+- database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,549 NPCs, 7 objects
+- npc 43936 - Pincer X2 Crewmember - updated
+  - coordinates: 40 spawn points added in Abyssal Depths
+
 0.2.788
 - database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,548 NPCs, 7 objects
 - npc 42369 - Faceless Mauler - updated
@@ -83,8 +88,3 @@ Older data syncs: see each version's GitHub release notes and https://pd.zroot.i
   - coordinates: 1 spawn point added in Zul'Gurub
 - npc 56455 - Ravenholdt Sentry - updated
   - coordinates: 9 spawn points added in Hillsbrad Foothills
-
-0.2.778
-- database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,524 NPCs, 7 objects
-- npc 43448 - Messner - updated
-  - coordinates: 2 spawn points added in Redridge Mountains
