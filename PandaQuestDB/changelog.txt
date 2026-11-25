@@ -2,6 +2,11 @@
 - Include distinct datasets for MoP Classic, Classic Era, TBC Anniversary and WoW Forever.
 Older data syncs: see each version's GitHub release notes and https://pd.zroot.it/changelog
 
+0.2.805
+- database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,581 NPCs, 9 objects
+- npc 11710 - Mirador - updated
+  - coordinates: 2 spawn points added in Eastern Plaguelands
+
 0.2.804
 - database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,580 NPCs, 9 objects
 - npc 25052 - Galley Chief Halumvorea - updated
@@ -77,15 +82,3 @@ Older data syncs: see each version's GitHub release notes and https://pd.zroot.i
 - database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,562 NPCs, 8 objects
 - npc 48504 - Kasha - updated
   - coordinates: 21 spawn points added in Hillsbrad Foothills
-
-0.2.794
-- database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,561 NPCs, 8 objects
-- npc 11614 - Bloodshot - updated
-  - coordinates: 5 spawn points added in Western Plaguelands
-- npc 43901 - Earthcaller Torunscar - updated
-  - coordinates: 3 spawn points added in Deepholm
-- npc 53408 - Blue Drake - updated
-  - coordinates: 40 spawn points added in Stormwind City
-  - coordinates: 25 spawn points added in Orgrimmar
-- npc 53534 - Technician Joram - updated
-  - coordinates: 7 spawn points added in Abyssal Depths
