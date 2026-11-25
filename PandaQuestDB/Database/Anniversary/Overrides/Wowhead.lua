@@ -32067,6 +32067,16 @@ ns.Overrides.wowhead = {
                 "move along the roads, but don't assume she's got our best interests at heart. Rakoria " ..
                 "goes where she believes there's profit to be found.",
         },
+        [10106] = {
+            description = "The Hellfire Citadel wages constant battles with our forces. We are holding " ..
+                "our own so far, but we can't yet launch a real offensive against them. To do that, we " ..
+                "need forward staging areas.\n\nOur scouts identified three fortifications near Hellfire " ..
+                "Citadel. We want you to help secure these forts. Capture each fort, and then report back " ..
+                "to me.\n\nMay fortune shine upon you in the conflicts ahead, <name>, for you will no " ..
+                "doubt clash with Horde forces eager to gain these same fortifications.",
+            rewardItems = {{24579, 3}},
+            rewardMoney = 7000,
+        },
         [10107] = {
             description = "Kilrath sends news of the Boulderfist leader: He is an orc! An ancient orc " ..
                 "that passed through the Dark Portal in the time of our fathers and has since returned to " ..
