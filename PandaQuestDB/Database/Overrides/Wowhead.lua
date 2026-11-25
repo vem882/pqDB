@@ -78676,6 +78676,7 @@ ns.Overrides.wowhead = {
             },
             zoneID = 3537,
         },
+        [26586] = {spawns = {[394] = {{51, 34.8}}}, zoneID = 394},
         [26590] = {spawns = {[394] = {{53.4, 33.4}, {53.8, 33.4}}}, zoneID = 394},
         [27059] = {
             spawns = {
@@ -82300,6 +82301,7 @@ ns.Overrides.wowhead = {
         [71165] = {subName = "The Black Prince"},
         [71169] = {maxLevel = 90, minLevel = 90, subName = "The Red Crane"},
         [71312] = {maxLevel = 90, minLevel = 90},
+        [71318] = {maxLevel = 90, minLevel = 90},
         [71321] = {maxLevel = 92, minLevel = 92, subName = "Aspect of Death"},
         [71351] = {subName = "The Black Prince"},
         [71424] = {subName = "The Black Prince"},
