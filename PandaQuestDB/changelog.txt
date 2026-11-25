@@ -2,6 +2,15 @@
 - Include distinct datasets for MoP Classic, Classic Era, TBC Anniversary and WoW Forever.
 Older data syncs: see each version's GitHub release notes and https://pd.zroot.it/changelog
 
+0.2.792
+- database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,556 NPCs, 8 objects
+- npc 11217 - Lucien Sarkhoff - updated
+  - coordinates: 1 spawn point added in Western Plaguelands
+- npc 32537 - Spirit Healer - updated
+  - coordinates: 1 spawn point added in Tirisfal Glades
+- object 214439 - Barrel of Banana Infused Rum - updated
+  - coordinates: 2 spawn points added in Krasarang Wilds
+
 0.2.791
 - database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,554 NPCs, 7 objects
 - npc 60221 - Golden Lotus Archer - updated
@@ -87,6 +96,3 @@ Older data syncs: see each version's GitHub release notes and https://pd.zroot.i
   - coordinates: 2 spawn points added in Stonetalon Mountains
 - npc 52578 - Orcish Orphan - updated
   - coordinates: 18 spawn points added in Azshara
-
-0.2.781
-- database - TBC Anniversary: data from the PandaQuest portal: 5,326 quests, 130 NPCs, 8 objects
