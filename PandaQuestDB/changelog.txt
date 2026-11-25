@@ -2,6 +2,12 @@
 - Include distinct datasets for MoP Classic, Classic Era, TBC Anniversary and WoW Forever.
 Older data syncs: see each version's GitHub release notes and https://pd.zroot.it/changelog
 
+0.2.796
+- database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,563 NPCs, 8 objects
+- npc 24834 - Galley Chief Grace - updated
+  - coordinates: 16 spawn points added in Wetlands
+  - coordinates: 13 spawn points added in Dustwallow Marsh
+
 0.2.795
 - database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,562 NPCs, 8 objects
 - npc 48504 - Kasha - updated
@@ -83,14 +89,3 @@ Older data syncs: see each version's GitHub release notes and https://pd.zroot.i
   - coordinates: 2 spawn points added in Northern Stranglethorn
 - npc 60272 - Leven Dawnblade - updated
   - coordinates: 2 spawn points added in Vale of Eternal Blossoms
-
-0.2.785
-- database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,541 NPCs, 7 objects
-- npc 10951 - Marauding Corpse - updated
-  - coordinates: 8 spawn points added in Eastern Plaguelands
-- npc 39902 - Gnomeregan Battle Suit - updated
-  - coordinates: 8 spawn points added in Dun Morogh
-- npc 53164 - Kalecgos - updated
-  - coordinates: 1 spawn point added in Borean Tundra
-- npc 53242 - Blue Dragon - updated
-  - coordinates: 2 spawn points added in Borean Tundra
