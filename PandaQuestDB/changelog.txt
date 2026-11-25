@@ -2,6 +2,15 @@
 - Include distinct datasets for MoP Classic, Classic Era, TBC Anniversary and WoW Forever.
 Older data syncs: see each version's GitHub release notes and https://pd.zroot.it/changelog
 
+0.2.779
+- database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,527 NPCs, 7 objects
+- npc 50806 - Urobi - updated
+  - coordinates: 40 spawn points added in Vale of Eternal Blossoms
+- npc 52286 - Wushoolay - updated
+  - coordinates: 1 spawn point added in Zul'Gurub
+- npc 56455 - Ravenholdt Sentry - updated
+  - coordinates: 9 spawn points added in Hillsbrad Foothills
+
 0.2.778
 - database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,524 NPCs, 7 objects
 - npc 43448 - Messner - updated
@@ -70,6 +79,3 @@ Older data syncs: see each version's GitHub release notes and https://pd.zroot.i
   - coordinates: 1 spawn point added in Ashenvale
 - npc 41756 - Hellscream's Vanguard - updated
   - coordinates: 2 spawn points added in Kelp'thar Forest
-
-0.2.768
-- database - TBC Anniversary: data from the PandaQuest portal: 5,326 quests, 123 NPCs, 8 objects
