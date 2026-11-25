@@ -2,6 +2,16 @@
 - Include distinct datasets for MoP Classic, Classic Era, TBC Anniversary and WoW Forever.
 Older data syncs: see each version's GitHub release notes and https://pd.zroot.it/changelog
 
+0.2.782
+- database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,532 NPCs, 7 objects
+- database - TBC Anniversary: data from the PandaQuest portal: 5,326 quests, 131 NPCs, 8 objects
+- npc 11180 - Bloodvenom Post Brave - updated
+  - coordinates: 7 spawn points added in Felwood
+- npc 50786 - Sparkwing - updated
+  - coordinates: 2 spawn points added in Stonetalon Mountains
+- npc 52578 - Orcish Orphan - updated
+  - coordinates: 18 spawn points added in Azshara
+
 0.2.781
 - database - TBC Anniversary: data from the PandaQuest portal: 5,326 quests, 130 NPCs, 8 objects
 
@@ -68,12 +78,3 @@ Older data syncs: see each version's GitHub release notes and https://pd.zroot.i
   - coordinates: 2 spawn points added in Stonetalon Mountains
 - npc 57805 - Blackhowl Footsoldier - updated
   - coordinates: 40 spawn points added in Ruins of Gilneas
-
-0.2.771
-- database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,511 NPCs, 7 objects
-- npc 43908 - Erunak Stonespeaker - updated
-  - coordinates: 40 spawn points added in Abyssal Depths
-- npc 44205 - Tiny Ooze - updated
-  - coordinates: 3 spawn points added in Wetlands
-- npc 59927 - Caravan Driver - updated
-  - coordinates: 9 spawn points added in Vale of Eternal Blossoms
