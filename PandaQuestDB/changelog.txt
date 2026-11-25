@@ -2,6 +2,15 @@
 - Include distinct datasets for MoP Classic, Classic Era, TBC Anniversary and WoW Forever.
 Older data syncs: see each version's GitHub release notes and https://pd.zroot.it/changelog
 
+0.2.776
+- database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,522 NPCs, 7 objects
+- npc 10659 - Cobalt Whelp - updated
+  - coordinates: 25 spawn points added in Winterspring
+- npc 50957 - Hugeclaw - updated
+  - coordinates: 3 spawn points added in Dustwallow Marsh
+- npc 72254 - Gauros Earthshatter - updated
+  - NPC level added (90)
+
 0.2.775
 - database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,519 NPCs, 7 objects
 - npc 26586 - Hungry Worg - updated
@@ -69,8 +78,3 @@ Older data syncs: see each version's GitHub release notes and https://pd.zroot.i
 - npc 54072 - Sanath Lim-yo - updated
   - coordinates: 2 spawn points added in Tirisfal Glades
   - coordinates: 2 spawn points added in Stormwind City
-
-0.2.765
-- database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,501 NPCs, 7 objects
-- npc 27480 - Muradin - updated
-  - coordinates: 3 spawn points added in Dragonblight
