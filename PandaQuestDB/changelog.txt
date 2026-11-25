@@ -2,6 +2,20 @@
 - Include distinct datasets for MoP Classic, Classic Era, TBC Anniversary and WoW Forever.
 Older data syncs: see each version's GitHub release notes and https://pd.zroot.it/changelog
 
+0.2.790
+- database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,553 NPCs, 7 objects
+- npc 11871 - Grinning Dog - updated
+  - coordinates: 4 spawn points added in Orgrimmar
+- npc 24837 - Navigator Mehran - updated
+  - coordinates: 13 spawn points added in Wetlands
+  - coordinates: 9 spawn points added in Dustwallow Marsh
+- npc 25072 - Crewman Quickfix - updated
+  - coordinates: 12 spawn points added in Orgrimmar
+  - coordinates: 11 spawn points added in Tirisfal Glades
+  - coordinates: 4 spawn points added in Durotar
+- npc 49027 - Keegan Firebeard - updated
+  - coordinates: 1 spawn point added in Twilight Highlands
+
 0.2.789
 - database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,549 NPCs, 7 objects
 - npc 43936 - Pincer X2 Crewmember - updated
@@ -79,12 +93,3 @@ Older data syncs: see each version's GitHub release notes and https://pd.zroot.i
   - coordinates: 3 spawn points added in Desolace
 - npc 49006 - Skyshredder Crewmember - updated
   - coordinates: 30 spawn points added in Twilight Highlands
-
-0.2.779
-- database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,527 NPCs, 7 objects
-- npc 50806 - Urobi - updated
-  - coordinates: 40 spawn points added in Vale of Eternal Blossoms
-- npc 52286 - Wushoolay - updated
-  - coordinates: 1 spawn point added in Zul'Gurub
-- npc 56455 - Ravenholdt Sentry - updated
-  - coordinates: 9 spawn points added in Hillsbrad Foothills
