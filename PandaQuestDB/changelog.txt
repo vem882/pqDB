@@ -2,6 +2,14 @@
 - Include distinct datasets for MoP Classic, Classic Era, TBC Anniversary and WoW Forever.
 Older data syncs: see each version's GitHub release notes and https://pd.zroot.it/changelog
 
+0.2.780
+- database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,529 NPCs, 7 objects
+- database - TBC Anniversary: data from the PandaQuest portal: 5,326 quests, 129 NPCs, 8 objects
+- npc 13837 - Captured Stallion - updated
+  - coordinates: 3 spawn points added in Desolace
+- npc 49006 - Skyshredder Crewmember - updated
+  - coordinates: 30 spawn points added in Twilight Highlands
+
 0.2.779
 - database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,527 NPCs, 7 objects
 - npc 50806 - Urobi - updated
@@ -71,11 +79,3 @@ Older data syncs: see each version's GitHub release notes and https://pd.zroot.i
 - database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,508 NPCs, 7 objects
 - npc 53292 - Leyara - updated
   - coordinates: 3 spawn points added in Mount Hyjal
-
-0.2.769
-- database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,507 NPCs, 7 objects
-- database - TBC Anniversary: data from the PandaQuest portal: 5,326 quests, 127 NPCs, 8 objects
-- npc 34052 - Splintertree Guard - updated
-  - coordinates: 1 spawn point added in Ashenvale
-- npc 41756 - Hellscream's Vanguard - updated
-  - coordinates: 2 spawn points added in Kelp'thar Forest
