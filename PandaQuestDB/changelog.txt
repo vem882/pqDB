@@ -2,6 +2,11 @@
 - Include distinct datasets for MoP Classic, Classic Era, TBC Anniversary and WoW Forever.
 Older data syncs: see each version's GitHub release notes and https://pd.zroot.it/changelog
 
+0.2.803
+- database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,577 NPCs, 9 objects
+- npc 53288 - General Rajaxx - updated
+  - coordinates: 4 spawn points added in Moonglade
+
 0.2.802
 - database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,576 NPCs, 9 objects
 - npc 41872 - Succubus Minion - updated
@@ -80,12 +85,3 @@ Older data syncs: see each version's GitHub release notes and https://pd.zroot.i
   - coordinates: 18 spawn points added in The Barrens
   - coordinates: 12 spawn points added in Northern Stranglethorn
   - coordinates: 10 spawn points added in The Cape of Stranglethorn
-
-0.2.792
-- database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,556 NPCs, 8 objects
-- npc 11217 - Lucien Sarkhoff - updated
-  - coordinates: 1 spawn point added in Western Plaguelands
-- npc 32537 - Spirit Healer - updated
-  - coordinates: 1 spawn point added in Tirisfal Glades
-- object 214439 - Barrel of Banana Infused Rum - updated
-  - coordinates: 2 spawn points added in Krasarang Wilds
