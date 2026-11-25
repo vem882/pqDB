@@ -2,6 +2,11 @@
 - Include distinct datasets for MoP Classic, Classic Era, TBC Anniversary and WoW Forever.
 Older data syncs: see each version's GitHub release notes and https://pd.zroot.it/changelog
 
+0.2.784
+- database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,537 NPCs, 7 objects
+- npc 43907 - Duskhaven Watchman - updated
+  - coordinates: 2 spawn points added in Gilneas
+
 0.2.783
 - database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,536 NPCs, 7 objects
 - npc 10662 - Spellmaw - updated
@@ -73,10 +78,3 @@ Older data syncs: see each version's GitHub release notes and https://pd.zroot.i
 - database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,517 NPCs, 7 objects
 - npc 40388 - Darkspear Ancestor - updated
   - coordinates: 1 spawn point added in Durotar
-
-0.2.773
-- database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,516 NPCs, 7 objects
-- npc 41753 - Hellscream's Vanguard - updated
-  - coordinates: 3 spawn points added in Kelp'thar Forest
-- npc 50811 - Nasra - updated
-  - coordinates: 8 spawn points added in Valley of the Four Winds
