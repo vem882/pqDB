@@ -2,6 +2,11 @@
 - Include distinct datasets for MoP Classic, Classic Era, TBC Anniversary and WoW Forever.
 Older data syncs: see each version's GitHub release notes and https://pd.zroot.it/changelog
 
+0.2.777
+- database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,523 NPCs, 7 objects
+- npc 50952 - Barnacle Jim - updated
+  - coordinates: 4 spawn points added in Thousand Needles
+
 0.2.776
 - database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,522 NPCs, 7 objects
 - npc 10659 - Cobalt Whelp - updated
@@ -68,13 +73,3 @@ Older data syncs: see each version's GitHub release notes and https://pd.zroot.i
 - database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,505 NPCs, 7 objects
 - npc 47736 - Magatha Grimtotem - updated
   - coordinates: 1 spawn point added in Thousand Needles
-
-0.2.766
-- database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,504 NPCs, 7 objects
-- npc 48329 - Earthcaller Yevaa - updated
-  - coordinates: 3 spawn points added in Twilight Highlands
-- npc 50653 - Wildhammer Horn - updated
-  - coordinates: 2 spawn points added in Twilight Highlands
-- npc 54072 - Sanath Lim-yo - updated
-  - coordinates: 2 spawn points added in Tirisfal Glades
-  - coordinates: 2 spawn points added in Stormwind City
