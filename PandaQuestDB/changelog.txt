@@ -2,6 +2,17 @@
 - Include distinct datasets for MoP Classic, Classic Era, TBC Anniversary and WoW Forever.
 Older data syncs: see each version's GitHub release notes and https://pd.zroot.it/changelog
 
+0.2.783
+- database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,536 NPCs, 7 objects
+- npc 10662 - Spellmaw - updated
+  - coordinates: 40 spawn points added in Winterspring
+- npc 10950 - Redpath Militia - updated
+  - coordinates: 6 spawn points added in Eastern Plaguelands
+- npc 42358 - Pincer X2 Crewmember - updated
+  - coordinates: 1 spawn point added in Abyssal Depths
+- npc 50339 - Sandpecker - updated
+  - coordinates: 4 spawn points added in Valley of the Four Winds
+
 0.2.782
 - database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,532 NPCs, 7 objects
 - database - TBC Anniversary: data from the PandaQuest portal: 5,326 quests, 131 NPCs, 8 objects
@@ -69,12 +80,3 @@ Older data syncs: see each version's GitHub release notes and https://pd.zroot.i
   - coordinates: 3 spawn points added in Kelp'thar Forest
 - npc 50811 - Nasra - updated
   - coordinates: 8 spawn points added in Valley of the Four Winds
-
-0.2.772
-- database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,514 NPCs, 7 objects
-- npc 43963 - Warlord Krogg - updated
-  - coordinates: 5 spawn points added in Twilight Highlands
-- npc 50874 - Tenok - updated
-  - coordinates: 2 spawn points added in Stonetalon Mountains
-- npc 57805 - Blackhowl Footsoldier - updated
-  - coordinates: 40 spawn points added in Ruins of Gilneas
