@@ -2,6 +2,16 @@
 - Include distinct datasets for MoP Classic, Classic Era, TBC Anniversary and WoW Forever.
 Older data syncs: see each version's GitHub release notes and https://pd.zroot.it/changelog
 
+0.2.766
+- database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,504 NPCs, 7 objects
+- npc 48329 - Earthcaller Yevaa - updated
+  - coordinates: 3 spawn points added in Twilight Highlands
+- npc 50653 - Wildhammer Horn - updated
+  - coordinates: 2 spawn points added in Twilight Highlands
+- npc 54072 - Sanath Lim-yo - updated
+  - coordinates: 2 spawn points added in Tirisfal Glades
+  - coordinates: 2 spawn points added in Stormwind City
+
 0.2.765
 - database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,501 NPCs, 7 objects
 - npc 27480 - Muradin - updated
@@ -91,10 +101,3 @@ Older data syncs: see each version's GitHub release notes and https://pd.zroot.i
   - coordinates: 10 spawn points added in Arathi Highlands
 - npc 68762 - Sunreaver Dragonhawk - updated
   - NPC level added (90)
-
-0.2.755
-- database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,474 NPCs, 7 objects
-- npc 38668 - Talren Highbeacon - updated
-  - coordinates: 1 spawn point added in Eastern Plaguelands
-- npc 38806 - Ragnaros - updated
-  - coordinates: 1 spawn point added in Mount Hyjal
