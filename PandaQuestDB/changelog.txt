@@ -2,6 +2,9 @@
 - Include distinct datasets for MoP Classic, Classic Era, TBC Anniversary and WoW Forever.
 Older data syncs: see each version's GitHub release notes and https://pd.zroot.it/changelog
 
+0.2.781
+- database - TBC Anniversary: data from the PandaQuest portal: 5,326 quests, 130 NPCs, 8 objects
+
 0.2.780
 - database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,529 NPCs, 7 objects
 - database - TBC Anniversary: data from the PandaQuest portal: 5,326 quests, 129 NPCs, 8 objects
@@ -74,8 +77,3 @@ Older data syncs: see each version's GitHub release notes and https://pd.zroot.i
   - coordinates: 3 spawn points added in Wetlands
 - npc 59927 - Caravan Driver - updated
   - coordinates: 9 spawn points added in Vale of Eternal Blossoms
-
-0.2.770
-- database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,508 NPCs, 7 objects
-- npc 53292 - Leyara - updated
-  - coordinates: 3 spawn points added in Mount Hyjal
