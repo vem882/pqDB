@@ -2,6 +2,25 @@
 - Include distinct datasets for MoP Classic, Classic Era, TBC Anniversary and WoW Forever.
 Older data syncs: see each version's GitHub release notes and https://pd.zroot.it/changelog
 
+0.2.760
+- database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,494 NPCs, 7 objects
+- npc 28854 - Blood of the Old God - updated
+  - coordinates: 8 spawn points added in Grizzly Hills
+- npc 47954 - Vermillion Skyscreamer - updated
+  - coordinates: 2 spawn points added in Twilight Highlands
+- npc 50764 - Paraliss - updated
+  - coordinates: 4 spawn points added in Dustwallow Marsh
+- npc 51857 - Hunter Hill Brave - updated
+  - coordinates: 2 spawn points added in Southern Barrens
+- npc 73398 - Sentry Mimao - updated
+  - NPC title added (Camp Supplies)
+- npc 73399 - Sentry "Big Belly" Fong - updated
+  - NPC title added (Camp Supplies)
+- npc 73401 - Sentry Yinli - updated
+  - NPC title added (Blacksmithing Supplies)
+- npc 73403 - Sentry Dondao - updated
+  - NPC title added (Blacksmithing Supplies)
+
 0.2.759
 - database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,486 NPCs, 7 objects
 - database - TBC Anniversary: data from the PandaQuest portal: 5,326 quests, 121 NPCs, 8 objects
@@ -90,8 +109,3 @@ Older data syncs: see each version's GitHub release notes and https://pd.zroot.i
   - coordinates: 1 spawn point added in Uldum
 - npc 52211 - Crossroads Caravan Cart - updated
   - coordinates: 1 spawn point added in The Barrens
-
-0.2.749
-- database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,460 NPCs, 7 objects
-- npc 50960 - Hexapos - updated
-  - coordinates: 5 spawn points added in Dread Wastes
