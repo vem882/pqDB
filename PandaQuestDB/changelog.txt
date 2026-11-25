@@ -2,6 +2,11 @@
 - Include distinct datasets for MoP Classic, Classic Era, TBC Anniversary and WoW Forever.
 Older data syncs: see each version's GitHub release notes and https://pd.zroot.it/changelog
 
+0.2.767
+- database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,505 NPCs, 7 objects
+- npc 47736 - Magatha Grimtotem - updated
+  - coordinates: 1 spawn point added in Thousand Needles
+
 0.2.766
 - database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,504 NPCs, 7 objects
 - npc 48329 - Earthcaller Yevaa - updated
@@ -89,15 +94,4 @@ Older data syncs: see each version's GitHub release notes and https://pd.zroot.i
   - coordinates: 3 spawn points added in Thousand Needles
 - npc 68754 - Tolyria - updated
   - NPC title added (Forgemistress)
-  - NPC level added (90)
-
-0.2.756
-- database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,478 NPCs, 7 objects
-- npc 11707 - Joy Ar'nareth - updated
-  - coordinates: 1 spawn point added in Azshara
-- npc 30462 - Thorim - updated
-  - coordinates: 2 spawn points added in The Storm Peaks
-- npc 50804 - Ripwing - updated
-  - coordinates: 10 spawn points added in Arathi Highlands
-- npc 68762 - Sunreaver Dragonhawk - updated
   - NPC level added (90)
