@@ -2,6 +2,22 @@
 - Include distinct datasets for MoP Classic, Classic Era, TBC Anniversary and WoW Forever.
 Older data syncs: see each version's GitHub release notes and https://pd.zroot.it/changelog
 
+0.2.758
+- database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,485 NPCs, 7 objects
+- database - TBC Anniversary: data from the PandaQuest portal: 5,326 quests, 120 NPCs, 8 objects
+- npc 15696 - War Effort Recruit - updated
+  - coordinates: 26 spawn points added in Orgrimmar
+- npc 31650 - Thrall - updated
+  - coordinates: 11 spawn points added in Undercity
+  - coordinates: 4 spawn points added in Tirisfal Glades
+- npc 39901 - Mekgineer Thermaplugg's Brag-Bot - updated
+  - coordinates: 2 spawn points added in Dun Morogh
+- npc 51962 - Tirisfal Bear - updated
+  - coordinates: 3 spawn points added in Silverpine Forest
+  - coordinates: 1 spawn point added in Tirisfal Glades
+- npc 52546 - Captain Dirgehammer - updated
+  - coordinates: 2 spawn points added in Stormwind City
+
 0.2.757
 - database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,480 NPCs, 7 objects
 - database - TBC Anniversary: data from the PandaQuest portal: 5,322 quests, 120 NPCs, 8 objects
@@ -82,10 +98,3 @@ Older data syncs: see each version's GitHub release notes and https://pd.zroot.i
   - NPC title added (Innkeeper)
 - npc 73632 - Cowardly Zue - updated
   - NPC title added (Stable Master)
-
-0.2.747
-- database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,456 NPCs, 7 objects
-- npc 19366 - Argent Hunter - updated
-  - coordinates: 12 spawn points added in Blasted Lands
-- npc 40231 - Hexed Troll - updated
-  - coordinates: 3 spawn points added in Durotar

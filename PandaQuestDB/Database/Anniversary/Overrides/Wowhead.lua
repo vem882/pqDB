@@ -31047,6 +31047,14 @@ ns.Overrides.wowhead = {
                 "able to bring Giselda to justice.",
             rewardMoney = 105000,
         },
+        [9936] = {
+            description = "Wanted: Dead or Alive\n\nGiselda the Crone of Kil'sorrow and her lackeys for " ..
+                "murder, ritual sacrifice, communing with the Legion, kidnapping, and burglary.\n\nKnown " ..
+                "to congregate at Kil'sorrow Fortress in southeastern Nagrand, near the border of " ..
+                "Terokkar.\n\nLarge gold reward to be dispensed by Warden Moi'bff Jill at Telaar to " ..
+                "anyone able to bring Giselda to justice.",
+            rewardMoney = 105000,
+        },
         [9937] = {
             description = "You have destroyed two of the biggest threats in Nagrand, <name>. Are you " ..
                 "ready to take on the scourge of the Spirit Fields?\n\nDurn the Hungerer lords over the " ..
@@ -31673,6 +31681,16 @@ ns.Overrides.wowhead = {
                 "give you another.",
             rewardMoney = 33000,
         },
+        [10041] = {
+            description = "I don't know who they are, but I know they're hostile!\n\nI'm going to give " ..
+                "you a disguise, and I want you to go in there and speak with three of them that I've " ..
+                "observed as being 'chatty'. Talk with the initiate, the laborer, and the " ..
+                "advisor.\n\nJust watch out; there're a few hunters in there who'll be able to see " ..
+                "through your disguise and they look tough! And whatever you do, don't leave the village " ..
+                "-- the disguise is kind of flimsy. If you lose your disguise, come back to me and I'll " ..
+                "give you another.",
+            rewardMoney = 33000,
+        },
         [10042] = {
             description = "What! Those guys are Shadow Council?!\n\n<name>, you have to go back in there " ..
                 "and waste them! I want you to take out their leader and as many of their executioners " ..
@@ -31847,7 +31865,27 @@ ns.Overrides.wowhead = {
                 "the exterior platform that the ramp in this chamber leads up to.",
             rewardXP = 15,
         },
+        [10074] = {
+            description = "This base was the primary draenei research facility for the study of naaru " ..
+                "crystals.\n\nWhat we have discovered is a veritable goldmine of research notes about the " ..
+                "crystals from the \"diamond\" mountain, Oshu'gun. It would seem that everything in this " ..
+                "region carries with it some residual powder of the Oshu'gun crystals. If you find any " ..
+                "powder while adventuring in this region, return it to me and I shall reward you with a " ..
+                "token of my appreciation which you may use to make purchases from the quartermaster.",
+            rewardItems = {{26044, 1}},
+            rewardMoney = 37000,
+        },
         [10075] = {rewardItems = {{26044, 1}}, rewardMoney = 29000},
+        [10076] = {
+            description = "This base was the primary draenei research facility for the study of naaru " ..
+                "crystals.\n\nWhat we have discovered is a veritable goldmine of research notes about the " ..
+                "crystals from the \"diamond\" mountain, Oshu'gun. It would seem that everything in this " ..
+                "region carries with it some residual powder of the Oshu'gun crystals. If you find any " ..
+                "powder while adventuring in this region, return it to me and I shall reward you with a " ..
+                "token of my appreciation which you may use to make purchases from the quartermaster.",
+            rewardItems = {{26044, 1}},
+            rewardMoney = 37000,
+        },
         [10077] = {rewardItems = {{26044, 1}}, rewardMoney = 29000},
         [10078] = {
             description = "Now that we've gotten our salvage operation off the ground, it's time to begin " ..
