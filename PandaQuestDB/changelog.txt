@@ -2,6 +2,13 @@
 - Include distinct datasets for MoP Classic, Classic Era, TBC Anniversary and WoW Forever.
 Older data syncs: see each version's GitHub release notes and https://pd.zroot.it/changelog
 
+0.2.773
+- database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,516 NPCs, 7 objects
+- npc 41753 - Hellscream's Vanguard - updated
+  - coordinates: 3 spawn points added in Kelp'thar Forest
+- npc 50811 - Nasra - updated
+  - coordinates: 8 spawn points added in Valley of the Four Winds
+
 0.2.772
 - database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,514 NPCs, 7 objects
 - npc 43963 - Warlord Krogg - updated
@@ -69,6 +76,3 @@ Older data syncs: see each version's GitHub release notes and https://pd.zroot.i
   - coordinates: 3 spawn points added in Thousand Needles
 - npc 53058 - Lylagar Breath - updated
   - coordinates: 2 spawn points added in Mount Hyjal
-
-0.2.762
-- database - TBC Anniversary: data from the PandaQuest portal: 5,326 quests, 122 NPCs, 8 objects
