@@ -2,6 +2,21 @@
 - Include distinct datasets for MoP Classic, Classic Era, TBC Anniversary and WoW Forever.
 Older data syncs: see each version's GitHub release notes and https://pd.zroot.it/changelog
 
+0.2.806
+- database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,586 NPCs, 9 objects
+- npc 11712 - Lilyn Darkriver - updated
+  - coordinates: 4 spawn points added in Ashenvale
+- npc 15137 - Menethil Elite - updated
+  - coordinates: 40 spawn points added in Wetlands
+- npc 25083 - Deathguard Lawson - updated
+  - coordinates: 13 spawn points added in Orgrimmar
+  - coordinates: 5 spawn points added in Tirisfal Glades
+  - coordinates: 3 spawn points added in Durotar
+- npc 28881 - Reverent Guard - updated
+  - coordinates: 21 spawn points added in Shattrath City
+- npc 50746 - Bornix the Burrower - updated
+  - coordinates: 2 spawn points added in Silithus
+
 0.2.805
 - database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,581 NPCs, 9 objects
 - npc 11710 - Mirador - updated
@@ -77,8 +92,3 @@ Older data syncs: see each version's GitHub release notes and https://pd.zroot.i
 - npc 24834 - Galley Chief Grace - updated
   - coordinates: 16 spawn points added in Wetlands
   - coordinates: 13 spawn points added in Dustwallow Marsh
-
-0.2.795
-- database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,562 NPCs, 8 objects
-- npc 48504 - Kasha - updated
-  - coordinates: 21 spawn points added in Hillsbrad Foothills
