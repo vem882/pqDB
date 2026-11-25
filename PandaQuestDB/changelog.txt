@@ -2,6 +2,13 @@
 - Include distinct datasets for MoP Classic, Classic Era, TBC Anniversary and WoW Forever.
 Older data syncs: see each version's GitHub release notes and https://pd.zroot.it/changelog
 
+0.2.802
+- database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,576 NPCs, 9 objects
+- npc 41872 - Succubus Minion - updated
+  - coordinates: 40 spawn points added in Desolace
+- npc 52258 - Gri'lek - updated
+  - coordinates: 1 spawn point added in Zul'Gurub
+
 0.2.801
 - database - TBC Anniversary: data from the PandaQuest portal: 5,327 quests, 131 NPCs, 8 objects
 
@@ -82,8 +89,3 @@ Older data syncs: see each version's GitHub release notes and https://pd.zroot.i
   - coordinates: 1 spawn point added in Tirisfal Glades
 - object 214439 - Barrel of Banana Infused Rum - updated
   - coordinates: 2 spawn points added in Krasarang Wilds
-
-0.2.791
-- database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,554 NPCs, 7 objects
-- npc 60221 - Golden Lotus Archer - updated
-  - coordinates: 14 spawn points added in Vale of Eternal Blossoms
