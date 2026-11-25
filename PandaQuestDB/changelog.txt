@@ -2,6 +2,11 @@
 - Include distinct datasets for MoP Classic, Classic Era, TBC Anniversary and WoW Forever.
 Older data syncs: see each version's GitHub release notes and https://pd.zroot.it/changelog
 
+0.2.764
+- database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,500 NPCs, 7 objects
+- npc 59924 - Shao-Tien Assassin - updated
+  - coordinates: 4 spawn points added in Vale of Eternal Blossoms
+
 0.2.763
 - database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,499 NPCs, 7 objects
 - npc 39253 - Gnome Citizen - updated
@@ -103,11 +108,3 @@ Older data syncs: see each version's GitHub release notes and https://pd.zroot.i
   - coordinates: 40 spawn points added in Vale of Eternal Blossoms
 - npc 73656 - Crafter Kwon - updated
   - NPC title added (Arms & Armor Repairs)
-
-0.2.753
-- database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,466 NPCs, 7 objects
-- npc 67560 - King Varian Wrynn - updated
-  - NPC title added (King of Stormwind)
-  - rank added (elite)
-- npc 69026 - King Varian Wrynn - updated
-  - NPC title added (King of Stormwind)
