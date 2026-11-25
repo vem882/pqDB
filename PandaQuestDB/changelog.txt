@@ -2,6 +2,11 @@
 - Include distinct datasets for MoP Classic, Classic Era, TBC Anniversary and WoW Forever.
 Older data syncs: see each version's GitHub release notes and https://pd.zroot.it/changelog
 
+0.2.791
+- database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,554 NPCs, 7 objects
+- npc 60221 - Golden Lotus Archer - updated
+  - coordinates: 14 spawn points added in Vale of Eternal Blossoms
+
 0.2.790
 - database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,553 NPCs, 7 objects
 - npc 11871 - Grinning Dog - updated
@@ -85,11 +90,3 @@ Older data syncs: see each version's GitHub release notes and https://pd.zroot.i
 
 0.2.781
 - database - TBC Anniversary: data from the PandaQuest portal: 5,326 quests, 130 NPCs, 8 objects
-
-0.2.780
-- database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,529 NPCs, 7 objects
-- database - TBC Anniversary: data from the PandaQuest portal: 5,326 quests, 129 NPCs, 8 objects
-- npc 13837 - Captured Stallion - updated
-  - coordinates: 3 spawn points added in Desolace
-- npc 49006 - Skyshredder Crewmember - updated
-  - coordinates: 30 spawn points added in Twilight Highlands
