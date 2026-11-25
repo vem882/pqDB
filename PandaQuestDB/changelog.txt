@@ -2,6 +2,15 @@
 - Include distinct datasets for MoP Classic, Classic Era, TBC Anniversary and WoW Forever.
 Older data syncs: see each version's GitHub release notes and https://pd.zroot.it/changelog
 
+0.2.786
+- database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,544 NPCs, 7 objects
+- npc 41083 - Steelspark LX-506 - updated
+  - coordinates: 4 spawn points added in Tanaris
+- npc 51822 - Rebel Watchman - updated
+  - coordinates: 2 spawn points added in Northern Stranglethorn
+- npc 60272 - Leven Dawnblade - updated
+  - coordinates: 2 spawn points added in Vale of Eternal Blossoms
+
 0.2.785
 - database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,541 NPCs, 7 objects
 - npc 10951 - Marauding Corpse - updated
@@ -76,11 +85,4 @@ Older data syncs: see each version's GitHub release notes and https://pd.zroot.i
 - npc 50957 - Hugeclaw - updated
   - coordinates: 3 spawn points added in Dustwallow Marsh
 - npc 72254 - Gauros Earthshatter - updated
-  - NPC level added (90)
-
-0.2.775
-- database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,519 NPCs, 7 objects
-- npc 26586 - Hungry Worg - updated
-  - coordinates: 1 spawn point added in Grizzly Hills
-- npc 71318 - Kor'kron Grunt - updated
   - NPC level added (90)
