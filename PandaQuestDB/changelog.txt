@@ -2,6 +2,11 @@
 - Include distinct datasets for MoP Classic, Classic Era, TBC Anniversary and WoW Forever.
 Older data syncs: see each version's GitHub release notes and https://pd.zroot.it/changelog
 
+0.2.770
+- database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,508 NPCs, 7 objects
+- npc 53292 - Leyara - updated
+  - coordinates: 3 spawn points added in Mount Hyjal
+
 0.2.769
 - database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,507 NPCs, 7 objects
 - database - TBC Anniversary: data from the PandaQuest portal: 5,326 quests, 127 NPCs, 8 objects
@@ -75,9 +80,3 @@ Older data syncs: see each version's GitHub release notes and https://pd.zroot.i
   - NPC title added (Blacksmithing Supplies)
 - npc 73403 - Sentry Dondao - updated
   - NPC title added (Blacksmithing Supplies)
-
-0.2.759
-- database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,486 NPCs, 7 objects
-- database - TBC Anniversary: data from the PandaQuest portal: 5,326 quests, 121 NPCs, 8 objects
-- npc 50803 - Bonechewer - updated
-  - coordinates: 2 spawn points added in Tirisfal Glades
