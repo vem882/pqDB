@@ -2,6 +2,11 @@
 - Include distinct datasets for MoP Classic, Classic Era, TBC Anniversary and WoW Forever.
 Older data syncs: see each version's GitHub release notes and https://pd.zroot.it/changelog
 
+0.2.795
+- database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,562 NPCs, 8 objects
+- npc 48504 - Kasha - updated
+  - coordinates: 21 spawn points added in Hillsbrad Foothills
+
 0.2.794
 - database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,561 NPCs, 8 objects
 - npc 11614 - Bloodshot - updated
@@ -89,8 +94,3 @@ Older data syncs: see each version's GitHub release notes and https://pd.zroot.i
   - coordinates: 1 spawn point added in Borean Tundra
 - npc 53242 - Blue Dragon - updated
   - coordinates: 2 spawn points added in Borean Tundra
-
-0.2.784
-- database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,537 NPCs, 7 objects
-- npc 43907 - Duskhaven Watchman - updated
-  - coordinates: 2 spawn points added in Gilneas
