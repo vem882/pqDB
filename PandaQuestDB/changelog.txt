@@ -2,6 +2,14 @@
 - Include distinct datasets for MoP Classic, Classic Era, TBC Anniversary and WoW Forever.
 Older data syncs: see each version's GitHub release notes and https://pd.zroot.it/changelog
 
+0.2.769
+- database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,507 NPCs, 7 objects
+- database - TBC Anniversary: data from the PandaQuest portal: 5,326 quests, 127 NPCs, 8 objects
+- npc 34052 - Splintertree Guard - updated
+  - coordinates: 1 spawn point added in Ashenvale
+- npc 41756 - Hellscream's Vanguard - updated
+  - coordinates: 2 spawn points added in Kelp'thar Forest
+
 0.2.768
 - database - TBC Anniversary: data from the PandaQuest portal: 5,326 quests, 123 NPCs, 8 objects
 
@@ -73,19 +81,3 @@ Older data syncs: see each version's GitHub release notes and https://pd.zroot.i
 - database - TBC Anniversary: data from the PandaQuest portal: 5,326 quests, 121 NPCs, 8 objects
 - npc 50803 - Bonechewer - updated
   - coordinates: 2 spawn points added in Tirisfal Glades
-
-0.2.758
-- database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,485 NPCs, 7 objects
-- database - TBC Anniversary: data from the PandaQuest portal: 5,326 quests, 120 NPCs, 8 objects
-- npc 15696 - War Effort Recruit - updated
-  - coordinates: 26 spawn points added in Orgrimmar
-- npc 31650 - Thrall - updated
-  - coordinates: 11 spawn points added in Undercity
-  - coordinates: 4 spawn points added in Tirisfal Glades
-- npc 39901 - Mekgineer Thermaplugg's Brag-Bot - updated
-  - coordinates: 2 spawn points added in Dun Morogh
-- npc 51962 - Tirisfal Bear - updated
-  - coordinates: 3 spawn points added in Silverpine Forest
-  - coordinates: 1 spawn point added in Tirisfal Glades
-- npc 52546 - Captain Dirgehammer - updated
-  - coordinates: 2 spawn points added in Stormwind City
