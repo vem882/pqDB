@@ -2,6 +2,11 @@
 - Include distinct datasets for MoP Classic, Classic Era, TBC Anniversary and WoW Forever.
 Older data syncs: see each version's GitHub release notes and https://pd.zroot.it/changelog
 
+0.2.774
+- database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,517 NPCs, 7 objects
+- npc 40388 - Darkspear Ancestor - updated
+  - coordinates: 1 spawn point added in Durotar
+
 0.2.773
 - database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,516 NPCs, 7 objects
 - npc 41753 - Hellscream's Vanguard - updated
@@ -67,12 +72,3 @@ Older data syncs: see each version's GitHub release notes and https://pd.zroot.i
 - database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,500 NPCs, 7 objects
 - npc 59924 - Shao-Tien Assassin - updated
   - coordinates: 4 spawn points added in Vale of Eternal Blossoms
-
-0.2.763
-- database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,499 NPCs, 7 objects
-- npc 39253 - Gnome Citizen - updated
-  - coordinates: 40 spawn points added in Ironforge
-- npc 40598 - Drag Master Miglen - updated
-  - coordinates: 3 spawn points added in Thousand Needles
-- npc 53058 - Lylagar Breath - updated
-  - coordinates: 2 spawn points added in Mount Hyjal
