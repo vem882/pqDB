@@ -31197,6 +31197,15 @@ ns.Overrides.wowhead = {
                 "north.\n\nI'm certain this is related to whatever killed all of the druids.",
             rewardMoney = 29000,
         },
+        [9970] = {
+            description = "This fight is gonna be painful, <name>. Do you have any friends that are brave " ..
+                "enough to help you out? The ogres managed to get a giant from Blade's Edge named Rokdar! " ..
+                "Trust me, you're gonna need friends, he seems unbeatable! He's hard as a rock - " ..
+                "literally!\n\nIf you still want to fight him, step into the Ring of Blood and he will " ..
+                "come.",
+            rewardItems = {{22829, 5}, {22832, 5}},
+            rewardMoney = 111000,
+        },
         [9971] = {
             description = "I have no idea what killed all of the druids here. I've been away for a couple " ..
                 "of days on a survey of the Bone Wastes to the south.\n\nPlease, you must help me to " ..

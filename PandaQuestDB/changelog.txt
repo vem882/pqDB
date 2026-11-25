@@ -2,6 +2,15 @@
 - Include distinct datasets for MoP Classic, Classic Era, TBC Anniversary and WoW Forever.
 Older data syncs: see each version's GitHub release notes and https://pd.zroot.it/changelog
 
+0.2.757
+- database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,480 NPCs, 7 objects
+- database - TBC Anniversary: data from the PandaQuest portal: 5,322 quests, 120 NPCs, 8 objects
+- npc 40599 - Rugfizzle - updated
+  - coordinates: 3 spawn points added in Thousand Needles
+- npc 68754 - Tolyria - updated
+  - NPC title added (Forgemistress)
+  - NPC level added (90)
+
 0.2.756
 - database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,478 NPCs, 7 objects
 - npc 11707 - Joy Ar'nareth - updated
@@ -80,6 +89,3 @@ Older data syncs: see each version's GitHub release notes and https://pd.zroot.i
   - coordinates: 12 spawn points added in Blasted Lands
 - npc 40231 - Hexed Troll - updated
   - coordinates: 3 spawn points added in Durotar
-
-0.2.746
-- database - TBC Anniversary: data from the PandaQuest portal: 5,321 quests, 120 NPCs, 8 objects
