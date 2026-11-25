@@ -2,6 +2,18 @@
 - Include distinct datasets for MoP Classic, Classic Era, TBC Anniversary and WoW Forever.
 Older data syncs: see each version's GitHub release notes and https://pd.zroot.it/changelog
 
+0.2.797
+- database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,567 NPCs, 8 objects
+- npc 10949 - Silver Hand Disciple - updated
+  - coordinates: 5 spawn points added in Eastern Plaguelands
+- npc 40271 - Tamed Crawler - updated
+  - coordinates: 12 spawn points added in Darkshore
+  - coordinates: 10 spawn points added in Shimmering Expanse
+- npc 50352 - Qu'nas - updated
+  - coordinates: 8 spawn points added in Krasarang Wilds
+- npc 52535 - Ecton Brasstumbler - updated
+  - coordinates: 1 spawn point added in Tanaris
+
 0.2.796
 - database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,563 NPCs, 8 objects
 - npc 24834 - Galley Chief Grace - updated
@@ -80,12 +92,3 @@ Older data syncs: see each version's GitHub release notes and https://pd.zroot.i
   - coordinates: 6 spawn points added in Tirisfal Glades
 - npc 42368 - Azsh'ir Assailant - updated
   - coordinates: 12 spawn points added in Abyssal Depths
-
-0.2.786
-- database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,544 NPCs, 7 objects
-- npc 41083 - Steelspark LX-506 - updated
-  - coordinates: 4 spawn points added in Tanaris
-- npc 51822 - Rebel Watchman - updated
-  - coordinates: 2 spawn points added in Northern Stranglethorn
-- npc 60272 - Leven Dawnblade - updated
-  - coordinates: 2 spawn points added in Vale of Eternal Blossoms
