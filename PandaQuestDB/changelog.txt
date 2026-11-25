@@ -2,6 +2,9 @@
 - Include distinct datasets for MoP Classic, Classic Era, TBC Anniversary and WoW Forever.
 Older data syncs: see each version's GitHub release notes and https://pd.zroot.it/changelog
 
+0.2.762
+- database - TBC Anniversary: data from the PandaQuest portal: 5,326 quests, 122 NPCs, 8 objects
+
 0.2.761
 - database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,496 NPCs, 7 objects
 - npc 19599 - Void Servant - updated
@@ -104,8 +107,3 @@ Older data syncs: see each version's GitHub release notes and https://pd.zroot.i
 - database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,464 NPCs, 7 objects
 - npc 48557 - High Warlord Cromush - updated
   - coordinates: 1 spawn point added in Hillsbrad Foothills
-
-0.2.751
-- database - Wowhead data as the PandaQuest portal read it: 8,261 quests, 2,463 NPCs, 7 objects
-- npc 73138 - Wrathion - updated
-  - NPC title added (The Black Prince)
